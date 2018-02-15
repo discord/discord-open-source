@@ -25,7 +25,7 @@
       "logo": "vuejs.svg",
       "title": "Vue.js",
       "quote":
-        "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...People tend to agree and the plan right now is to switch to Discord which seems to be an easier to follow product.",
+        "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
       "inviteCode": "HBherRA"
     },
     {
@@ -55,6 +55,13 @@
       "quote":
         "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
       "inviteCode": "c5DvZ4e"
+    },
+    {
+      "logo": "veutify.svg",
+      "title": "Vuetify",
+      "quote":
+        "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
+      "inviteCode": "s93b7Fv"
     }
   ]
 }
