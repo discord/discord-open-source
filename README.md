@@ -12,7 +12,7 @@ To add your project and community to the list:
 ```json
 {
   "logo": "your-logo.svg",
-  "title": "Name of your projecy",
+  "title": "Name of your project",
   "quote": "A short quote about how you use Discord for your project.",
   "inviteCode": "The public invite code to your project, usually the code after https://discord.gg/"
 }
