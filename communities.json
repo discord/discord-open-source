@@ -62,6 +62,36 @@
       "quote":
         "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
       "inviteCode": "s93b7Fv"
+    },
+    {
+      "logo": "elixir.png",
+      "title": "Elixir",
+      "inviteCode": "Ze9fAV"
+    },
+    {
+      "logo": "redux.svg",
+      "title": "Redux",
+      "inviteCode": "KWHrBDe"
+    },
+    {
+      "logo": "graphql.svg",
+      "title": "GraphQL",
+      "inviteCode": "KWHrBDe"
+    },
+    {
+      "logo": "reasonml.png",
+      "title": "ReasonML",
+      "inviteCode": "reasonml"
+    },
+    {
+      "logo": "formik.png",
+      "title": "Formik",
+      "inviteCode": "KWHrBDe"
+    },
+    {
+      "logo": "relay.svg",
+      "title": "Relay",
+      "inviteCode": "KWHrBDe"
     }
   ]
 }
