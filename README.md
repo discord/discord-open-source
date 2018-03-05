@@ -8,13 +8,14 @@ To add your project and community to the list:
   -- Logos should be 40x40 SVGs
 * Add your community to communities.json like so:
 
-
 ```json
 {
   "logo": "your-logo.svg",
   "title": "Name of your project",
-  "quote": "A short quote about how you use Discord for your project.",
-  "inviteCode": "The public invite code to your project, usually the code after https://discord.gg/"
+  "quote": "Optional: A short quote about how you use Discord for your project.",
+  "quoteSourceUrl": "Optional: An optional source for the quote.",
+  "inviteCode": "The public invite code to your project, usually the code after https://discord.gg/",
+  "githubUrl": "The URL of your Github organization or project repository."
 }
 ```
 
