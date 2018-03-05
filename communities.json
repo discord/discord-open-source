@@ -3,65 +3,61 @@
     {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
-      "quote":
-        "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
+      "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
       "inviteCode": "yarnpkg"
     },
     {
       "logo": "reactiflux.svg",
       "title": "Reactiflux",
-      "quote":
-        "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
+      "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
       "inviteCode": "KWHrBDe"
     },
     {
       "logo": "augur.svg",
       "title": "Augur",
-      "quote":
-        "Discord has many of the same features of Slack, however the... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
+      "quote": "Discord has many of the same features of Slack, however the... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
       "inviteCode": "faud6Fx"
     },
     {
       "logo": "vuejs.svg",
       "title": "Vue.js",
-      "quote":
-        "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
+      "quote": "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
       "inviteCode": "HBherRA"
     },
     {
       "logo": "opus.svg",
       "title": "Opus Foundation",
-      "quote":
-        "Opus is not the first to move from Slack to Discord; lots of companies have announced this change in the past. ...[O]ur move is motivated solely by the desire to increase security for our community, decrease the number of spammers, and make communication easier.",
+      "quote": "Opus is not the first to move from Slack to Discord; lots of companies have announced this change in the past. ...[O]ur move is motivated solely by the desire to increase security for our community, decrease the number of spammers, and make communication easier.",
       "inviteCode": "JJD5Gtz"
     },
     {
       "logo": "sia.svg",
       "title": "Sia",
-      "quote":
-        "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
+      "quote": "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
       "inviteCode": "sia"
     },
     {
       "logo": "ubiq.svg",
       "title": "Ubiq",
-      "quote":
-        "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
+      "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
       "inviteCode": "HF6vEGF"
     },
     {
       "logo": "homeasst.svg",
       "title": "Home Assistant",
-      "quote":
-        "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
+      "quote": "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
       "inviteCode": "c5DvZ4e"
     },
     {
       "logo": "vuetify.svg",
       "title": "Vuetify",
-      "quote":
-        "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
+      "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
       "inviteCode": "s93b7Fv"
+    },
+    {
+      "logo": "jest.svg",
+      "title": "Jest",
+      "inviteCode": "KWHrBDe"
     },
     {
       "logo": "elixir.png",
@@ -92,6 +88,11 @@
       "logo": "relay.svg",
       "title": "Relay",
       "inviteCode": "KWHrBDe"
+    },
+    {
+      "logo": "docusaurus.png",
+      "title": "Docusaurus",
+      "inviteCode": "docusaurus"
     }
   ]
 }
