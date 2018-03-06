@@ -48,20 +48,20 @@
       "githubUrl": "https://github.com/NebulousLabs/Sia"
     },
     {
-      "logo": "ubiq.svg",
-      "title": "Ubiq",
-      "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
-      "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
-      "inviteCode": "HF6vEGF",
-      "githubUrl": "https://github.com/ubiq"
-    },
-    {
       "logo": "homeasst.svg",
       "title": "Home Assistant",
       "quote": "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
       "quoteSourceUrl": "https://home-assistant.io/blog/2017/07/03/home-assistant-is-moving-to-discord/",
       "inviteCode": "c5DvZ4e",
       "githubUrl": "https://github.com/home-assistant"
+    },
+    {
+      "logo": "ubiq.svg",
+      "title": "Ubiq",
+      "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
+      "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
+      "inviteCode": "HF6vEGF",
+      "githubUrl": "https://github.com/ubiq"
     },
     {
       "logo": "vuetify.svg",
