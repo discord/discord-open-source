@@ -22,3 +22,5 @@ To add your project and community to the list:
 * Submit a PR with your change and, if all is OK, we'll merge it and pull it in!
 
 Thanks for being part of Discord!
+
+This list does not currently extend to Discord bots, but look forward to something for bots in the future.
