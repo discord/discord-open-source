@@ -117,6 +117,13 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "fredboat.svg",
+      "title": "FredBoat",
+      "inviteCode": "cgPFW4q",
+      "quote": "Discord is in the center of everything we do. Discord has not just created a platform for our bot to live on, it has also enabled us to connect to all our contributors, translators and users. Even with 90,000 members our community is thriving on Discord.",
+      "githubUrl": "https://github.com/Frederikam/fredboat"
     }
   ]
 }
