@@ -117,6 +117,12 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "title": "Myst Language",
+      "quote": "Discord is by far the the best place to start a fledgling community like ours with an incredibly low barrier-to-entry and beautifully simple interface, but also providing powerful tools and infrastructure to grow massively (should that ever happen) without paywalls or having to switch services.",
+      "inviteCode": "8FtMeac",
+      "githubUrl": "https://github.com/myst-lang/myst"
     }
   ]
 }
