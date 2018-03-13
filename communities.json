@@ -117,6 +117,13 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "laravel-tenancy.svg",
+      "title": "Laravel Tenancy",
+      "inviteCode": "53PWMwb",
+      "githubUrl": "https://github.com/tenancy",
+      "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be far superior then any alternative."
     }
   ]
 }
