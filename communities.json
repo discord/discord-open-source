@@ -117,6 +117,12 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "pretendo.svg",
+      "title": "Pretendo Network",
+      "inviteCode": "575U73P",
+      "githubUrl": "https://github.com/PretendoNetwork/Pretendo"
     }
   ]
 }
