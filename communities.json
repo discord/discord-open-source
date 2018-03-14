@@ -117,6 +117,12 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo":"rubicon.svg",
+      "title":"Rubicon",
+      "inviteCode":"UrHvXY9",
+      "githubUrl":"https://github.com/Rubicon-Bot/Rubicon"
     }
   ]
 }
