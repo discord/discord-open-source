@@ -117,6 +117,13 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "obs.svg",
+      "title": "Open Broadcaster Software",
+      "quote": "Discord helps the OBS project maintainers, contributors, volunteers, users and community at large keep in touch with each other in a single centralized and organized location.",
+      "inviteCode": "obsproject",
+      "githubUrl": "https://github.com/obsproject/obs-studio"
     }
   ]
 }
