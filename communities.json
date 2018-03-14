@@ -71,6 +71,13 @@
       "githubUrl": "https://github.com/vuetifyjs"
     },
     {
+      "logo": "sharex.svg",
+      "title": "ShareX",
+      "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
+      "inviteCode": "E4R3Qa9",
+      "githubUrl": "https://github.com/ShareX/ShareX"
+    },
+    {
       "logo": "jest.png",
       "title": "Jest",
       "inviteCode": "yrPdTqR",
@@ -117,12 +124,6 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
-    },
-    {
-      "logo": "sharex.svg",
-      "title": "ShareX",
-      "inviteCode": "E4R3Qa9",
-      "githubUrl": "https://github.com/ShareX/ShareX"
     }
   ]
 }
