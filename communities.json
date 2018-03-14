@@ -117,6 +117,12 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "quasar.svg",
+      "title": "Quasar",
+      "inviteCode": "5TDhbDg",
+      "githubUrl": "https://github.com/quasarframework/quasar"
     }
   ]
 }
