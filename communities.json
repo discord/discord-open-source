@@ -117,6 +117,13 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "simpleserver.png",
+      "title": "SimpleServer",
+      "quote": "We've used Discord for team communication from the beginning of the SimpleServer project, it's made development so much faster! We now use it for our various other open-source projects such as Pocketeer."
+      "inviteCode": "https://discord.gg/E2Fyg5a",
+      "githubUrl": "https://github.com/Ultz/SimpleServer"
     }
   ]
 }
