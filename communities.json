@@ -12,7 +12,7 @@
       "title": "Reactiflux",
       "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
       "quoteSourceUrl": "https://reactjs.org/blog/2015/10/19/reactiflux-is-moving-to-discord.html",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "reactiflux",
       "githubUrl": "https://github.com/reactiflux"
     },
     {
@@ -73,25 +73,25 @@
     {
       "logo": "jest.png",
       "title": "Jest",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "yrPdTqR",
       "githubUrl": "https://github.com/facebook/jest"
     },
     {
       "logo": "elixir.png",
       "title": "Elixir",
-      "inviteCode": "Ze9fAV",
+      "inviteCode": "elixir",
       "githubUrl": "https://github.com/elixir-lang"
     },
     {
       "logo": "redux.svg",
       "title": "Redux",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "aD26W3P",
       "githubUrl": "https://github.com/reactjs/redux"
     },
     {
       "logo": "graphql.svg",
       "title": "GraphQL",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "ef2h6QM",
       "githubUrl": "https://github.com/graphql"
     },
     {
@@ -103,13 +103,13 @@
     {
       "logo": "formik.png",
       "title": "Formik",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "BYTdAgs",
       "githubUrl": "https://github.com/jaredpalmer/formik"
     },
     {
       "logo": "relay.svg",
       "title": "Relay",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "A5KakZH",
       "githubUrl": "https://github.com/facebook/relay"
     },
     {
@@ -124,6 +124,13 @@
       "inviteCode": "53PWMwb",
       "githubUrl": "https://github.com/tenancy",
       "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be far superior then any alternative."
+    },
+    {
+      "logo": "obsproject.svg",
+      "title": "OBS Studio",
+      "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
+      "inviteCode": "obsproject",
+      "githubUrl": "https://github.com/obsproject/obs-studio"
     }
   ]
 }
