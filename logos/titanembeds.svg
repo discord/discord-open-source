@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="titan_discord.svg"
+   inkscape:export-filename="C:\Users\Ryan\Downloads\ponystuffs\inkscape vectors\not pony related\titan_discord.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3837">
+      <feFlood
+         flood-opacity="0.83"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3839" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3841" />
+      <feGaussianBlur
+         in="composite"
+         stdDeviation="9"
+         result="blur"
+         id="feGaussianBlur3843" />
+      <feOffset
+         dx="0"
+         dy="10"
+         result="offset"
+         id="feOffset3845" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3847" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="591.15374"
+     inkscape:cy="500.21637"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Titan Discordapp"
+     style="display:inline">
+    <rect
+       y="-8.8817842e-016"
+       x="495"
+       height="1000"
+       width="505"
+       id="rect3767"
+       style="fill:#4f6099;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#7289da;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3765"
+       width="500"
+       height="1000"
+       x="0"
+       y="-8.8817842e-016" />
+    <g
+       id="g3773"
+       style="filter:url(#filter3837)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3769"
+         d="m 500,233.29422 5,23.73858 0,317.94552 -5,16.45025 -20,-18.57143 0,-90.35714 -91.42858,-53.92857 13.21429,49.28571 53.21429,23.21429 -1.07143,257.5 c -20.6611,-80.728 -46.93544,-156.11122 -93.57143,-220.71429 l 0,-193.44614 C 420.07711,321.65083 469.55508,285.80139 500,233.29422 z"
+         style="fill:#4f6099;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#7289da;fill-opacity:1;stroke:none"
+         d="m 500,233.29422 0,358.13435 20,-18.57143 L 520,482.5 611.42858,428.57143 598.21429,477.85714 545,501.07143 l 1.07143,257.5 c 20.6611,-80.728 46.93544,-156.11122 93.57143,-220.71429 l 0,-193.44614 C 579.92289,321.65083 530.44492,285.80139 500,233.29422 z"
+         id="path3771"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+  </g>
+</svg>

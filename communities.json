@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "titanembeds.svg",
+      "title": "TitanEmbeds",
+      "quote": "Discord being widely avaliable on all major platforms and very accessible via browsers allow our team to quickly provide support for Titan users on the go.",
+      "inviteCode": "pFDDtcN",
+      "githubUrl": "https://github.com/TitanEmbeds/Titan"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
