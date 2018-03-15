@@ -124,6 +124,13 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
-    }
+    },
+    {
+      "logo": "simplyresources.svg",
+      "title": "Simply Resources",
+      "quote": "Discord helps Simply Resource's Project by collecting volunteers, and contributors to help keep our open source project resources together.",
+      "inviteCode": "8UXhhsn",
+      "githubUrl": "https://github.com/SimplyResources/StarterKit-2018"
+}
   ]
 }
