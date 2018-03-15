@@ -1,12 +1,12 @@
 {
   "data": [
-	  {
-	    "logo": "organizr.png",
-	    "title": "Organizr",
-	    "quote": "HTPC/Homelab Services Organizer - Written in PHP",
-	    "inviteCode": "TrNtY7N",
-	    "githubUrl": "https://github.com/causefx/organizr"
-	  },
+    {
+      "logo": "organizr.png",
+      "title": "Organizr",
+      "quote": "HTPC/Homelab Services Organizer - Written in PHP",
+      "inviteCode": "TrNtY7N",
+      "githubUrl": "https://github.com/causefx/organizr"
+    },
     {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
