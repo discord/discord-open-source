@@ -124,6 +124,13 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "linuxgsm.svg",
+      "title": "LinuxGSM",
+      "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup there own Linux game server. Making it easy for everyone to help and collaborate together.",
+      "inviteCode": "UM4VTpK",
+      "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
     }
   ]
 }
