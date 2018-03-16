@@ -125,5 +125,11 @@
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
     }
+    {
+      "logo": "start9.svg",
+      "title": "Start9",
+      "inviteCode": "6cpvxBS",
+      "githubUrl": "https://github.com/StartNine"
+    }
   ]
 }
