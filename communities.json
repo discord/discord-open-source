@@ -119,6 +119,12 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
+      "logo": "thorium.svg",
+      "title": "Thorium",
+      "inviteCode": "UvxTQZz",
+      "githubUrl": "https://github.com/thorium-sim/thorium"
+    },
+    {
       "logo": "obsproject.svg",
       "title": "OBS Studio",
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
