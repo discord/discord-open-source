@@ -125,5 +125,12 @@
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
     }
+    {
+      "logo": "rpcs3.svg",
+      "title": "RPCS3",
+      "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
+      "inviteCode": "bVz5e6",
+      "githubUrl": "https://github.com/RPCS3/rpcs3"
+    }
   ]
 }
