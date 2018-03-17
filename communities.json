@@ -124,6 +124,12 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "hyperium.svg",
+      "title": "Hyperium Client",
+      "inviteCode": "8GakFcT",
+      "githubUrl": "https://github.com/HyperiumClient"
     }
   ]
 }
