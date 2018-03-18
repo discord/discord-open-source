@@ -140,6 +140,12 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
+      "logo": "quasar.svg",
+      "title": "Quasar",
+      "inviteCode": "5TDhbDg",
+      "githubUrl": "https://github.com/quasarframework/quasar"
+    },
+    {
       "logo": "flarum.svg",
       "title": "Flarum",
       "quote": "Discord shines not only in terms of performance, but more so in regards to design and ux. There is no other decent communication client able to match Discord, period.",
