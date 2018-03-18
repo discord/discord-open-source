@@ -140,6 +140,13 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
+      "logo": "flarum.svg",
+      "title": "Flarum",
+      "quote": "Discord shines not only in terms of performance, but more so in regards to design and ux. There is no other decent communication client able to match Discord, period.",
+      "inviteCode": "3fnPSjA",
+      "githubUrl": "https://github.com/flarum/flarum"
+    },
+    {
       "logo": "rnfirebase.svg",
       "title": "React Native Firebase",
       "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
