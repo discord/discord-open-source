@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "organizr.png",
+      "title": "Organizr",
+      "quote": "HTPC/Homelab Services Organizer - Written in PHP",
+      "inviteCode": "TrNtY7N",
+      "githubUrl": "https://github.com/causefx/organizr"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
@@ -71,6 +78,20 @@
       "githubUrl": "https://github.com/vuetifyjs"
     },
     {
+      "logo": "hearthsim.svg",
+      "title": "HearthSim",
+      "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans.",
+      "inviteCode": "hearthsim",
+      "githubUrl": "https://github.com/HearthSim"
+    },
+    {
+      "logo": "sharex.svg",
+      "title": "ShareX",
+      "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
+      "inviteCode": "E4R3Qa9",
+      "githubUrl": "https://github.com/ShareX/ShareX"
+    },
+    {
       "logo": "jest.png",
       "title": "Jest",
       "inviteCode": "yrPdTqR",
@@ -126,11 +147,52 @@
       "githubUrl": "https://github.com/flarum/flarum"
     },
     {
+      "logo": "rnfirebase.svg",
+      "title": "React Native Firebase",
+      "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
+      "inviteCode": "C9aK28N",
+      "githubUrl": "https://github.com/invertase/react-native-firebase"
+    },
+    {
       "logo": "obsproject.svg",
       "title": "OBS Studio",
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "rigsofrods.svg",
+      "title": "Rigs of Rods",
+      "inviteCode": "rigsofrods",
+      "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods"
+    },
+    {
+      "logo": "myst.svg",
+      "title": "Myst Language",
+      "quote": "Discord is by far the the best place to start a fledgling community like ours with an incredibly low barrier-to-entry and beautifully simple interface, but also providing powerful tools and infrastructure to grow massively (should that ever happen) without paywalls or having to switch services.",
+      "inviteCode": "8FtMeac",
+      "githubUrl": "https://github.com/myst-lang/myst"
+    },
+    {
+      "logo": "nodecg.svg",
+      "title": "NodeCG",
+      "inviteCode": "NNmVz4x",
+      "githubUrl": "https://github.com/nodecg/nodecg"
+    },
+    {
+      "logo": "linuxgsm.svg",
+      "title": "LinuxGSM",
+      "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup there own Linux game server. Making it easy for everyone to help and collaborate together.",
+      "inviteCode": "UM4VTpK",
+      "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
+    },
+    {
+      "logo": "opendota.svg",
+      "title": "OpenDota",
+      "quote": "Community-maintained open source Dota 2 data platform.",
+      "quoteSourceUrl": "https://github.com/odota",
+      "inviteCode": "0o5SQGbXuWCNDcaF",
+      "githubUrl": "https://github.com/odota"
     }
   ]
 }
