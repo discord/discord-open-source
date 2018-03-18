@@ -12,7 +12,7 @@
       "title": "Reactiflux",
       "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
       "quoteSourceUrl": "https://reactjs.org/blog/2015/10/19/reactiflux-is-moving-to-discord.html",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "reactiflux",
       "githubUrl": "https://github.com/reactiflux"
     },
     {
@@ -78,27 +78,34 @@
       "githubUrl": "https://github.com/HearthSim"
     },
     {
+      "logo": "sharex.svg",
+      "title": "ShareX",
+      "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
+      "inviteCode": "E4R3Qa9",
+      "githubUrl": "https://github.com/ShareX/ShareX"
+    },
+    {
       "logo": "jest.png",
       "title": "Jest",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "yrPdTqR",
       "githubUrl": "https://github.com/facebook/jest"
     },
     {
       "logo": "elixir.png",
       "title": "Elixir",
-      "inviteCode": "Ze9fAV",
+      "inviteCode": "elixir",
       "githubUrl": "https://github.com/elixir-lang"
     },
     {
       "logo": "redux.svg",
       "title": "Redux",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "aD26W3P",
       "githubUrl": "https://github.com/reactjs/redux"
     },
     {
       "logo": "graphql.svg",
       "title": "GraphQL",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "ef2h6QM",
       "githubUrl": "https://github.com/graphql"
     },
     {
@@ -110,13 +117,13 @@
     {
       "logo": "formik.png",
       "title": "Formik",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "BYTdAgs",
       "githubUrl": "https://github.com/jaredpalmer/formik"
     },
     {
       "logo": "relay.svg",
       "title": "Relay",
-      "inviteCode": "KWHrBDe",
+      "inviteCode": "A5KakZH",
       "githubUrl": "https://github.com/facebook/relay"
     },
     {
@@ -124,6 +131,21 @@
       "title": "Docusaurus",
       "inviteCode": "docusaurus",
       "githubUrl": "https://github.com/facebook/Docusaurus"
+    },
+    {
+      "logo": "obsproject.svg",
+      "title": "OBS Studio",
+      "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
+      "inviteCode": "obsproject",
+      "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "opendota.svg",
+      "title": "OpenDota",
+      "quote": "Community-maintained open source Dota 2 data platform.",
+      "quoteSourceUrl": "https://github.com/odota",
+      "inviteCode": "0o5SQGbXuWCNDcaF",
+      "githubUrl": "https://github.com/odota"
     }
   ]
 }
