@@ -147,6 +147,12 @@
       "githubUrl": "https://github.com/obsproject/obs-studio"
     },
     {
+      "logo": "nodecg.svg",
+      "title": "NodeCG",
+      "inviteCode": "NNmVz4x",
+      "githubUrl": "https://github.com/nodecg/nodecg"
+    },
+    {
       "logo": "linuxgsm.svg",
       "title": "LinuxGSM",
       "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup there own Linux game server. Making it easy for everyone to help and collaborate together.",
