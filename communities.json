@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "organizr.png",
+      "title": "Organizr",
+      "quote": "HTPC/Homelab Services Organizer - Written in PHP",
+      "inviteCode": "TrNtY7N",
+      "githubUrl": "https://github.com/causefx/organizr"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
@@ -133,6 +140,13 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
+      "logo": "flarum.svg",
+      "title": "Flarum",
+      "quote": "Discord shines not only in terms of performance, but more so in regards to design and ux. There is no other decent communication client able to match Discord, period.",
+      "inviteCode": "3fnPSjA",
+      "githubUrl": "https://github.com/flarum/flarum"
+    },
+    {
       "logo": "rnfirebase.svg",
       "title": "React Native Firebase",
       "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
@@ -145,6 +159,12 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "rigsofrods.svg",
+      "title": "Rigs of Rods",
+      "inviteCode": "rigsofrods",
+      "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods"
     },
     {
       "logo": "myst.svg",
@@ -173,6 +193,13 @@
       "quoteSourceUrl": "https://github.com/odota",
       "inviteCode": "0o5SQGbXuWCNDcaF",
       "githubUrl": "https://github.com/odota"
+    },
+    {
+      "logo": "rpcs3.svg",
+      "title": "RPCS3",
+      "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
+      "inviteCode": "bVz5e6",
+      "githubUrl": "https://github.com/RPCS3/rpcs3"
     },
     {
 	    "logo": "curiositydev.svg",
