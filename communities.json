@@ -71,6 +71,13 @@
       "githubUrl": "https://github.com/vuetifyjs"
     },
     {
+      "logo": "hearthsim.svg",
+      "title": "HearthSim",
+      "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans.",
+      "inviteCode": "hearthsim",
+      "githubUrl": "https://github.com/HearthSim"
+    },
+    {
       "logo": "sharex.svg",
       "title": "ShareX",
       "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
