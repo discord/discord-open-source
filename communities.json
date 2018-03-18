@@ -140,6 +140,13 @@
       "githubUrl": "https://github.com/obsproject/obs-studio"
     },
     {
+      "logo": "linuxgsm.svg",
+      "title": "LinuxGSM",
+      "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup there own Linux game server. Making it easy for everyone to help and collaborate together.",
+      "inviteCode": "UM4VTpK",
+      "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
+    },
+    {
       "logo": "opendota.svg",
       "title": "OpenDota",
       "quote": "Community-maintained open source Dota 2 data platform.",
