@@ -131,6 +131,14 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
       "inviteCode": "obsproject",
       "githubUrl": "https://github.com/obsproject/obs-studio"
+    },
+    {
+      "logo": "opendota.svg",
+      "title": "OpenDota",
+      "quote": "Community-maintained open source Dota 2 data platform.",
+      "quoteSourceUrl": "https://github.com/odota",
+      "inviteCode": "0o5SQGbXuWCNDcaF",
+      "githubUrl": "https://github.com/odota"
     }
   ]
 }
