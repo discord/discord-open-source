@@ -202,11 +202,11 @@
       "githubUrl": "https://github.com/RPCS3/rpcs3"
     },
     {
-	    "logo": "curiositydev.svg",
-	    "title": "CuriosityDev",
+      "logo": "curiositydev.svg",
+      "title": "CuriosityDev",
       "quote": "A group of open-source developers making whatever they feel like making.",
-	    "inviteCode": "3jBkJRZ",
-	    "githubUrl": "https://github.com/CuriosityDev"
-	  }
+      "inviteCode": "3jBkJRZ",
+      "githubUrl": "https://github.com/CuriosityDev"
+    }
   ]
 }
