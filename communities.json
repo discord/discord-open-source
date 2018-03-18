@@ -133,6 +133,13 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
+      "logo": "rnfirebase.svg",
+      "title": "React Native Firebase",
+      "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
+      "inviteCode": "C9aK28N",
+      "githubUrl": "https://github.com/invertase/react-native-firebase"
+    },
+    {
       "logo": "obsproject.svg",
       "title": "OBS Studio",
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
