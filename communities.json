@@ -71,6 +71,20 @@
       "githubUrl": "https://github.com/vuetifyjs"
     },
     {
+      "logo": "hearthsim.svg",
+      "title": "HearthSim",
+      "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans.",
+      "inviteCode": "hearthsim",
+      "githubUrl": "https://github.com/HearthSim"
+    },
+    {
+      "logo": "sharex.svg",
+      "title": "ShareX",
+      "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
+      "inviteCode": "E4R3Qa9",
+      "githubUrl": "https://github.com/ShareX/ShareX"
+    },
+    {
       "logo": "jest.png",
       "title": "Jest",
       "inviteCode": "yrPdTqR",
@@ -131,6 +145,14 @@
       "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup there own Linux game server. Making it easy for everyone to help and collaborate together.",
       "inviteCode": "UM4VTpK",
       "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
+    },
+    {
+      "logo": "opendota.svg",
+      "title": "OpenDota",
+      "quote": "Community-maintained open source Dota 2 data platform.",
+      "quoteSourceUrl": "https://github.com/odota",
+      "inviteCode": "0o5SQGbXuWCNDcaF",
+      "githubUrl": "https://github.com/odota"
     }
   ]
 }
