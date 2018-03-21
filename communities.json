@@ -199,13 +199,20 @@
       "quoteSourceUrl": "https://github.com/odota",
       "inviteCode": "0o5SQGbXuWCNDcaF",
       "githubUrl": "https://github.com/odota"
-    }
+    },
     {
       "logo": "rpcs3.svg",
       "title": "RPCS3",
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "ignis-lang.svg",
+      "title": "The Ignis Programming Language",
+      "quote": "Ignis is an Open Source Procedural Programming Language with hints of Event-Driven features. Discord creates a unique environment for collaborators and developers to share thoughts and ideas regarding the open project.",
+      "inviteCode": "cSmYRZ3",
+      "githubUrl": "https://github.com/BenBeehler/Ignis-Lang"
     }
   ]
 }
