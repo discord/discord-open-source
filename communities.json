@@ -31,6 +31,14 @@
       "githubUrl": "https://github.com/AugurProject"
     },
     {
+      "logo": "citra.svg",
+      "title": "Citra",
+      "quote": "",
+      "quoteSourceUrl": "",
+      "inviteCode": "FAXfZV9",
+      "githubUrl": "https://github.com/citra-emu"
+    },
+    {
       "logo": "vuejs.svg",
       "title": "Vue.js",
       "quote": "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
