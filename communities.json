@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "gomint.png",
+      "title": "GoMint",
+      "quote": "Minecraft Bedrock / Pocket Edition server software. Written in Java so most Minecraft Java Edition developers can write plugins with ease",
+      "inviteCode": "qC4nJVN",
+      "githubUrl": "https://github.com/GoMint/GoMint"
+    },
+    {
       "logo": "organizr.png",
       "title": "Organizr",
       "quote": "HTPC/Homelab Services Organizer - Written in PHP",
