@@ -206,6 +206,14 @@
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "opencad.svg",
+      "title": "OpenCAD",
+      "quote": "Discord gives us the ability to actively engage our community in real-time.",
+      "quoteSourceUrl": "https://opencad.io/supporters/",
+      "inviteCode": "ufBBmaN",
+      "githubUrl": "https://github.com/StormlightTech/OpenCAD-php"
     }
   ]
 }
