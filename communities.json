@@ -207,5 +207,12 @@
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
     }
+    {
+      "logo": "rlme-dark.png",
+      "title": "RATELIMITED",
+      "quote": "Using Discord for our communications and authentication proceidures has been a delightful experience. We're able to provide support at any given time through Discord if one needs it.",
+      "inviteCode": "9bbDRHP",
+      "githubUrl": "https://github.com/RatelimitedME"
+    }  
   ]
 }
