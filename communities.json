@@ -160,7 +160,7 @@
       "githubUrl": "https://github.com/obsproject/obs-studio"
     },
     {
-      "logo": "rigsofrods.svg",
+      "logo": "rigsofrods.png",
       "title": "Rigs of Rods",
       "inviteCode": "rigsofrods",
       "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods"
@@ -209,7 +209,7 @@
       "githubUrl": "https://github.com/semuxproject/"
     },
     {
-      "logo": "hyperium-svg.png",
+      "logo": "hyperium.png",
       "title": "Hyperium Client",
       "inviteCode": "8GakFcT",
       "githubUrl": "https://github.com/HyperiumClient"
