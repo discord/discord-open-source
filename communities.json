@@ -214,6 +214,12 @@
       "quoteSourceUrl": "https://www.semux.org/",
       "inviteCode": "9yJGkr3",
       "githubUrl": "https://github.com/semuxproject/"
+    },
+    {
+      "logo": "hyperium-svg.png",
+      "title": "Hyperium Client",
+      "inviteCode": "8GakFcT",
+      "githubUrl": "https://github.com/HyperiumClient"
     }
   ]
 }
