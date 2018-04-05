@@ -199,13 +199,21 @@
       "quoteSourceUrl": "https://github.com/odota",
       "inviteCode": "0o5SQGbXuWCNDcaF",
       "githubUrl": "https://github.com/odota"
-    }
+    },
     {
       "logo": "rpcs3.svg",
       "title": "RPCS3",
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "semux.svg",
+      "title": "Semux",
+      "quote": "Semux is an innovative high-performance blockchain platform powered by Semux BFT consensus algorithm.",
+      "quoteSourceUrl": "https://www.semux.org/",
+      "inviteCode": "9yJGkr3",
+      "githubUrl": "https://github.com/semuxproject/"
     }
   ]
 }
