@@ -206,6 +206,13 @@
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "chattriggers.svg",
+      "title": "ChatTriggers",
+      "quote": "Discord allows us to communicate effectively with our users, allowing for everyone to contribute to the development and progression of our open source project.",
+      "inviteCode": "0fNjZyopOvBHZyG8",
+      "githubUrl": "https://github.com/ChatTriggers"
     }
   ]
 }
