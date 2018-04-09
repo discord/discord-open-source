@@ -220,6 +220,13 @@
       "quote": "HTPC/Homelab Services Organizer - Written in PHP",
       "inviteCode": "TrNtY7N",
       "githubUrl": "https://github.com/causefx/organizr"
+    },
+    {
+      "logo": "riiconnect24.svg",
+      "title": "RiiConnect24",
+      "quote": "Discord is by far the best chat service around. We have grown a close-knit community with it, and everyone enjoys using it.",
+      "inviteCode": "b4Y7jfD",
+      "githubUrl": "https://github.com/RiiConnect24"
     }
   ]
 }
