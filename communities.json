@@ -234,6 +234,13 @@
       "quote": "We use Discord as the primary platform for our project to collaborate on and share our database entry system whilst gaining instant feedback through the great amount of members within the active coding community. We are able to enhance and develop our project on a weekly basis by directly contacting the users involved of which has allowed us to create a method between the community and developers a chance for all users to contribute along with the ease of use regardless of Node.js Development knowledge.  We have created a user-friendly database entry system with a quick and resourceful team to assist those who need guidance.",
       "inviteCode": "8nrEqvP",
       "githubUrl": "https://github.com/Plexi-Development/quick.db"
+    },
+    {
+      "logo": "pterodactyl.png",
+      "title": "Pterodactyl",
+      "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!",
+      "inviteCode": "QRDZvVm",
+      "githubUrl": "https://github.com/pterodactyl"
     }
   ]
 }
