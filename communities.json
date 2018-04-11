@@ -241,6 +241,13 @@
       "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!",
       "inviteCode": "QRDZvVm",
       "githubUrl": "https://github.com/pterodactyl"
+    },
+    {
+      "logo": "openSUSE.svg",
+      "title": "openSUSE",
+      "quote": "openSUSE is community based project, so when community brought up idea of Discord server, it only made sense to create one. We try our best to help people with all their tech support needs, as well as enable people to contribute in many different ways. It's our mission to keep openSUSE community based, and growing it through more platforms lets us focus on understanding users more, so we can adjust and grow.",
+      "inviteCode": "jgNvbSq",
+      "githubUrl": "https://github.com/openSUSE"
     }
   ]
 }
