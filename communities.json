@@ -194,13 +194,6 @@
       "githubUrl": "https://github.com/odota"
     },
     {
-      "logo": "rpcs3.svg",
-      "title": "RPCS3",
-      "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
-      "inviteCode": "bVz5e6",
-      "githubUrl": "https://github.com/RPCS3/rpcs3"
-    },
-    {
       "logo": "semux.svg",
       "title": "Semux",
       "quote": "Semux is an innovative high-performance blockchain platform powered by Semux BFT consensus algorithm.",
@@ -248,6 +241,13 @@
       "quote": "openSUSE is a community based project. When the community brought up the idea of a Discord server, it only made sense to create one. We try our best to help people with all their tech support needs and enable people to contribute in many different ways. It's our mission to keep openSUSE community focused and growing. Utilising many platforms lets us focus on understanding users more so we can adjust and grow.",
       "inviteCode": "jgNvbSq",
       "githubUrl": "https://github.com/openSUSE"
+    },
+    {
+      "logo": "translucenttb.svg",
+      "title": "TranslucentTB",
+      "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
+      "inviteCode": "w95DGTK",
+      "githubUrl": "https://github.com/TranslucentTB"
     }
   ]
 }
