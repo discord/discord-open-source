@@ -248,6 +248,13 @@
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
       "inviteCode": "w95DGTK",
       "githubUrl": "https://github.com/TranslucentTB"
+    },
+    {
+      "logo": "rpcs3.svg",
+      "title": "RPCS3",
+      "quote": "RPCS3 is the world's first PlayStation 3 emulator. Discord is a great platform for us to provide support for our users, collaborate with contributors and discuss development with our patrons.",
+      "inviteCode": "a6zm2T8",
+      "githubUrl": "https://github.com/RPCS3/rpcs3"
     }
   ]
 }
