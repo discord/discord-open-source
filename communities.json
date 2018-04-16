@@ -243,6 +243,13 @@
       "githubUrl": "https://github.com/openSUSE"
     },
     {
+      "logo": "fedora.svg",
+      "title": "Fedora",
+      "quote": "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you do useful stuff with it. Our four foundations are Freedom, Friends, Features, and First. Discord is one of the networks that helps enable the Friends to connect.",
+      "inviteCode": "fedora",
+      "githubUrl": "https://fedoraproject.org"
+    },
+    {
       "logo": "translucenttb.svg",
       "title": "TranslucentTB",
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
