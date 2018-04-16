@@ -255,6 +255,14 @@
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. Discord is a great platform for us to provide support for our users, collaborate with contributors and discuss development with our patrons.",
       "inviteCode": "a6zm2T8",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "brave.png",
+      "title": "Brave Browser",
+      "quote": "Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.",
+      "quoteSourceUrl": "https://brave.com",
+      "inviteCode": "k57tYrS",
+      "githubUrl": "https://github.com/brave/browser-laptop"
     }
   ]
 }
