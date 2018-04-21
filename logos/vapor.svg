@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vapor</title>
+    <desc>Vapor droplet in white.</desc>
+    <defs></defs>
+    <path 
+    	d="M35.9139292,69 C35.9139292,69 59.905,39.1012819 59.905,25.9010799 C59.905,12.700878 49.1811005,2 35.9525,2 C22.7238995,2 12,12.700878 12,25.9010799 C12,39.1012819 35.9139292,69 35.9139292,69 Z" 
+    	id="droplet" 
+    	transform="translate(35.952500, 35.500000) scale(-1, 1) rotate(-180.000000) translate(-35.952500, -35.500000)"
+    	fill="#FFFFFF" 
+    ></path>
+</svg>
