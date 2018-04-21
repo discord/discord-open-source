@@ -270,6 +270,14 @@
       "quoteSourceUrl": "https://brave.com",
       "inviteCode": "k57tYrS",
       "githubUrl": "https://github.com/brave/browser-laptop"
+    },
+    {
+      "logo": "vapor.svg",
+      "title": "Vapor",
+      "quote": "Creating modular server side software with Swift.",
+      "quoteSourceUrl": "http://vapor.codes",
+      "inviteCode": "VTn3wvp",
+      "githubUrl": "https://github.com/vapor/vapor"
     }
   ]
 }
