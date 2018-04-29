@@ -278,6 +278,13 @@
       "quoteSourceUrl": "http://vapor.codes",
       "inviteCode": "BnXmVGA",
       "githubUrl": "https://github.com/vapor/vapor"
+    },
+    {
+      "logo": "buildcraft.png",
+      "title": "BuildCraft",
+      "quote": "Discord has allowed us to get the community organized again, offering support, talking about the future of the mod and much more.",
+      "inviteCode": "BuildCraft",
+      "githubUrl": "https://github.com/BuildCraft/BuildCraft"
     }
   ]
 }
