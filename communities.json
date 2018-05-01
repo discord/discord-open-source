@@ -285,6 +285,14 @@
       "quote": "Discord has allowed us to get the community organized again, offering support, talking about the future of the mod and much more.",
       "inviteCode": "BuildCraft",
       "githubUrl": "https://github.com/BuildCraft/BuildCraft"
+    },
+    {
+      "logo": "luckperms.svg",
+      "title": "LuckPerms",
+      "quote": "We use Discord to provide help and support, as well as for chatting to users about upcoming updates and the process of contributing to the project!",
+      "quoteSourceUrl": "https://luckperms.github.io/",
+      "inviteCode": "W3FzxHA",
+      "githubUrl": "https://github.com/lucko/LuckPerms"
     }
   ]
 }
