@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "logo": "akromalogo.png",
+      "title": "Akroma",
+      "inviteCode": "UJxkpSx",
+      "githubUrl": "https://github.com/akroma-project/akroma"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
