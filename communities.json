@@ -293,6 +293,13 @@
       "githubUrl": "https://github.com/BuildCraft/BuildCraft"
     },
     {
+      "logo": "tachiyomi.svg",
+      "title": "Tachiyomi",
+      "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
+      "inviteCode": "2dDQBv2",
+      "githubUrl": "https://github.com/inorichi/tachiyomi"
+    },
+    {
       "logo": "luckperms.svg",
       "title": "LuckPerms",
       "quote": "We use Discord to provide help and support, as well as for chatting to users about upcoming updates and the process of contributing to the project!",
