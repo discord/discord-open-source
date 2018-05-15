@@ -306,6 +306,14 @@
       "title": "Akroma",
       "inviteCode": "UJxkpSx",
       "githubUrl": "https://github.com/akroma-project/akroma"
+    },
+    {
+      "logo": "lbry.png",
+      "title": "LBRY",
+      "quote": "LBRY is a free, open, and community-run digital marketplace,You own your data. You control the network. Indeed, you are the network, Hollywood films, college lessons, amazing streamers and more are on the first media network ruled by you!",
+      "quoteSourceUrl": "https://lbry.io",
+      "inviteCode": "Z3bERWA",
+      "githubUrl": "https://github.com/lbryio/"
     }
   ]
 }
