@@ -306,6 +306,12 @@
       "title": "Akroma",
       "inviteCode": "UJxkpSx",
       "githubUrl": "https://github.com/akroma-project/akroma"
+    },
+    {
+      "logo": "gitea.svg",
+      "title": "Gitea",
+      "inviteCode": "sRC9wMU",
+      "githubUrl": "https://github.com/go-gitea/gitea"
     }
   ]
 }
