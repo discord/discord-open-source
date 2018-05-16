@@ -320,6 +320,14 @@
       "quoteSourceUrl": "https://lbry.io",
       "inviteCode": "Z3bERWA",
       "githubUrl": "https://github.com/lbryio/"
+    },
+    {
+      "logo": "Ravencoin.png",
+      "title": "Ravencoin",
+      "quote": "Ravencoin is completely open source, community orientated and run its main purpose is to have a case specific blockchain to show who owns what asset.",
+      "quoteSourceUrl": "https://ravencoin.org",
+      "inviteCode": "44APdew",
+      "githubUrl": "https://github.com/RavenProject"
     }
   ]
 }
