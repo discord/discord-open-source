@@ -336,6 +336,14 @@
       "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
       "inviteCode": "BtnTPFF",
       "githubUrl": "https://github.com/dylanaraps/neofetch"
+    },
+    {
+      "logo": "pywal.png",
+      "title": "pywal",
+      "quote": "Pywal is a tool that generates a color palette from the dominant colors in an image. It then applies the colors system-wide and on-the-fly in all of your favourite programs.",
+      "quoteSourceUrl": "https://github.com/dylanaraps/pywal",
+      "inviteCode": "fK3RhsD",
+      "githubUrl": "https://github.com/dylanaraps/pywal"
     }
   ]
 }
