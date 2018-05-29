@@ -21,6 +21,7 @@ While this list does not currently extend to Discord bots, look forward to somet
 
     * Logo dimensions should be either `72x72` for SVG or `144x144` for PNG.
     * Logo should be minified.
+    * Logo should be monochromatic and white (check [the website](https://discordapp.com/open-source) for examples)
     * SVGs should contain only vector shapes — no raster graphics.
 
 3.  Add your community to [`communities.json`](https://github.com/discordapp/discord-open-source/blob/master/communities.json), like so:
