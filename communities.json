@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "manifest_life.png",
+      "title": "Manifest Life",
+      "quote": "Optional: Apart of an ecosystem fostering the future generation of Leaders.",
+      "inviteCode": "jV34K2F",
+      "githubUrl": "https://github.com/manifestlifeinc"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
