@@ -352,6 +352,14 @@
       "quoteSourceUrl": "https://github.com/JustArchi/ArchiSteamFarm",
       "inviteCode": "hSQgt8j",
       "githubUrl": "https://github.com/JustArchi/ArchiSteamFarm"
+    },
+    {
+      "logo": "blink.png",
+      "title": "Blink",
+      "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
+      "quoteSourceUrl": "http://blink.sh",
+      "inviteCode": "ZTtMfvK",
+      "githubUrl": "http://github.com/blinksh/blink"
     }
   ]
 }
