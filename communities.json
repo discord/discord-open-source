@@ -356,7 +356,7 @@
     {
       "logo": "blink.png",
       "title": "Blink",
-      "quote": "The PRO terminal for iOS. Fast mosh and ssh client. Support of many linux command line tools.",
+      "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
       "quoteSourceUrl": "http://blink.sh",
       "inviteCode": "ZTtMfvK",
       "githubUrl": "http://github.com/blinksh/blink"
