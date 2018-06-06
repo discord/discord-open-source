@@ -360,6 +360,14 @@
       "quoteSourceUrl": "http://blink.sh",
       "inviteCode": "ZTtMfvK",
       "githubUrl": "http://github.com/blinksh/blink"
+    },
+    {
+      "logo": "vertcoin.png",
+      "title": "Vertcoin",
+      "quote": "A digital currency with mining decentralisation and ASIC resistance as a key focus.",
+      "quoteSourceUrl": "https://github.com/vertcoin-project/vertcoin-core",
+      "inviteCode": "vertcoin",
+      "githubUrl": "https://github.com/vertcoin-project"
     }
   ]
 }
