@@ -368,6 +368,14 @@
       "quoteSourceUrl": "https://github.com/vertcoin-project/vertcoin-core",
       "inviteCode": "vertcoin",
       "githubUrl": "https://github.com/vertcoin-project"
+    },
+    {
+      "logo": "nano.png",
+      "title": "Nano Currency",
+      "quote": "Digital currency for the real world – the fast and free way to pay for everything in life.",
+      "quoteSourceUrl": "https://nano.org/en",
+      "inviteCode": "JphbBas",
+      "githubUrl": "https://github.com/nanocurrency/raiblocks"
     }
   ]
 }
