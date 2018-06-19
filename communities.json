@@ -376,6 +376,14 @@
       "quoteSourceUrl": "https://nano.org/en",
       "inviteCode": "JphbBas",
       "githubUrl": "https://github.com/nanocurrency/raiblocks"
+    },
+    {
+      "logo": "adonis.svg",
+      "title": "Adonis",
+      "quote": "NodeJs Web Application Framework. Makes it easy for you to write webapps with less code smiley",
+      "quoteSourceUrl": "https://github.com/adonisjs/adonis-framework",
+      "inviteCode": "86weBr",
+      "githubUrl": "https://github.com/adonisjs/"
     }
   ]
 }
