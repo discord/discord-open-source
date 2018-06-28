@@ -391,6 +391,13 @@
       "quoteSourceURL": "https://www.pivx.org",
       "inviteCode": "ktYKb32",
       "githubUrl": "https://github.com/pivx-project"
+    },
+    {
+      "logo": "spongepowered.png",
+      "title": "SpongePowered",
+      "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
+      "inviteCode": "PtaGRAs",
+      "githubUrl": "https://github.com/spongepowered"
     }
   ]
 }
