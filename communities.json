@@ -383,6 +383,13 @@
       "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community.",
       "inviteCode": "k5myGAz",
       "githubUrl": "https://github.com/adonisjs"
+    },
+    {
+      "logo": "spongepowered.png",
+      "title": "SpongePowered",
+      "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
+      "inviteCode": "PtaGRAs",
+      "githubUrl": "https://github.com/spongepowered"
     }
   ]
 }
