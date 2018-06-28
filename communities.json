@@ -385,6 +385,14 @@
       "githubUrl": "https://github.com/adonisjs"
     },
     {
+      "logo": "pivx.png",
+      "title": "PIVX",
+      "quote": "Private Instant Verified Transaction (PIVX), a digital currency focused on privacy and fast transactions uses Discord as a platform to engage with our users",
+      "quoteSourceURL": "https://www.pivx.org",
+      "inviteCode": "ktYKb32",
+      "githubUrl": "https://github.com/pivx-project"
+    },
+    {
       "logo": "spongepowered.png",
       "title": "SpongePowered",
       "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
