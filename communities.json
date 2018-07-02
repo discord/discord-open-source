@@ -398,6 +398,13 @@
       "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
       "inviteCode": "PtaGRAs",
       "githubUrl": "https://github.com/spongepowered"
+    },
+    {
+      "logo": "rainmeter.svg",
+      "title": "Rainmeter",
+      "quote": "Discord makes it easy for us to communicate with, help out, and grow our community.",
+      "inviteCode": "Rainmeter",
+      "githubUrl": "https://github.com/rainmeter/rainmeter"
     }
   ]
 }
