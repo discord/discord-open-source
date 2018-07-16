@@ -405,6 +405,13 @@
       "quote": "Discord makes it easy for us to communicate with, help out, and grow our community.",
       "inviteCode": "Rainmeter",
       "githubUrl": "https://github.com/rainmeter/rainmeter"
+    },
+    {
+      "logo": "luvit.png",
+      "title": "Luvit",
+      "quote": "Discord helped us organize the Luvit community and made it easier for people to find and contribute to Luvit",
+      "inviteCode": "dHJnxqU",
+      "githubUrl": "https://github.com/luvit/luvit"
     }
   ]
 }
