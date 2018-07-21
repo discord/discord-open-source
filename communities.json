@@ -97,6 +97,14 @@
       "githubUrl": "https://github.com/elixir-lang"
     },
     {
+      "logo": "ubiq.svg",
+      "title": "EtherGem",
+      "quote": "Ethergem is the foundational currency platform with an integrated subchain, and featureset.",
+      "quoteSrc": "https://egem.io",
+      "inviteCode": "zav3EkW",
+      "githubUrl": "https://github.com/TeamEGEM"
+    },
+    {
       "logo": "redux.svg",
       "title": "Redux",
       "inviteCode": "aD26W3P",
