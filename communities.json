@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "lindacoin.png",
+      "title": "Lindacoin",
+      "quote": "Lindacoin is a peer to peer hybrid digital currency. It creates utility products that allow Linda to be used in everyday scenarios. It also offers partnership opportunities to other cryptocurrencies to use the Lindacoin platform. Lindacoin offers a scamfree token platform.",
+      "inviteCode": "SHNjQBv",
+      "githubUrl": "https://github.com/Lindacoin"
+    },
+	{
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
