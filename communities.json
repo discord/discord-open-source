@@ -435,6 +435,14 @@
       "quoteSourceUrl": "https://rupx.io.",
       "inviteCode": "tJ3UWSP",
       "githubUrl": "https://github.com/rupaya-project/rupaya"
+    },
+    {
+      "logo": "gentoo.png",
+      "title": "Gentoo Linux",
+      "quote": "Gentoo Linux is free operating system based or Linux or FreeBSD that can be automatically optimized and customized for just about any application or need.",
+      "quoteSourceUrl": "https://www.gentoo.org/",
+      "inviteCode": "QNMGcB6",
+      "githubUrl": "https://github.com/gentoo"
     }
   ]
 }
