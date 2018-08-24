@@ -443,6 +443,14 @@
       "quoteSourceUrl": "https://www.gentoo.org/",
       "inviteCode": "QNMGcB6",
       "githubUrl": "https://github.com/gentoo"
+    },
+    {
+      "logo": "librenms.svg",
+      "title": "LibreNMS",
+      "quote": "Discord has improved our community's communication allowing us to continue to scale our community for this fully featured network monitoring system.",
+      "quoteSourceUrl": "https://www.librenms.org",
+      "inviteCode": "V8s5JZJ",
+      "githubUrl": "https://github.com/librenms/librenms"
     }
   ]
 }
