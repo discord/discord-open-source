@@ -443,6 +443,14 @@
       "quoteSourceUrl": "https://www.gentoo.org/",
       "inviteCode": "QNMGcB6",
       "githubUrl": "https://github.com/gentoo"
+    },
+    {
+      "logo": "librenms.svg",
+      "title": "LibreNMS",
+      "quote": "Discord has improved communication allowing LibreNMS to continue to scale the community of this fully featured network monitoring system. A low barrier to entry and a bridge to IRC have made it easier than ever for LibreNMS users to collaborate, helping each other with great features like code highlighting, screen sharing, and voice communication.",
+      "quoteSourceUrl": "https://www.librenms.org",
+      "inviteCode": "V8s5JZJ",
+      "githubUrl": "https://github.com/librenms/librenms"
     }
   ]
 }
