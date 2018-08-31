@@ -421,12 +421,36 @@
       "inviteCode": "zav3EkW",
       "githubUrl": "https://github.com/TeamEGEM"
     },
-	{
+	  {
       "logo": "lindacoin.png",
       "title": "Lindacoin",
       "quote": "Lindacoin is a peer to peer hybrid digital currency. It creates utility products that allow Linda to be used in everyday scenarios. It also offers partnership opportunities to other cryptocurrencies to use the Lindacoin platform. Lindacoin offers a scamfree token platform.",
       "inviteCode": "SHNjQBv",
       "githubUrl": "https://github.com/TheLindaProjectInc"
+    },
+    {
+      "logo": "rupaya.png",
+      "title": "Rupaya",
+      "quote": "Optional: Built for South Asia,With native currency exchange, we make our digital crypto asset RUPX accessible to ordinary users and merchants.",
+      "quoteSourceUrl": "https://rupx.io.",
+      "inviteCode": "tJ3UWSP",
+      "githubUrl": "https://github.com/rupaya-project/rupaya"
+    },
+    {
+      "logo": "gentoo.png",
+      "title": "Gentoo Linux",
+      "quote": "Gentoo Linux is free operating system based or Linux or FreeBSD that can be automatically optimized and customized for just about any application or need.",
+      "quoteSourceUrl": "https://www.gentoo.org/",
+      "inviteCode": "QNMGcB6",
+      "githubUrl": "https://github.com/gentoo"
+    },
+    {
+      "logo": "librenms.svg",
+      "title": "LibreNMS",
+      "quote": "Discord has improved communication allowing LibreNMS to continue to scale the community of this fully featured network monitoring system. A low barrier to entry and a bridge to IRC have made it easier than ever for LibreNMS users to collaborate, helping each other with great features like code highlighting, screen sharing, and voice communication.",
+      "quoteSourceUrl": "https://www.librenms.org",
+      "inviteCode": "V8s5JZJ",
+      "githubUrl": "https://github.com/librenms/librenms"
     }
   ]
 }
