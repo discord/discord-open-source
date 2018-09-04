@@ -32,14 +32,6 @@
       "githubUrl": "https://github.com/vuejs"
     },
     {
-      "logo": "opus.svg",
-      "title": "Opus Foundation",
-      "quote": "Opus is not the first to move from Slack to Discord; lots of companies have announced this change in the past. ...[O]ur move is motivated solely by the desire to increase security for our community, decrease the number of spammers, and make communication easier.",
-      "quoteSourceUrl": "https://medium.com/@info_62555/were-moving-to-discord-fb37b58a8386",
-      "inviteCode": "JJD5Gtz",
-      "githubUrl": "https://github.com/Opus-foundation/"
-    },
-    {
       "logo": "sia.svg",
       "title": "Sia",
       "quote": "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
