@@ -443,6 +443,13 @@
       "quoteSourceUrl": "https://www.librenms.org",
       "inviteCode": "V8s5JZJ",
       "githubUrl": "https://github.com/librenms/librenms"
+    }, {
+      "logo": "vue-material.svg",
+      "title": "Vue Material",
+      "quote": "Build beautiful apps with Material Design and Vue.js.",
+      "quoteSourceUrl": "https://vuematerial.io",
+      "inviteCode": "rgcmTtm",
+      "githubUrl": "https://github.com/vuematerial/vue-material"
     }
   ]
 }
