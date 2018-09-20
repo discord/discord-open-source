@@ -443,13 +443,22 @@
       "quoteSourceUrl": "https://www.librenms.org",
       "inviteCode": "V8s5JZJ",
       "githubUrl": "https://github.com/librenms/librenms"
-    }, {
+    },
+    {
       "logo": "vue-material.svg",
       "title": "Vue Material",
       "quote": "Build beautiful apps with Material Design and Vue.js.",
       "quoteSourceUrl": "https://vuematerial.io",
       "inviteCode": "vuematerial",
       "githubUrl": "https://github.com/vuematerial/vue-material"
+    },
+    {
+      "logo": "jetbrains.png",
+      "title": "JetBrains",
+      "quote": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language.",
+      "quoteSourceUrl": "https://www.jetbrains.com/",
+      "inviteCode": "5F5D5ah",
+      "githubUrl": "https://github.com/JetBrains"
     }
   ]
 }
