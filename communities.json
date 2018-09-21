@@ -459,6 +459,14 @@
       "quoteSourceUrl": "https://www.jetbrains.com/",
       "inviteCode": "5F5D5ah",
       "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "osu.svg",
+      "title": "osu!",
+      "quote": "All development discussion surrounding our game, the underlying game framework, community organisation and management happens on Discord. It is indispensible.",
+      "quoteSourceUrl": "https://osu.ppy.sh",
+      "inviteCode": "ppy",
+      "githubUrl": "https://github.com/ppy/osu"
     }
   ]
 }
