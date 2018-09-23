@@ -459,6 +459,13 @@
       "quoteSourceUrl": "https://osu.ppy.sh",
       "inviteCode": "ppy",
       "githubUrl": "https://github.com/ppy/osu"
+    },
+    {
+      "logo": "opentk.png",
+      "title": "OpenTK",
+      "quote": "",
+      "inviteCode": "GZTYR4s",
+      "githubUrl": "https://github.com/opentk"
     }
   ]
 }
