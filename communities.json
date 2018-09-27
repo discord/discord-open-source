@@ -471,7 +471,7 @@
       "logo": "Groestlcoin.png",
       "title": "Groestlcoin",
       "quote": "We used to use Slack for the primary form of communication with our community, but since moving to Discord, everything has been so much simpler, from simply inviting new users without restrictions, to moderating the chat, everything is so much easier and cleaner.  We have since completely closed down our Slack social channel.",
-      "inviteCode": "https://discord.gg/tVQ43rA",
+      "inviteCode": "tVQ43rA",
       "githubUrl": "https://github.com/Groestlcoin"
     }
   ]
