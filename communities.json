@@ -140,13 +140,6 @@
       "githubUrl": "https://github.com/facebook/Docusaurus"
     },
     {
-      "logo": "laravel-tenancy.svg",
-      "title": "Laravel Tenancy",
-      "inviteCode": "53PWMwb",
-      "githubUrl": "https://github.com/tenancy",
-      "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be far superior then any alternative."
-    },
-    {
       "logo": "quasar.svg",
       "title": "Quasar",
       "inviteCode": "5TDhbDg",
@@ -213,6 +206,13 @@
       "quote": "RPCS3 is the world's first PlayStation 3 emulator. We use Discord to provide support for our users, has allowed easy collaboration between contributors and is a great place for our patrons to discuss development.",
       "inviteCode": "bVz5e6",
       "githubUrl": "https://github.com/RPCS3/rpcs3"
+    },
+    {
+      "logo": "laravel-tenancy.svg",
+      "title": "Laravel Tenancy",
+      "inviteCode": "53PWMwb",
+      "githubUrl": "https://github.com/tenancy",
+      "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
     }
   ]
 }
