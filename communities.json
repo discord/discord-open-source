@@ -474,12 +474,19 @@
       "inviteCode": "tVQ43rA",
       "githubUrl": "https://github.com/Groestlcoin"
     },
-    { 
+    {
       "logo": "laravel-tenancy.svg",
       "title": "Laravel Tenancy",
       "inviteCode": "53PWMwb",
       "githubUrl": "https://github.com/tenancy",
       "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
+    },
+    {
+      "logo": "gridcoin.png",
+      "title": "Gridcoin",
+      "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
+      "inviteCode": "jf9XX4a",
+      "githubUrl": "https://github.com/gridcoin-community"
     }
   ]
 }
