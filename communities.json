@@ -1,6 +1,13 @@
 {
   "data": [
-	{
+    {
+      "logo": "peercoin.png",
+      "title": "Peercoin",
+      "quote": "After using Discord for many years, making it the home for our project made the most sense.  With more features than Slack and a friendly UI, it was the easy choice for growing our community and encouraging user growth.",
+      "inviteCode": "XPxfwtG",
+      "githubUrl": "https://github.com/peercoin/peercoin"
+    }
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
@@ -474,7 +481,7 @@
       "inviteCode": "tVQ43rA",
       "githubUrl": "https://github.com/Groestlcoin"
     },
-    { 
+    {
       "logo": "laravel-tenancy.svg",
       "title": "Laravel Tenancy",
       "inviteCode": "53PWMwb",
