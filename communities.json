@@ -482,6 +482,13 @@
       "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
     },
     {
+      "logo": "RLBot.png",
+      "title": "RLBot",
+      "quote": "Discord is THE place where we plan the project, organize tournaments, help our users, and build a community.",
+      "inviteCode": "29sFUCq",
+      "githubUrl": "https://github.com/RLBot/RLBot"
+    },
+    {
       "logo": "gridcoin.png",
       "title": "Gridcoin",
       "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
