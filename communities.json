@@ -494,6 +494,12 @@
       "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
       "inviteCode": "jf9XX4a",
       "githubUrl": "https://github.com/gridcoin-community"
+    },
+    {
+      "logo": "gridsome.png",
+      "title": "Gridsome",
+      "inviteCode": "daeay6n",
+      "githubUrl": "https://github.com/gridsome/gridsome"
     }
   ]
 }
