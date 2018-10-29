@@ -1,41 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Bordered</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="10.9472435%" y1="95.2648564%" x2="104.497524%" y2="-9.34316248%" id="linearGradient-1">
-            <stop stop-color="#000000" offset="0%"></stop>
-            <stop stop-color="#6A6A6A" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Bordered" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Colored" transform="translate(3.000000, 10.000000)" fill-rule="nonzero">
-            <g id="Asset-3">
-                <g id="Layer_2">
-                    <g id="Layer_6">
-                        <path d="M56.5546154,8.07508562 L36.8750531,8.07508562 L36.8750531,36.9486301 C36.8750531,45.2469521 29.8564854,51.9774229 21.2136207,51.9774229 L12.8916048,51.9774229 L12.8916048,51.9272517 C7.64614389,51.5272874 3.08533981,48.1747359 1.13498628,43.2852077 C-0.81536726,38.3956795 0.184731013,32.8215564 3.71299086,28.9165049 C7.24125072,25.0114534 12.6825976,23.4562332 17.7394297,24.9075342 C17.6167529,23.9792972 17.5522898,23.0442819 17.5464191,22.1079795 C17.5423142,13.0925384 23.0256559,4.98374288 31.3900328,1.63596811 C39.7544097,-1.71180665 49.3128374,0.376641288 55.5218833,6.90860445 C55.879496,7.2848887 56.2237401,7.67371575 56.5546154,8.07508562 Z" id="Shape" fill="url(#linearGradient-1)"></path>
-                        <rect id="Rectangle-path" fill="#F4645F" x="43.6153846" y="15.2922175" width="4.08580902" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="#F4645F" x="43.6153846" y="22.3011387" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="#F4645F" x="49.7967374" y="15.2922175" width="4.08580902" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="#F4645F" x="49.7967374" y="22.3011387" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="#F4645F" x="55.9755836" y="15.2922175" width="4.08831565" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="#F4645F" x="55.9755836" y="22.3011387" width="4.08831565" height="4.09146404"></rect>
-                        <path d="M40.3567639,39.7481849 C40.1143976,41.3136445 39.6668682,42.8402961 39.0257427,44.2886815 L40.3567639,39.7481849 Z" id="Shape" fill="#F4645F"></path>
-                        <path d="M36.8750531,8.07508562 L36.8750531,36.9486301 C36.8750531,45.2469521 29.8564854,51.9774229 21.2136207,51.9774229 L51.335809,51.9774229 C59.9887003,51.9774229 66.9972414,45.2469521 66.9972414,36.9486301 L66.9972414,8.07508562 L36.8750531,8.07508562 Z M63.2899337,36.9486301 C63.2899337,43.1899315 57.9282493,48.2672603 51.335809,48.2672603 L36.6419363,48.2672603 C37.6027026,47.0453646 38.4068956,45.7079436 39.0357692,44.2861729 C40.0567904,41.9749705 40.5835953,39.4756334 40.5823607,36.9486301 L40.5823607,11.7877568 L63.2899337,11.7877568 L63.2899337,36.9486301 Z" id="Shape" fill="url(#linearGradient-1)"></path>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="43.6153846" y="15.2922175" width="4.08580902" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="49.7967374" y="15.2922175" width="4.08580902" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="55.9755836" y="15.2922175" width="4.08831565" height="4.08895548"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="43.6153846" y="22.3011387" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="49.7967374" y="22.3011387" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="55.9755836" y="22.3011387" width="4.08831565" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="43.6153846" y="29.8268236" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="49.7967374" y="29.8268236" width="4.08580902" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="55.9755836" y="29.8268236" width="4.08831565" height="4.09146404"></rect>
-                        <rect id="Rectangle-path" fill="url(#linearGradient-1)" x="48.0395889" y="39.7506935" width="7.60261273" height="8.5215839"></rect>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<title>Bordered</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M59.6,18.1c-0.3-0.4-0.7-0.8-1-1.2c-6.2-6.5-15.8-8.6-24.1-5.3S20.5,23.1,20.5,32.1c0,0.9,0.1,1.9,0.2,2.8
+		c-5.1-1.5-10.5,0.1-14,4s-4.5,9.5-2.6,14.4c2,4.9,6.5,8.2,11.8,8.6V62h8.3h30.1C63,62,70,55.2,70,46.9V18.1H59.6z M66.3,46.9
+		c0,4.8-3.2,8.9-7.6,10.5v-7.7H51v8.5H39.6c1-1.2,1.8-2.6,2.4-4c0.1-0.1,0.1-0.3,0.1-0.4c0.1-0.3,0.3-0.7,0.4-1
+		c0.1-0.2,0.1-0.4,0.2-0.6c0.1-0.4,0.3-0.9,0.4-1.3c0-0.2,0.1-0.4,0.1-0.7c0-0.2,0.1-0.3,0.1-0.5l0,0.1c0.2-1,0.3-1.9,0.3-2.9V21.8
+		h22.7V46.9z"/>
+	<rect x="46.6" y="25.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="52.8" y="25.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="59" y="25.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="46.6" y="32.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="52.8" y="32.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="59" y="32.3" class="st0" width="4.1" height="4.1"/>
+	<rect x="46.6" y="39.8" class="st0" width="4.1" height="4.1"/>
+	<rect x="52.8" y="39.8" class="st0" width="4.1" height="4.1"/>
+	<rect x="59" y="39.8" class="st0" width="4.1" height="4.1"/>
+</g>
 </svg>
