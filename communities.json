@@ -495,13 +495,37 @@
       "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
       "inviteCode": "jf9XX4a",
       "githubUrl": "https://github.com/gridcoin-community"
-    },
+    },   
     {
       "logo": "cdnjs.png",
       "title": "cdnjs",
       "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our service, engaging in discussion about how we can better the service we provide.",
       "inviteCode": "xVpxssn",
       "githubUrl": "https://github.com/cdnjs"
+    },
+    {
+      "logo": "vuesax.png",
+      "title": "Vuesax",
+      "inviteCode": "2kHwpfe",
+      "githubUrl": "https://github.com/lusaxweb/vuesax"
+    },
+    {
+      "logo": "nuxtjs.png",
+      "title": "Nuxt.js",
+      "inviteCode": "Y6HGQeP",
+      "githubUrl": "https://github.com/nuxt/nuxt.js"
+    },
+    {
+      "logo": "poi.png",
+      "title": "Poi",
+      "inviteCode": "2t5mdCz",
+      "githubUrl": "https://github.com/egoist/poi"
+    },
+    {
+      "logo": "buefy.png",
+      "title": "Buefy",
+      "inviteCode": "ZkdFJMr",
+      "githubUrl": "https://github.com/buefy/buefy"
     }
   ]
 }
