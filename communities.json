@@ -527,5 +527,12 @@
       "inviteCode": "ZkdFJMr",
       "githubUrl": "https://github.com/buefy/buefy"
     }
+    {
+      "logo": "songoda.png",
+      "title": "Songoda",
+      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
+      "inviteCode": "JabJmbe",
+      "githubUrl": "https://gitlab.com/Songoda"
+    },
   ]
 }
