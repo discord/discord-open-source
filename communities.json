@@ -526,6 +526,14 @@
       "title": "Buefy",
       "inviteCode": "ZkdFJMr",
       "githubUrl": "https://github.com/buefy/buefy"
+    },
+    {
+      "logo": "hasura.svg",
+      "title": "Hasura",
+      "quote": "We moved to Discord when messages started disappearing on Slack. Discord makes it really easy for users to be a part of multiple servers and this is truly great for our GraphQL developer community, who are usually part of Reactiflux, Vue Land etc. too.",
+      "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0",
+      "inviteCode": "vBPpJkS",
+      "githubUrl": "https://github.com/hasura/graphql-engine"
     }
   ]
 }
