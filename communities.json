@@ -495,7 +495,7 @@
       "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
       "inviteCode": "jf9XX4a",
       "githubUrl": "https://github.com/gridcoin-community"
-    },   
+    },
     {
       "logo": "cdnjs.png",
       "title": "cdnjs",
@@ -534,13 +534,13 @@
       "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0",
       "inviteCode": "vBPpJkS",
       "githubUrl": "https://github.com/hasura/graphql-engine"
-    }
+    },
     {
       "logo": "songoda.png",
       "title": "Songoda",
       "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
       "inviteCode": "JabJmbe",
       "githubUrl": "https://gitlab.com/Songoda"
-    },
+    }
   ]
 }
