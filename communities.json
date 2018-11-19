@@ -541,6 +541,13 @@
       "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
       "inviteCode": "JabJmbe",
       "githubUrl": "https://gitlab.com/Songoda"
+    },
+    {
+      "logo": "emberjs.png",
+      "title": "Ember.js",
+      "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
+      "inviteCode": "zT3asNS",
+      "githubUrl": "https://github.com/emberjs"
     }
   ]
 }
