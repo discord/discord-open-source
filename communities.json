@@ -548,6 +548,14 @@
       "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
       "inviteCode": "zT3asNS",
       "githubUrl": "https://github.com/emberjs"
+    },
+    {
+      "logo": "gitote.png",
+      "title": "Gitote",
+      "quote": "Software 👩‍💻 version control made simple.",
+      "quoteSourceUrl": "https://gitote.in",
+      "inviteCode": "wEUXMJp",
+      "githubUrl": "https://gitote.in/gitote/gitote"
     }
   ]
 }
