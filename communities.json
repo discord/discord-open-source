@@ -548,6 +548,13 @@
       "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
       "inviteCode": "zT3asNS",
       "githubUrl": "https://github.com/emberjs"
+    },
+    {
+      "logo": "godot.svg",
+      "title": "Godot Engine",
+      "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
+      "inviteCode": "zH7NUgz",
+      "githubUrl": "https://github.com/godotengine/"
     }
   ]
 }
