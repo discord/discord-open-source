@@ -555,6 +555,13 @@
       "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
       "inviteCode": "zH7NUgz",
       "githubUrl": "https://github.com/godotengine/"
+    },
+    {
+      "logo": "amethyst.png",
+      "title": "Amethyst Game Engine",
+      "quote": "Discord has made communicating with and helping our users in real time a breeze. Having an modern and easily accessible chat has been critical in our growth.",
+      "inviteCode": "GnP5Whs",
+      "githubUrl": "https://github.com/amethyst"
     }
   ]
 }
