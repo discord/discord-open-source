@@ -555,6 +555,13 @@
       "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
       "inviteCode": "zH7NUgz",
       "githubUrl": "https://github.com/godotengine/"
+    },
+    {
+      "logo": "tes3mp.png",
+      "title": "TES3MP",
+      "quote": "Discord helps us provide immediate support to our players and keeps us in touch with them every day in a way that is far more personal and social than our forums and subreddit.",
+      "inviteCode": "ECJk293",
+      "githubUrl": "https://github.com/TES3MP/openmw-tes3mp"
     }
   ]
 }
