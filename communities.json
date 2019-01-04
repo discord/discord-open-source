@@ -569,6 +569,13 @@
       "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth.",
       "inviteCode": "GnP5Whs",
       "githubUrl": "https://github.com/amethyst"
+    },
+    { 
+      "logo": "modorganizer.svg",
+      "title": "Mod Organizer",
+      "quote": "Discord allows our users to chat with the developers directly, and allow developers to get direct feedback regarding bugs and new features",
+      "inviteCode": "cYwdcxj",
+      "githubUrl": "https://github.com/Modorganizer2"
     }
   ]
 }
