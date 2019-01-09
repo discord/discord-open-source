@@ -576,6 +576,13 @@
       "quote": "Discord allows our users to chat with the developers directly, and allow developers to get direct feedback regarding bugs and new features",
       "inviteCode": "cYwdcxj",
       "githubUrl": "https://github.com/Modorganizer2"
+    },
+    {
+      "logo": "papermc.svg",
+      "title": "PaperMC",
+      "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
+      "inviteCode": "jETyjUw",
+      "githubUrl": "https://github.com/PaperMC"
     }
   ]
 }
