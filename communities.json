@@ -462,13 +462,6 @@
       "githubUrl": "https://github.com/ppy/osu"
     },
     {
-      "logo": "opentk.png",
-      "title": "OpenTK",
-      "quote": "Discord allows our users to chat with the developers, maintainers, and other users of OpenTK. If these users want help, you know they'll get it fast!",
-      "inviteCode": "GZTYR4s",
-      "githubUrl": "https://github.com/opentk"
-    },
-    {
       "logo": "Groestlcoin.png",
       "title": "Groestlcoin",
       "quote": "We used to use Slack for the primary form of communication with our community, but since moving to Discord, everything has been so much simpler, from simply inviting new users without restrictions, to moderating the chat, everything is so much easier and cleaner.  We have since completely closed down our Slack social channel.",
