@@ -583,6 +583,13 @@
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
+    },
+    {
+      "logo": "IntellectualSites.svg",
+      "title": "IntellectualSites",
+      "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
+      "inviteCode": "ngZCzbU",
+      "githubUrl": "https://github.com/IntellectualSites" 
     }
   ]
 }
