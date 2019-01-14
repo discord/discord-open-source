@@ -583,6 +583,13 @@
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
+    },
+    {
+      "logo": "rust.svg",
+      "title": "Rust",
+      "quote": "Rust is a thread-safe, blazingly fast language empowering everyone to build reliable and efficient software",
+      "inviteCode": "rust-lang",
+      "githubUrl": "https://github.com/rust-lang/rust"
     }
   ]
 }
