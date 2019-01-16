@@ -583,6 +583,14 @@
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
+    },
+    {
+      "logo": "adafruit.svg",
+      "title": "Adafruit",
+      "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
+      "quoteSourceUrl": "https://www.adafruit.com/about/.",
+      "inviteCode": "https://discord.gg/adafruit",
+      "githubUrl": "https://github.com/adafruit"
     }
   ]
 }
