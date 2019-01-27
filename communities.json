@@ -584,6 +584,15 @@
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
     },
+
+	{
+	  "logo": "enginehub.svg",
+	  "title": "EngineHub",
+	  "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+	  "inviteCode": "enginehub",
+	  "githubUrl": "https://github.com/EngineHub"
+	}
+
     {
       "logo": "adafruit.svg",
       "title": "Adafruit",
