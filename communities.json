@@ -583,6 +583,13 @@
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
-    }
+    },
+	{
+	  "logo": "enginehub.svg",
+	  "title": "EngineHub",
+	  "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+	  "inviteCode": "enginehub",
+	  "githubUrl": "https://github.com/EngineHub"
+	}
   ]
 }
