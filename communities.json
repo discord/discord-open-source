@@ -585,6 +585,13 @@
       "githubUrl": "https://github.com/PaperMC"
     },
     {
+      "logo": "enginehub.svg",
+      "title": "EngineHub",
+      "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+      "inviteCode": "enginehub",
+      "githubUrl": "https://github.com/EngineHub"
+    },
+    {
       "logo": "rust.svg",
       "title": "Rust",
       "quote": "Rust is a thread-safe, blazingly fast language empowering everyone to build reliable and efficient software",
