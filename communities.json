@@ -590,6 +590,13 @@
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
       "inviteCode": "ngZCzbU",
       "githubUrl": "https://github.com/IntellectualSites" 
-    }
+    },
+	{
+	  "logo": "enginehub.svg",
+	  "title": "EngineHub",
+	  "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+	  "inviteCode": "enginehub",
+	  "githubUrl": "https://github.com/EngineHub"
+	}
   ]
 }
