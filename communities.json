@@ -584,6 +584,7 @@
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
     },
+
 	{
 	  "logo": "enginehub.svg",
 	  "title": "EngineHub",
@@ -591,5 +592,14 @@
 	  "inviteCode": "enginehub",
 	  "githubUrl": "https://github.com/EngineHub"
 	}
+
+    {
+      "logo": "adafruit.svg",
+      "title": "Adafruit",
+      "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
+      "quoteSourceUrl": "https://www.adafruit.com/about/.",
+      "inviteCode": "https://discord.gg/adafruit",
+      "githubUrl": "https://github.com/adafruit"
+    }
   ]
 }
