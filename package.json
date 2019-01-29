@@ -1,5 +1,12 @@
 {
   "name": "discord-open-source",
   "version": "1.0.0",
-  "main": "communities.json"
+  "main": "communities.json",
+  "scripts": {
+    "test": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
+    "fmt": "prettier --write communities.json"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.1"
+  }
 }
