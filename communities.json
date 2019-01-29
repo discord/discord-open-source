@@ -1,6 +1,6 @@
 {
   "data": [
-	{
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
@@ -414,7 +414,7 @@
       "inviteCode": "zav3EkW",
       "githubUrl": "https://github.com/TeamEGEM"
     },
-	  {
+    {
       "logo": "lindacoin.png",
       "title": "Lindacoin",
       "quote": "Lindacoin is a peer to peer hybrid digital currency. It creates utility products that allow Linda to be used in everyday scenarios. It also offers partnership opportunities to other cryptocurrencies to use the Lindacoin platform. Lindacoin offers a scamfree token platform.",
@@ -590,6 +590,21 @@
       "quote": "Discord gave us the tools to be much more productive with many amazing developers around the world!",
       "inviteCode": "qbRAuy7",
       "githubUrl": "https://github.com/AtlasNX/Kosmos"
+    },
+    {
+      "logo": "enginehub.svg",
+      "title": "EngineHub",
+      "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+      "inviteCode": "enginehub",
+      "githubUrl": "https://github.com/EngineHub"
+    },
+    {
+      "logo": "adafruit.svg",
+      "title": "Adafruit",
+      "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
+      "quoteSourceUrl": "https://www.adafruit.com/about/.",
+      "inviteCode": "https://discord.gg/adafruit",
+      "githubUrl": "https://github.com/adafruit"
     }
   ]
 }
