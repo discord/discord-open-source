@@ -602,8 +602,8 @@
       "logo": "adafruit.svg",
       "title": "Adafruit",
       "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
-      "quoteSourceUrl": "https://www.adafruit.com/about/.",
-      "inviteCode": "https://discord.gg/adafruit",
+      "quoteSourceUrl": "https://www.adafruit.com/about/",
+      "inviteCode": "adafruit",
       "githubUrl": "https://github.com/adafruit"
     }
   ]
