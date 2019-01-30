@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "communities.json",
   "scripts": {
-    "test": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
+    "test": "npm run fmt-check && npm run validate-codes",
+    "validate-codes": "node ./validate.js",
+    "fmt-check": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
     "fmt": "prettier --write communities.json"
   },
   "devDependencies": {
+    "chalk": "^2.4.2",
+    "node-fetch": "^2.3.0",
     "prettier": "^1.16.1"
   }
 }
