@@ -339,14 +339,6 @@
       "githubUrl": "https://github.com/dylanaraps/pywal"
     },
     {
-      "logo": "asf.png",
-      "title": "ArchiSteamFarm",
-      "quote": "C# application that allows you to farm steam cards using multiple steam accounts simultaneously.",
-      "quoteSourceUrl": "https://github.com/JustArchiNET/ArchiSteamFarm",
-      "inviteCode": "hSQgt8j",
-      "githubUrl": "https://github.com/JustArchiNET/ArchiSteamFarm"
-    },
-    {
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
@@ -583,13 +575,6 @@
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
       "inviteCode": "jETyjUw",
       "githubUrl": "https://github.com/PaperMC"
-    },
-    {
-      "logo": "kosmos.png",
-      "title": "Kosmos",
-      "quote": "Discord gave us the tools to be much more productive with many amazing developers around the world!",
-      "inviteCode": "qbRAuy7",
-      "githubUrl": "https://github.com/AtlasNX/Kosmos"
     },
     {
       "logo": "IntellectualSites.svg",
