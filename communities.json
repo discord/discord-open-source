@@ -597,6 +597,12 @@
       "quoteSourceUrl": "https://www.adafruit.com/about/",
       "inviteCode": "adafruit",
       "githubUrl": "https://github.com/adafruit"
+    },
+    {
+      "logo": "ppsspp.png",
+      "title": "PPSSPP",
+      "inviteCode": "5NJB6dD",
+      "githubUrl": "https://github.com/hrydgard/ppsspp"
     }
   ]
 }
