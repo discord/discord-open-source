@@ -1,611 +1,609 @@
 {
-  "data": [
-    {
-      "logo": "yarnpkg.svg",
-      "title": "Yarnpkg",
-      "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
-      "inviteCode": "yarnpkg",
-      "githubUrl": "https://github.com/yarnpkg"
-    },
-    {
-      "logo": "reactiflux.svg",
-      "title": "Reactiflux",
-      "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
-      "quoteSourceUrl": "https://reactjs.org/blog/2015/10/19/reactiflux-is-moving-to-discord.html",
-      "inviteCode": "reactiflux",
-      "githubUrl": "https://github.com/reactiflux"
-    },
-    {
-      "logo": "augur.svg",
-      "title": "Augur",
-      "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
-      "quoteSourceUrl": "https://medium.com/@AugurProject/adopting-discord-10d1b30bfcbb",
-      "inviteCode": "faud6Fx",
-      "githubUrl": "https://github.com/AugurProject"
-    },
-    {
-      "logo": "vuejs.svg",
-      "title": "Vue.js",
-      "quote": "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
-      "quoteSourceUrl": "https://vuejsfeed.com/blog/gitter-chat-for-vue-js-is-moving-to-discord",
-      "inviteCode": "HBherRA",
-      "githubUrl": "https://github.com/vuejs"
-    },
-    {
-      "logo": "sia.svg",
-      "title": "Sia",
-      "quote": "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
-      "quoteSourceUrl": "https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6",
-      "inviteCode": "sia",
-      "githubUrl": "https://github.com/NebulousLabs/Sia"
-    },
-    {
-      "logo": "homeasst.svg",
-      "title": "Home Assistant",
-      "quote": "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
-      "quoteSourceUrl": "https://home-assistant.io/blog/2017/07/03/home-assistant-is-moving-to-discord/",
-      "inviteCode": "c5DvZ4e",
-      "githubUrl": "https://github.com/home-assistant"
-    },
-    {
-      "logo": "ubiq.svg",
-      "title": "Ubiq",
-      "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
-      "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
-      "inviteCode": "HF6vEGF",
-      "githubUrl": "https://github.com/ubiq"
-    },
-    {
-      "logo": "vuetify.svg",
-      "title": "Vuetify",
-      "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
-      "inviteCode": "s93b7Fv",
-      "githubUrl": "https://github.com/vuetifyjs"
-    },
-    {
-      "logo": "hearthsim.svg",
-      "title": "HearthSim",
-      "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans.",
-      "inviteCode": "hearthsim",
-      "githubUrl": "https://github.com/HearthSim"
-    },
-    {
-      "logo": "sharex.svg",
-      "title": "ShareX",
-      "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
-      "inviteCode": "ShareX",
-      "githubUrl": "https://github.com/ShareX/ShareX"
-    },
-    {
-      "logo": "jest.png",
-      "title": "Jest",
-      "inviteCode": "yrPdTqR",
-      "githubUrl": "https://github.com/facebook/jest"
-    },
-    {
-      "logo": "elixir.png",
-      "title": "Elixir",
-      "inviteCode": "elixir",
-      "githubUrl": "https://github.com/elixir-lang"
-    },
-    {
-      "logo": "redux.svg",
-      "title": "Redux",
-      "inviteCode": "aD26W3P",
-      "githubUrl": "https://github.com/reactjs/redux"
-    },
-    {
-      "logo": "graphql.svg",
-      "title": "GraphQL",
-      "inviteCode": "ef2h6QM",
-      "githubUrl": "https://github.com/graphql"
-    },
-    {
-      "logo": "reasonml.png",
-      "title": "ReasonML",
-      "inviteCode": "reasonml",
-      "githubUrl": "https://github.com/facebook/reason"
-    },
-    {
-      "logo": "formik.png",
-      "title": "Formik",
-      "inviteCode": "BYTdAgs",
-      "githubUrl": "https://github.com/jaredpalmer/formik"
-    },
-    {
-      "logo": "relay.svg",
-      "title": "Relay",
-      "inviteCode": "A5KakZH",
-      "githubUrl": "https://github.com/facebook/relay"
-    },
-    {
-      "logo": "docusaurus.png",
-      "title": "Docusaurus",
-      "inviteCode": "docusaurus",
-      "githubUrl": "https://github.com/facebook/Docusaurus"
-    },
-    {
-      "logo": "quasar.svg",
-      "title": "Quasar",
-      "inviteCode": "5TDhbDg",
-      "githubUrl": "https://github.com/quasarframework/quasar"
-    },
-    {
-      "logo": "flarum.svg",
-      "title": "Flarum",
-      "quote": "Discord shines not only in terms of performance, but more so in regards to design and ux. There is no other decent communication client able to match Discord, period.",
-      "inviteCode": "3fnPSjA",
-      "githubUrl": "https://github.com/flarum/flarum"
-    },
-    {
-      "logo": "rnfirebase.svg",
-      "title": "React Native Firebase",
-      "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
-      "inviteCode": "C9aK28N",
-      "githubUrl": "https://github.com/invertase/react-native-firebase"
-    },
-    {
-      "logo": "obsproject.svg",
-      "title": "OBS Studio",
-      "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
-      "inviteCode": "obsproject",
-      "githubUrl": "https://github.com/obsproject/obs-studio"
-    },
-    {
-      "logo": "rigsofrods.png",
-      "title": "Rigs of Rods",
-      "inviteCode": "rigsofrods",
-      "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods"
-    },
-    {
-      "logo": "myst.svg",
-      "title": "Myst Language",
-      "quote": "Discord is by far the best place to start a fledgling community like ours with an incredibly low barrier-to-entry and beautifully simple interface, but also providing powerful tools and infrastructure to grow massively (should that ever happen) without paywalls or having to switch services.",
-      "inviteCode": "8FtMeac",
-      "githubUrl": "https://github.com/myst-lang/myst"
-    },
-    {
-      "logo": "nodecg.svg",
-      "title": "NodeCG",
-      "inviteCode": "NNmVz4x",
-      "githubUrl": "https://github.com/nodecg/nodecg"
-    },
-    {
-      "logo": "linuxgsm.svg",
-      "title": "LinuxGSM",
-      "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup their own Linux game server. Making it easy for everyone to help and collaborate together.",
-      "inviteCode": "UM4VTpK",
-      "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
-    },
-    {
-      "logo": "opendota.svg",
-      "title": "OpenDota",
-      "quote": "Community-maintained open source Dota 2 data platform.",
-      "quoteSourceUrl": "https://github.com/odota",
-      "inviteCode": "0o5SQGbXuWCNDcaF",
-      "githubUrl": "https://github.com/odota"
-    },
-    {
-      "logo": "semux.svg",
-      "title": "Semux",
-      "quote": "Semux is an innovative high-performance blockchain platform powered by Semux BFT consensus algorithm.",
-      "quoteSourceUrl": "https://www.semux.org/",
-      "inviteCode": "9yJGkr3",
-      "githubUrl": "https://github.com/semuxproject/"
-    },
-    {
-      "logo": "hyperium.png",
-      "title": "Hyperium Client",
-      "inviteCode": "8GakFcT",
-      "githubUrl": "https://github.com/HyperiumClient"
-    },
-    {
-      "logo": "organizr.png",
-      "title": "Organizr",
-      "quote": "HTPC/Homelab Services Organizer - Written in PHP",
-      "inviteCode": "TrNtY7N",
-      "githubUrl": "https://github.com/causefx/organizr"
-    },
-    {
-      "logo": "riiconnect24.svg",
-      "title": "RiiConnect24",
-      "quote": "Discord is by far the best chat service around. We have grown a close-knit community with it, and everyone enjoys using it.",
-      "inviteCode": "b4Y7jfD",
-      "githubUrl": "https://github.com/RiiConnect24"
-    },
-    {
-      "logo": "plexiLogo.png",
-      "title": "Quick.db",
-      "quote": "We use Discord as the primary platform for our project to collaborate on and share our database entry system whilst gaining instant feedback through the great amount of members within the active coding community. We are able to enhance and develop our project on a weekly basis by directly contacting the users involved of which has allowed us to create a method between the community and developers a chance for all users to contribute along with the ease of use regardless of Node.js Development knowledge.  We have created a user-friendly database entry system with a quick and resourceful team to assist those who need guidance.",
-      "inviteCode": "plexidev",
-      "githubUrl": "https://github.com/Plexi-Development/quick.db"
-    },
-    {
-      "logo": "pterodactyl.svg",
-      "title": "Pterodactyl",
-      "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!",
-      "inviteCode": "QRDZvVm",
-      "githubUrl": "https://github.com/pterodactyl"
-    },
-    {
-      "logo": "openSUSE.svg",
-      "title": "openSUSE",
-      "quote": "openSUSE is a community based project. When the community brought up the idea of a Discord server, it only made sense to create one. We try our best to help people with all their tech support needs and enable people to contribute in many different ways. It's our mission to keep openSUSE community focused and growing. Utilising many platforms lets us focus on understanding users more so we can adjust and grow.",
-      "inviteCode": "opensuse",
-      "githubUrl": "https://github.com/openSUSE"
-    },
-    {
-      "logo": "fedora.svg",
-      "title": "Fedora",
-      "quote": "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you do useful stuff with it. Our four foundations are Freedom, Friends, Features, and First. Discord is one of the networks that helps enable the Friends to connect.",
-      "inviteCode": "fedora",
-      "githubUrl": "https://fedoraproject.org"
-    },
-    {
-      "logo": "translucenttb.svg",
-      "title": "TranslucentTB",
-      "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
-      "inviteCode": "w95DGTK",
-      "githubUrl": "https://github.com/TranslucentTB"
-    },
-    {
-      "logo": "rpcs3.svg",
-      "title": "RPCS3",
-      "quote": "RPCS3 relies heavily on Discord. With over 3,000 people online at nearly any given time and over 28,000 in the server, RPCS3’s Discord is one of the largest, if not the largest, for an open-source software project. In addition to providing a community where people can discuss RPCS3’s progress, games they play on it, and sharing screenshots from those games, it actively contributes to development by given the developers real-time chats where they can discuss with each other and with the public at large about how to fix issues.",
-      "quoteSourceUrl": "https://rpcs3.net/blog/2018/05/20/progress-report-april-2018/",
-      "inviteCode": "a6zm2T8",
-      "githubUrl": "https://github.com/RPCS3/rpcs3"
-    },
-    {
-      "logo": "brave.png",
-      "title": "Brave Browser",
-      "quote": "Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.",
-      "quoteSourceUrl": "https://brave.com",
-      "inviteCode": "k57tYrS",
-      "githubUrl": "https://github.com/brave/browser-laptop"
-    },
-    {
-      "logo": "vapor.svg",
-      "title": "Vapor",
-      "quote": "Creating modular server side software with Swift.",
-      "quoteSourceUrl": "http://vapor.codes",
-      "inviteCode": "vapor",
-      "githubUrl": "https://github.com/vapor/vapor"
-    },
-    {
-      "logo": "buildcraft.png",
-      "title": "BuildCraft",
-      "quote": "Discord has allowed us to get the community organized again, offering support, talking about the future of the mod and much more.",
-      "inviteCode": "BuildCraft",
-      "githubUrl": "https://github.com/BuildCraft/BuildCraft"
-    },
-    {
-      "logo": "tachiyomi.png",
-      "title": "Tachiyomi",
-      "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
-      "inviteCode": "2dDQBv2",
-      "githubUrl": "https://github.com/inorichi/tachiyomi"
-    },
-    {
-      "logo": "luckperms.svg",
-      "title": "LuckPerms",
-      "quote": "We use Discord to provide help and support, as well as for chatting to users about upcoming updates and the process of contributing to the project!",
-      "quoteSourceUrl": "https://luckperms.github.io/",
-      "inviteCode": "W3FzxHA",
-      "githubUrl": "https://github.com/lucko/LuckPerms"
-    },
-    {
-      "logo": "akromalogo.svg",
-      "title": "Akroma",
-      "inviteCode": "UJxkpSx",
-      "githubUrl": "https://github.com/akroma-project/akroma"
-    },
-    {
-      "logo": "gitea.svg",
-      "title": "Gitea",
-      "inviteCode": "sRC9wMU",
-      "githubUrl": "https://github.com/go-gitea/gitea"
-    },
-    {
-      "logo": "lbry.png",
-      "title": "LBRY",
-      "quote": "LBRY is a free, open, and community-run digital marketplace,You own your data. You control the network. Indeed, you are the network, Hollywood films, college lessons, amazing streamers and more are on the first media network ruled by you!",
-      "quoteSourceUrl": "https://lbry.io",
-      "inviteCode": "Z3bERWA",
-      "githubUrl": "https://github.com/lbryio/"
-    },
-    {
-      "logo": "Ravencoin.png",
-      "title": "Ravencoin",
-      "quote": "Ravencoin is completely open source, community orientated and run its main purpose is to have a case specific blockchain to show who owns what asset.",
-      "quoteSourceUrl": "https://ravencoin.org",
-      "inviteCode": "44APdew",
-      "githubUrl": "https://github.com/RavenProject"
-    },
-    {
-      "logo": "neofetch.png",
-      "title": "Neofetch",
-      "quote": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
-      "inviteCode": "BtnTPFF",
-      "githubUrl": "https://github.com/dylanaraps/neofetch"
-    },
-    {
-      "logo": "pywal.png",
-      "title": "pywal",
-      "quote": "Pywal is a tool that generates a color palette from the dominant colors in an image. It then applies the colors system-wide and on-the-fly in all of your favourite programs.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/pywal",
-      "inviteCode": "fK3RhsD",
-      "githubUrl": "https://github.com/dylanaraps/pywal"
-    },
-    {
-      "logo": "asf.png",
-      "title": "ArchiSteamFarm",
-      "quote": "C# application that allows you to farm steam cards using multiple steam accounts simultaneously.",
-      "quoteSourceUrl": "https://github.com/JustArchiNET/ArchiSteamFarm",
-      "inviteCode": "hSQgt8j",
-      "githubUrl": "https://github.com/JustArchiNET/ArchiSteamFarm"
-    },
-    {
-      "logo": "blink.png",
-      "title": "Blink",
-      "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
-      "quoteSourceUrl": "http://blink.sh",
-      "inviteCode": "ZTtMfvK",
-      "githubUrl": "http://github.com/blinksh/blink"
-    },
-    {
-      "logo": "vertcoin.png",
-      "title": "Vertcoin",
-      "quote": "A digital currency with mining decentralisation and ASIC resistance as a key focus.",
-      "quoteSourceUrl": "https://github.com/vertcoin-project/vertcoin-core",
-      "inviteCode": "vertcoin",
-      "githubUrl": "https://github.com/vertcoin-project"
-    },
-    {
-      "logo": "nano.png",
-      "title": "Nano Currency",
-      "quote": "Digital currency for the real world – the fast and free way to pay for everything in life.",
-      "quoteSourceUrl": "https://nano.org/en",
-      "inviteCode": "JphbBas",
-      "githubUrl": "https://github.com/nanocurrency/raiblocks"
-    },
-    {
-      "logo": "adonis.svg",
-      "title": "AdonisJs",
-      "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community.",
-      "inviteCode": "k5myGAz",
-      "githubUrl": "https://github.com/adonisjs"
-    },
-    {
-      "logo": "pivx.png",
-      "title": "PIVX",
-      "quote": "Private Instant Verified Transaction (PIVX), a digital currency focused on privacy and fast transactions uses Discord as a platform to engage with our users",
-      "quoteSourceURL": "https://www.pivx.org",
-      "inviteCode": "ktYKb32",
-      "githubUrl": "https://github.com/pivx-project"
-    },
-    {
-      "logo": "spongepowered.png",
-      "title": "SpongePowered",
-      "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
-      "inviteCode": "PtaGRAs",
-      "githubUrl": "https://github.com/spongepowered"
-    },
-    {
-      "logo": "rainmeter.svg",
-      "title": "Rainmeter",
-      "quote": "Discord makes it easy for us to communicate with, help out, and grow our community.",
-      "inviteCode": "Rainmeter",
-      "githubUrl": "https://github.com/rainmeter/rainmeter"
-    },
-    {
-      "logo": "luvit.png",
-      "title": "Luvit",
-      "quote": "Discord helped us organize the Luvit community and made it easier for people to find and contribute to Luvit",
-      "inviteCode": "luvit",
-      "githubUrl": "https://github.com/luvit/luvit"
-    },
-    {
-      "logo": "ethergem.png",
-      "title": "EtherGem",
-      "quote": "Ethergem is the foundational currency platform with an integrated subchain, and featureset.",
-      "quoteSrc": "https://egem.io",
-      "inviteCode": "zav3EkW",
-      "githubUrl": "https://github.com/TeamEGEM"
-    },
-    {
-      "logo": "lindacoin.png",
-      "title": "Lindacoin",
-      "quote": "Lindacoin is a peer to peer hybrid digital currency. It creates utility products that allow Linda to be used in everyday scenarios. It also offers partnership opportunities to other cryptocurrencies to use the Lindacoin platform. Lindacoin offers a scamfree token platform.",
-      "inviteCode": "SHNjQBv",
-      "githubUrl": "https://github.com/TheLindaProjectInc"
-    },
-    {
-      "logo": "rupaya.png",
-      "title": "Rupaya",
-      "quote": "Optional: Built for South Asia,With native currency exchange, we make our digital crypto asset RUPX accessible to ordinary users and merchants.",
-      "quoteSourceUrl": "https://rupx.io.",
-      "inviteCode": "tJ3UWSP",
-      "githubUrl": "https://github.com/rupaya-project/rupaya"
-    },
-    {
-      "logo": "gentoo.png",
-      "title": "Gentoo Linux",
-      "quote": "Gentoo Linux is free operating system based or Linux or FreeBSD that can be automatically optimized and customized for just about any application or need.",
-      "quoteSourceUrl": "https://www.gentoo.org/",
-      "inviteCode": "gentoo",
-      "githubUrl": "https://github.com/gentoo"
-    },
-    {
-      "logo": "librenms.svg",
-      "title": "LibreNMS",
-      "quote": "Discord has improved communication allowing LibreNMS to continue to scale the community of this fully featured network monitoring system. A low barrier to entry and a bridge to IRC have made it easier than ever for LibreNMS users to collaborate, helping each other with great features like code highlighting, screen sharing, and voice communication.",
-      "quoteSourceUrl": "https://www.librenms.org",
-      "inviteCode": "V8s5JZJ",
-      "githubUrl": "https://github.com/librenms/librenms"
-    },
-    {
-      "logo": "vue-material.svg",
-      "title": "Vue Material",
-      "quote": "Build beautiful apps with Material Design and Vue.js.",
-      "quoteSourceUrl": "https://vuematerial.io",
-      "inviteCode": "vuematerial",
-      "githubUrl": "https://github.com/vuematerial/vue-material"
-    },
-    {
-      "logo": "osu.svg",
-      "title": "osu!",
-      "quote": "All development discussion surrounding our game, the underlying game framework, community organisation and management happens on Discord. It is indispensible.",
-      "quoteSourceUrl": "https://osu.ppy.sh",
-      "inviteCode": "ppy",
-      "githubUrl": "https://github.com/ppy/osu"
-    },
-    {
-      "logo": "opentk.png",
-      "title": "OpenTK",
-      "quote": "Discord allows our users to chat with the developers, maintainers, and other users of OpenTK. If these users want help, you know they'll get it fast!",
-      "inviteCode": "6HqD48s",
-      "githubUrl": "https://github.com/opentk"
-    },
-    {
-      "logo": "Groestlcoin.png",
-      "title": "Groestlcoin",
-      "quote": "We used to use Slack for the primary form of communication with our community, but since moving to Discord, everything has been so much simpler, from simply inviting new users without restrictions, to moderating the chat, everything is so much easier and cleaner.  We have since completely closed down our Slack social channel.",
-      "inviteCode": "tVQ43rA",
-      "githubUrl": "https://github.com/Groestlcoin"
-    },
-    {
-      "logo": "laravel-tenancy.svg",
-      "title": "Laravel Tenancy",
-      "inviteCode": "53PWMwb",
-      "githubUrl": "https://github.com/tenancy",
-      "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
-    },
-    {
-      "logo": "RLBot.png",
-      "title": "RLBot",
-      "quote": "Discord is THE place where we plan the project, organize tournaments, help our users, and build a community.",
-      "inviteCode": "29sFUCq",
-      "githubUrl": "https://github.com/RLBot/RLBot"
-    },
-    {
-      "logo": "gridcoin.png",
-      "title": "Gridcoin",
-      "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
-      "inviteCode": "jf9XX4a",
-      "githubUrl": "https://github.com/gridcoin-community"
-    },
-    {
-      "logo": "cdnjs.png",
-      "title": "cdnjs",
-      "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our service, engaging in discussion about how we can better the service we provide.",
-      "inviteCode": "xVpxssn",
-      "githubUrl": "https://github.com/cdnjs"
-    },
-    {
-      "logo": "vuesax.png",
-      "title": "Vuesax",
-      "inviteCode": "2kHwpfe",
-      "githubUrl": "https://github.com/lusaxweb/vuesax"
-    },
-    {
-      "logo": "nuxtjs.png",
-      "title": "Nuxt.js",
-      "inviteCode": "Y6HGQeP",
-      "githubUrl": "https://github.com/nuxt/nuxt.js"
-    },
-    {
-      "logo": "poi.png",
-      "title": "Poi",
-      "inviteCode": "2t5mdCz",
-      "githubUrl": "https://github.com/egoist/poi"
-    },
-    {
-      "logo": "buefy.png",
-      "title": "Buefy",
-      "inviteCode": "ZkdFJMr",
-      "githubUrl": "https://github.com/buefy/buefy"
-    },
-    {
-      "logo": "hasura.svg",
-      "title": "Hasura",
-      "quote": "We moved to Discord when messages started disappearing on Slack. Discord makes it really easy for users to be a part of multiple servers and this is truly great for our GraphQL developer community, who are usually part of Reactiflux, Vue Land etc. too.",
-      "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0",
-      "inviteCode": "vBPpJkS",
-      "githubUrl": "https://github.com/hasura/graphql-engine"
-    },
-    {
-      "logo": "songoda.png",
-      "title": "Songoda",
-      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "JabJmbe",
-      "githubUrl": "https://gitlab.com/Songoda"
-    },
-    {
-      "logo": "emberjs.png",
-      "title": "Ember.js",
-      "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
-      "inviteCode": "zT3asNS",
-      "githubUrl": "https://github.com/emberjs"
-    },
-    {
-      "logo": "godot.svg",
-      "title": "Godot Engine",
-      "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
-      "inviteCode": "zH7NUgz",
-      "githubUrl": "https://github.com/godotengine/"
-    },
-    {
-      "logo": "tes3mp.png",
-      "title": "TES3MP",
-      "quote": "Discord helps us provide immediate support to our players and keeps us in touch with them every day in a way that is far more personal and social than our forums and subreddit.",
-      "inviteCode": "ECJk293",
-      "githubUrl": "https://github.com/TES3MP/openmw-tes3mp"
-    },
-    {
-      "logo": "amethyst.png",
-      "title": "Amethyst Game Engine",
-      "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth.",
-      "inviteCode": "GnP5Whs",
-      "githubUrl": "https://github.com/amethyst"
-    },
-    {
-      "logo": "modorganizer.svg",
-      "title": "Mod Organizer",
-      "quote": "Discord allows our users to chat with the developers directly, and allow developers to get direct feedback regarding bugs and new features",
-      "inviteCode": "cYwdcxj",
-      "githubUrl": "https://github.com/Modorganizer2"
-    },
-    {
-      "logo": "papermc.svg",
-      "title": "PaperMC",
-      "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "jETyjUw",
-      "githubUrl": "https://github.com/PaperMC"
-    },
-    {
-       "logo": "enginehub.svg",
-       "title": "EngineHub",
-       "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
-       "inviteCode": "enginehub",
-       "githubUrl": "https://github.com/EngineHub"
-    },
-    {
-      "logo": "adafruit.svg",
-      "title": "Adafruit",
-      "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
-      "quoteSourceUrl": "https://www.adafruit.com/about/.",
-      "inviteCode": "https://discord.gg/adafruit",
-      "githubUrl": "https://github.com/adafruit"
-    }, 
-    {
-      "logo": "betterbags.png",
-      "title": "BetterBags",
-      "quote": "We use Discord to help bug catch, converse new ideas, and talk about improvements.",
-      "inviteCode": "w24CQMR",
-      "githubUrl": "https://github.com/Daeshan-B/BetterBags"
-    }
-
-  ]
-}
+        "data": [
+        {
+        "logo": "yarnpkg.svg",
+        "title": "Yarnpkg",
+        "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
+        "inviteCode": "yarnpkg",
+        "githubUrl": "https://github.com/yarnpkg"
+        },
+        {
+        "logo": "reactiflux.svg",
+        "title": "Reactiflux",
+        "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
+        "quoteSourceUrl": "https://reactjs.org/blog/2015/10/19/reactiflux-is-moving-to-discord.html",
+        "inviteCode": "reactiflux",
+        "githubUrl": "https://github.com/reactiflux"
+        },
+        {
+        "logo": "augur.svg",
+        "title": "Augur",
+        "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
+        "quoteSourceUrl": "https://medium.com/@AugurProject/adopting-discord-10d1b30bfcbb",
+        "inviteCode": "faud6Fx",
+        "githubUrl": "https://github.com/AugurProject"
+        },
+        {
+        "logo": "vuejs.svg",
+        "title": "Vue.js",
+        "quote": "The discussion is about how manageable Gitter currently is with over 10k users on gitter.im/vuejs/vue in which someone can easily get lost...[T]he plan right now is to switch to Discord which seems to be an easier to follow product.",
+        "quoteSourceUrl": "https://vuejsfeed.com/blog/gitter-chat-for-vue-js-is-moving-to-discord",
+        "inviteCode": "HBherRA",
+        "githubUrl": "https://github.com/vuejs"
+        },
+        {
+        "logo": "sia.svg",
+        "title": "Sia",
+        "quote": "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
+        "quoteSourceUrl": "https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6",
+        "inviteCode": "sia",
+        "githubUrl": "https://github.com/NebulousLabs/Sia"
+        },
+        {
+        "logo": "homeasst.svg",
+        "title": "Home Assistant",
+        "quote": "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
+        "quoteSourceUrl": "https://home-assistant.io/blog/2017/07/03/home-assistant-is-moving-to-discord/",
+        "inviteCode": "c5DvZ4e",
+        "githubUrl": "https://github.com/home-assistant"
+        },
+        {
+        "logo": "ubiq.svg",
+        "title": "Ubiq",
+        "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
+        "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
+        "inviteCode": "HF6vEGF",
+        "githubUrl": "https://github.com/ubiq"
+        },
+        {
+        "logo": "vuetify.svg",
+        "title": "Vuetify",
+        "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!",
+        "inviteCode": "s93b7Fv",
+        "githubUrl": "https://github.com/vuetifyjs"
+        },
+        {
+        "logo": "hearthsim.svg",
+        "title": "HearthSim",
+        "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans.",
+        "inviteCode": "hearthsim",
+        "githubUrl": "https://github.com/HearthSim"
+        },
+        {
+        "logo": "sharex.svg",
+        "title": "ShareX",
+        "quote": "We use Discord as our main communication channel with our users. When we are adding new features we can discuss it with users and get their feedback. It is also helpful for users to get support more quickly too, because when we are not available there will still be other users who can help with answering questions.",
+        "inviteCode": "ShareX",
+        "githubUrl": "https://github.com/ShareX/ShareX"
+        },
+        {
+        "logo": "jest.png",
+        "title": "Jest",
+        "inviteCode": "yrPdTqR",
+        "githubUrl": "https://github.com/facebook/jest"
+        },
+        {
+        "logo": "elixir.png",
+        "title": "Elixir",
+        "inviteCode": "elixir",
+        "githubUrl": "https://github.com/elixir-lang"
+        },
+        {
+        "logo": "redux.svg",
+        "title": "Redux",
+        "inviteCode": "aD26W3P",
+        "githubUrl": "https://github.com/reactjs/redux"
+        },
+        {
+        "logo": "graphql.svg",
+        "title": "GraphQL",
+        "inviteCode": "ef2h6QM",
+        "githubUrl": "https://github.com/graphql"
+        },
+        {
+        "logo": "reasonml.png",
+        "title": "ReasonML",
+        "inviteCode": "reasonml",
+        "githubUrl": "https://github.com/facebook/reason"
+        },
+        {
+        "logo": "formik.png",
+        "title": "Formik",
+        "inviteCode": "BYTdAgs",
+        "githubUrl": "https://github.com/jaredpalmer/formik"
+        },
+        {
+        "logo": "relay.svg",
+        "title": "Relay",
+        "inviteCode": "A5KakZH",
+        "githubUrl": "https://github.com/facebook/relay"
+        },
+        {
+        "logo": "docusaurus.png",
+        "title": "Docusaurus",
+        "inviteCode": "docusaurus",
+        "githubUrl": "https://github.com/facebook/Docusaurus"
+        },
+        {
+        "logo": "quasar.svg",
+        "title": "Quasar",
+        "inviteCode": "5TDhbDg",
+        "githubUrl": "https://github.com/quasarframework/quasar"
+        },
+        {
+        "logo": "flarum.svg",
+        "title": "Flarum",
+        "quote": "Discord shines not only in terms of performance, but more so in regards to design and ux. There is no other decent communication client able to match Discord, period.",
+        "inviteCode": "3fnPSjA",
+        "githubUrl": "https://github.com/flarum/flarum"
+        },
+        {
+        "logo": "rnfirebase.svg",
+        "title": "React Native Firebase",
+        "quote": "We tried Gitter, we tried Slack and then we loved Discord. It provides us with far more customisation than the previous two - especially in regards to user roles.",
+        "inviteCode": "C9aK28N",
+        "githubUrl": "https://github.com/invertase/react-native-firebase"
+        },
+        {
+        "logo": "obsproject.svg",
+        "title": "OBS Studio",
+        "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location.",
+        "inviteCode": "obsproject",
+        "githubUrl": "https://github.com/obsproject/obs-studio"
+        },
+        {
+        "logo": "rigsofrods.png",
+        "title": "Rigs of Rods",
+        "inviteCode": "rigsofrods",
+        "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods"
+        },
+        {
+        "logo": "myst.svg",
+        "title": "Myst Language",
+        "quote": "Discord is by far the best place to start a fledgling community like ours with an incredibly low barrier-to-entry and beautifully simple interface, but also providing powerful tools and infrastructure to grow massively (should that ever happen) without paywalls or having to switch services.",
+        "inviteCode": "8FtMeac",
+        "githubUrl": "https://github.com/myst-lang/myst"
+        },
+        {
+        "logo": "nodecg.svg",
+        "title": "NodeCG",
+        "inviteCode": "NNmVz4x",
+        "githubUrl": "https://github.com/nodecg/nodecg"
+        },
+        {
+        "logo": "linuxgsm.svg",
+        "title": "LinuxGSM",
+        "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup their own Linux game server. Making it easy for everyone to help and collaborate together.",
+        "inviteCode": "UM4VTpK",
+        "githubUrl": "https://github.com/GameServerManagers/LinuxGSM"
+        },
+        {
+        "logo": "opendota.svg",
+        "title": "OpenDota",
+        "quote": "Community-maintained open source Dota 2 data platform.",
+        "quoteSourceUrl": "https://github.com/odota",
+        "inviteCode": "0o5SQGbXuWCNDcaF",
+        "githubUrl": "https://github.com/odota"
+        },
+        {
+        "logo": "semux.svg",
+        "title": "Semux",
+        "quote": "Semux is an innovative high-performance blockchain platform powered by Semux BFT consensus algorithm.",
+        "quoteSourceUrl": "https://www.semux.org/",
+        "inviteCode": "9yJGkr3",
+        "githubUrl": "https://github.com/semuxproject/"
+        },
+        {
+        "logo": "hyperium.png",
+        "title": "Hyperium Client",
+        "inviteCode": "8GakFcT",
+        "githubUrl": "https://github.com/HyperiumClient"
+        },
+        {
+        "logo": "organizr.png",
+        "title": "Organizr",
+        "quote": "HTPC/Homelab Services Organizer - Written in PHP",
+        "inviteCode": "TrNtY7N",
+        "githubUrl": "https://github.com/causefx/organizr"
+        },
+        {
+        "logo": "riiconnect24.svg",
+        "title": "RiiConnect24",
+        "quote": "Discord is by far the best chat service around. We have grown a close-knit community with it, and everyone enjoys using it.",
+        "inviteCode": "b4Y7jfD",
+        "githubUrl": "https://github.com/RiiConnect24"
+        },
+        {
+        "logo": "plexiLogo.png",
+        "title": "Quick.db",
+        "quote": "We use Discord as the primary platform for our project to collaborate on and share our database entry system whilst gaining instant feedback through the great amount of members within the active coding community. We are able to enhance and develop our project on a weekly basis by directly contacting the users involved of which has allowed us to create a method between the community and developers a chance for all users to contribute along with the ease of use regardless of Node.js Development knowledge.  We have created a user-friendly database entry system with a quick and resourceful team to assist those who need guidance.",
+        "inviteCode": "plexidev",
+        "githubUrl": "https://github.com/Plexi-Development/quick.db"
+        },
+        {
+        "logo": "pterodactyl.svg",
+        "title": "Pterodactyl",
+        "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!",
+        "inviteCode": "QRDZvVm",
+        "githubUrl": "https://github.com/pterodactyl"
+        },
+        {
+        "logo": "openSUSE.svg",
+        "title": "openSUSE",
+        "quote": "openSUSE is a community based project. When the community brought up the idea of a Discord server, it only made sense to create one. We try our best to help people with all their tech support needs and enable people to contribute in many different ways. It's our mission to keep openSUSE community focused and growing. Utilising many platforms lets us focus on understanding users more so we can adjust and grow.",
+        "inviteCode": "opensuse",
+        "githubUrl": "https://github.com/openSUSE"
+        },
+        {
+        "logo": "fedora.svg",
+        "title": "Fedora",
+        "quote": "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you do useful stuff with it. Our four foundations are Freedom, Friends, Features, and First. Discord is one of the networks that helps enable the Friends to connect.",
+        "inviteCode": "fedora",
+        "githubUrl": "https://fedoraproject.org"
+        },
+        {
+        "logo": "translucenttb.svg",
+        "title": "TranslucentTB",
+        "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
+        "inviteCode": "w95DGTK",
+        "githubUrl": "https://github.com/TranslucentTB"
+        },
+        {
+        "logo": "rpcs3.svg",
+        "title": "RPCS3",
+        "quote": "RPCS3 relies heavily on Discord. With over 3,000 people online at nearly any given time and over 28,000 in the server, RPCS3’s Discord is one of the largest, if not the largest, for an open-source software project. In addition to providing a community where people can discuss RPCS3’s progress, games they play on it, and sharing screenshots from those games, it actively contributes to development by given the developers real-time chats where they can discuss with each other and with the public at large about how to fix issues.",
+        "quoteSourceUrl": "https://rpcs3.net/blog/2018/05/20/progress-report-april-2018/",
+        "inviteCode": "a6zm2T8",
+        "githubUrl": "https://github.com/RPCS3/rpcs3"
+        },
+        {
+        "logo": "brave.png",
+        "title": "Brave Browser",
+        "quote": "Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.",
+        "quoteSourceUrl": "https://brave.com",
+        "inviteCode": "k57tYrS",
+        "githubUrl": "https://github.com/brave/browser-laptop"
+        },
+        {
+        "logo": "vapor.svg",
+        "title": "Vapor",
+        "quote": "Creating modular server side software with Swift.",
+        "quoteSourceUrl": "http://vapor.codes",
+        "inviteCode": "vapor",
+        "githubUrl": "https://github.com/vapor/vapor"
+        },
+        {
+        "logo": "buildcraft.png",
+        "title": "BuildCraft",
+        "quote": "Discord has allowed us to get the community organized again, offering support, talking about the future of the mod and much more.",
+        "inviteCode": "BuildCraft",
+        "githubUrl": "https://github.com/BuildCraft/BuildCraft"
+        },
+        {
+        "logo": "tachiyomi.png",
+        "title": "Tachiyomi",
+        "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
+        "inviteCode": "2dDQBv2",
+        "githubUrl": "https://github.com/inorichi/tachiyomi"
+        },
+        {
+        "logo": "luckperms.svg",
+        "title": "LuckPerms",
+        "quote": "We use Discord to provide help and support, as well as for chatting to users about upcoming updates and the process of contributing to the project!",
+        "quoteSourceUrl": "https://luckperms.github.io/",
+        "inviteCode": "W3FzxHA",
+        "githubUrl": "https://github.com/lucko/LuckPerms"
+        },
+        {
+        "logo": "akromalogo.svg",
+        "title": "Akroma",
+        "inviteCode": "UJxkpSx",
+        "githubUrl": "https://github.com/akroma-project/akroma"
+        },
+        {
+        "logo": "gitea.svg",
+        "title": "Gitea",
+        "inviteCode": "sRC9wMU",
+        "githubUrl": "https://github.com/go-gitea/gitea"
+        },
+        {
+        "logo": "lbry.png",
+        "title": "LBRY",
+        "quote": "LBRY is a free, open, and community-run digital marketplace,You own your data. You control the network. Indeed, you are the network, Hollywood films, college lessons, amazing streamers and more are on the first media network ruled by you!",
+        "quoteSourceUrl": "https://lbry.io",
+        "inviteCode": "Z3bERWA",
+        "githubUrl": "https://github.com/lbryio/"
+        },
+        {
+        "logo": "Ravencoin.png",
+        "title": "Ravencoin",
+        "quote": "Ravencoin is completely open source, community orientated and run its main purpose is to have a case specific blockchain to show who owns what asset.",
+        "quoteSourceUrl": "https://ravencoin.org",
+        "inviteCode": "44APdew",
+        "githubUrl": "https://github.com/RavenProject"
+        },
+        {
+        "logo": "neofetch.png",
+        "title": "Neofetch",
+        "quote": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
+        "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
+        "inviteCode": "BtnTPFF",
+        "githubUrl": "https://github.com/dylanaraps/neofetch"
+        },
+        {
+        "logo": "pywal.png",
+        "title": "pywal",
+        "quote": "Pywal is a tool that generates a color palette from the dominant colors in an image. It then applies the colors system-wide and on-the-fly in all of your favourite programs.",
+        "quoteSourceUrl": "https://github.com/dylanaraps/pywal",
+        "inviteCode": "fK3RhsD",
+        "githubUrl": "https://github.com/dylanaraps/pywal"
+        },
+        {
+        "logo": "blink.png",
+        "title": "Blink",
+        "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
+        "quoteSourceUrl": "http://blink.sh",
+        "inviteCode": "ZTtMfvK",
+        "githubUrl": "http://github.com/blinksh/blink"
+        },
+        {
+        "logo": "vertcoin.png",
+        "title": "Vertcoin",
+        "quote": "A digital currency with mining decentralisation and ASIC resistance as a key focus.",
+        "quoteSourceUrl": "https://github.com/vertcoin-project/vertcoin-core",
+        "inviteCode": "vertcoin",
+        "githubUrl": "https://github.com/vertcoin-project"
+        },
+        {
+        "logo": "nano.png",
+        "title": "Nano Currency",
+        "quote": "Digital currency for the real world – the fast and free way to pay for everything in life.",
+        "quoteSourceUrl": "https://nano.org/en",
+        "inviteCode": "JphbBas",
+        "githubUrl": "https://github.com/nanocurrency/raiblocks"
+        },
+        {
+        "logo": "adonis.svg",
+        "title": "AdonisJs",
+        "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community.",
+        "inviteCode": "k5myGAz",
+        "githubUrl": "https://github.com/adonisjs"
+        },
+        {
+        "logo": "pivx.png",
+        "title": "PIVX",
+        "quote": "Private Instant Verified Transaction (PIVX), a digital currency focused on privacy and fast transactions uses Discord as a platform to engage with our users",
+        "quoteSourceURL": "https://www.pivx.org",
+        "inviteCode": "ktYKb32",
+        "githubUrl": "https://github.com/pivx-project"
+        },
+        {
+        "logo": "spongepowered.png",
+        "title": "SpongePowered",
+        "quote": "Discord allowed us to connect better with our community offering support and resources for developers and users in a central location.",
+        "inviteCode": "PtaGRAs",
+        "githubUrl": "https://github.com/spongepowered"
+        },
+        {
+        "logo": "rainmeter.svg",
+        "title": "Rainmeter",
+        "quote": "Discord makes it easy for us to communicate with, help out, and grow our community.",
+        "inviteCode": "Rainmeter",
+        "githubUrl": "https://github.com/rainmeter/rainmeter"
+        },
+        {
+        "logo": "luvit.png",
+        "title": "Luvit",
+        "quote": "Discord helped us organize the Luvit community and made it easier for people to find and contribute to Luvit",
+        "inviteCode": "luvit",
+        "githubUrl": "https://github.com/luvit/luvit"
+        },
+        {
+        "logo": "ethergem.png",
+        "title": "EtherGem",
+        "quote": "Ethergem is the foundational currency platform with an integrated subchain, and featureset.",
+        "quoteSrc": "https://egem.io",
+        "inviteCode": "zav3EkW",
+        "githubUrl": "https://github.com/TeamEGEM"
+        },
+        {
+        "logo": "lindacoin.png",
+        "title": "Lindacoin",
+        "quote": "Lindacoin is a peer to peer hybrid digital currency. It creates utility products that allow Linda to be used in everyday scenarios. It also offers partnership opportunities to other cryptocurrencies to use the Lindacoin platform. Lindacoin offers a scamfree token platform.",
+        "inviteCode": "SHNjQBv",
+        "githubUrl": "https://github.com/TheLindaProjectInc"
+        },
+        {
+        "logo": "rupaya.png",
+        "title": "Rupaya",
+        "quote": "Optional: Built for South Asia,With native currency exchange, we make our digital crypto asset RUPX accessible to ordinary users and merchants.",
+        "quoteSourceUrl": "https://rupx.io.",
+        "inviteCode": "tJ3UWSP",
+        "githubUrl": "https://github.com/rupaya-project/rupaya"
+        },
+        {
+        "logo": "gentoo.png",
+        "title": "Gentoo Linux",
+        "quote": "Gentoo Linux is free operating system based or Linux or FreeBSD that can be automatically optimized and customized for just about any application or need.",
+        "quoteSourceUrl": "https://www.gentoo.org/",
+        "inviteCode": "gentoo",
+        "githubUrl": "https://github.com/gentoo"
+        },
+        {
+        "logo": "librenms.svg",
+        "title": "LibreNMS",
+        "quote": "Discord has improved communication allowing LibreNMS to continue to scale the community of this fully featured network monitoring system. A low barrier to entry and a bridge to IRC have made it easier than ever for LibreNMS users to collaborate, helping each other with great features like code highlighting, screen sharing, and voice communication.",
+        "quoteSourceUrl": "https://www.librenms.org",
+        "inviteCode": "V8s5JZJ",
+        "githubUrl": "https://github.com/librenms/librenms"
+        },
+        {
+        "logo": "vue-material.svg",
+        "title": "Vue Material",
+        "quote": "Build beautiful apps with Material Design and Vue.js.",
+        "quoteSourceUrl": "https://vuematerial.io",
+        "inviteCode": "vuematerial",
+        "githubUrl": "https://github.com/vuematerial/vue-material"
+        },
+        {
+        "logo": "osu.svg",
+        "title": "osu!",
+        "quote": "All development discussion surrounding our game, the underlying game framework, community organisation and management happens on Discord. It is indispensible.",
+        "quoteSourceUrl": "https://osu.ppy.sh",
+        "inviteCode": "ppy",
+        "githubUrl": "https://github.com/ppy/osu"
+        },
+        {
+        "logo": "opentk.png",
+        "title": "OpenTK",
+        "quote": "Discord allows our users to chat with the developers, maintainers, and other users of OpenTK. If these users want help, you know they'll get it fast!",
+        "inviteCode": "6HqD48s",
+        "githubUrl": "https://github.com/opentk"
+        },
+        {
+        "logo": "Groestlcoin.png",
+        "title": "Groestlcoin",
+        "quote": "We used to use Slack for the primary form of communication with our community, but since moving to Discord, everything has been so much simpler, from simply inviting new users without restrictions, to moderating the chat, everything is so much easier and cleaner.  We have since completely closed down our Slack social channel.",
+        "inviteCode": "tVQ43rA",
+        "githubUrl": "https://github.com/Groestlcoin"
+        },
+        {
+        "logo": "laravel-tenancy.svg",
+        "title": "Laravel Tenancy",
+        "inviteCode": "53PWMwb",
+        "githubUrl": "https://github.com/tenancy",
+        "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
+        },
+        {
+        "logo": "RLBot.png",
+        "title": "RLBot",
+        "quote": "Discord is THE place where we plan the project, organize tournaments, help our users, and build a community.",
+        "inviteCode": "29sFUCq",
+        "githubUrl": "https://github.com/RLBot/RLBot"
+        },
+        {
+        "logo": "gridcoin.png",
+        "title": "Gridcoin",
+        "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction.",
+        "inviteCode": "jf9XX4a",
+        "githubUrl": "https://github.com/gridcoin-community"
+        },
+        {
+        "logo": "cdnjs.png",
+        "title": "cdnjs",
+        "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our service, engaging in discussion about how we can better the service we provide.",
+        "inviteCode": "xVpxssn",
+        "githubUrl": "https://github.com/cdnjs"
+        },
+        {
+        "logo": "vuesax.png",
+        "title": "Vuesax",
+        "inviteCode": "2kHwpfe",
+        "githubUrl": "https://github.com/lusaxweb/vuesax"
+        },
+        {
+        "logo": "nuxtjs.png",
+        "title": "Nuxt.js",
+        "inviteCode": "Y6HGQeP",
+        "githubUrl": "https://github.com/nuxt/nuxt.js"
+        },
+        {
+        "logo": "poi.png",
+        "title": "Poi",
+        "inviteCode": "2t5mdCz",
+        "githubUrl": "https://github.com/egoist/poi"
+        },
+        {
+        "logo": "buefy.png",
+        "title": "Buefy",
+        "inviteCode": "ZkdFJMr",
+        "githubUrl": "https://github.com/buefy/buefy"
+        },
+        {
+        "logo": "hasura.svg",
+        "title": "Hasura",
+        "quote": "We moved to Discord when messages started disappearing on Slack. Discord makes it really easy for users to be a part of multiple servers and this is truly great for our GraphQL developer community, who are usually part of Reactiflux, Vue Land etc. too.",
+        "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0",
+        "inviteCode": "vBPpJkS",
+        "githubUrl": "https://github.com/hasura/graphql-engine"
+        },
+        {
+        "logo": "songoda.png",
+        "title": "Songoda",
+        "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
+        "inviteCode": "JabJmbe",
+        "githubUrl": "https://gitlab.com/Songoda"
+        },
+        {
+        "logo": "emberjs.png",
+        "title": "Ember.js",
+        "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
+        "inviteCode": "zT3asNS",
+        "githubUrl": "https://github.com/emberjs"
+        },
+        {
+        "logo": "godot.svg",
+        "title": "Godot Engine",
+        "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
+        "inviteCode": "zH7NUgz",
+        "githubUrl": "https://github.com/godotengine/"
+        },
+        {
+        "logo": "tes3mp.png",
+        "title": "TES3MP",
+        "quote": "Discord helps us provide immediate support to our players and keeps us in touch with them every day in a way that is far more personal and social than our forums and subreddit.",
+        "inviteCode": "ECJk293",
+        "githubUrl": "https://github.com/TES3MP/openmw-tes3mp"
+        },
+        {
+        "logo": "amethyst.png",
+        "title": "Amethyst Game Engine",
+        "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth.",
+        "inviteCode": "GnP5Whs",
+        "githubUrl": "https://github.com/amethyst"
+        },
+        {
+        "logo": "modorganizer.svg",
+        "title": "Mod Organizer",
+        "quote": "Discord allows our users to chat with the developers directly, and allow developers to get direct feedback regarding bugs and new features",
+        "inviteCode": "cYwdcxj",
+        "githubUrl": "https://github.com/Modorganizer2"
+        },
+        {
+        "logo": "papermc.svg",
+        "title": "PaperMC",
+        "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
+        "inviteCode": "jETyjUw",
+        "githubUrl": "https://github.com/PaperMC"
+        },
+        {
+        "logo": "IntellectualSites.svg",
+        "title": "IntellectualSites",
+        "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
+        "inviteCode": "ngZCzbU",
+        "githubUrl": "https://github.com/IntellectualSites"
+        },
+        {
+        "logo": "enginehub.svg",
+        "title": "EngineHub",
+        "quote": "Discord has allowed us to massively streamline support requests, and created a dynamic community around our projects.",
+        "inviteCode": "enginehub",
+        "githubUrl": "https://github.com/EngineHub"
+        },
+        {
+        "logo": "adafruit.svg",
+        "title": "Adafruit",
+        "quote": "Adafruit, a USA manufacturer of educational open-source hardware and software, uses Discord for creating Code + Community.",
+        "quoteSourceUrl": "https://www.adafruit.com/about/",
+        "inviteCode": "adafruit",
+        "githubUrl": "https://github.com/adafruit"
+        },
+        {
+        "logo": "betterbags.png",
+        "title": "BetterBags",
+        "quote": "We use Discord to help bug catch, converse new ideas, and talk about improvements.",
+        "inviteCode": "w24CQMR",
+        "githubUrl": "https://github.com/Daeshan-B/BetterBags"
+        }
+        ]
+        }
