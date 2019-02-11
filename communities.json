@@ -597,6 +597,14 @@
       "quoteSourceUrl": "https://www.adafruit.com/about/",
       "inviteCode": "adafruit",
       "githubUrl": "https://github.com/adafruit"
+    },
+    {
+      "logo": "uikit.svg",
+      "title": "UIkit",
+      "quote": "Discord is the easiest way to connect with fellow UIkit users and developers. It became the heartbeat of our community and is the best tool we've used yet.",
+      "quoteSourceUrl": "https://getuikit.com",
+      "inviteCode": "NEt4Pv7",
+      "githubUrl": "https://github.com/uikit"
     }
   ]
 }
