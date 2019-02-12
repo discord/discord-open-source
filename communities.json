@@ -612,6 +612,13 @@
       "quote": "Discord has allowed us to build a great community of passionate Linux gamers and provide better support for Lutris.",
       "inviteCode": "Pnt5CuY",
       "githubUrl": "https://github.com/lutris"
+    },
+    {
+      "logo": "edublocks.png",
+      "title": "EduBlocks",
+      "quote": "EduBlocks, a project developed by a teenage software developer, helps kids learn how to code with text based programming languages. We use Discord to communicate with collaborators and users to share ideas and update them on exciting new features.",
+      "inviteCode": "xTD9KawY",
+      "githubUrl": "https://github.com/allaboutcode/edublocks"
     }
   ]
 }
