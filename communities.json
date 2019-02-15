@@ -613,5 +613,13 @@
       "inviteCode": "Pnt5CuY",
       "githubUrl": "https://github.com/lutris"
     }
+    ,
+    {
+      "logo": "gatsby.svg",
+      "title": "Gatsby",
+      "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
+      "inviteCode": "5tdtA9k",
+      "githubUrl": "https://github.com/gatsbyjs/gatsby"
+    }
   ]
 }
