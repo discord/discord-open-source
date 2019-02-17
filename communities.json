@@ -612,6 +612,13 @@
       "quote": "Discord has allowed us to build a great community of passionate Linux gamers and provide better support for Lutris.",
       "inviteCode": "Pnt5CuY",
       "githubUrl": "https://github.com/lutris"
+    },
+    {
+      "logo": "dbmmods.png",
+      "title": "DBM Network",
+      "quote": "We are a community creating modifications for a software called Discord Bot Maker. Discord gives everyone the oppertunity to add bots to their platform.",
+      "inviteCode": "3QxkZPK",
+      "githubUrl": "https://github.com/Discord-Bot-Maker-Mods"
     }
   ]
 }
