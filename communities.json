@@ -612,6 +612,13 @@
       "quote": "Discord has allowed us to build a great community of passionate Linux gamers and provide better support for Lutris.",
       "inviteCode": "Pnt5CuY",
       "githubUrl": "https://github.com/lutris"
+    },
+    {
+      "logo": "tailwindcss.svg",
+      "title": "Tailwind CSS",
+      "quote": "Discord is the best way for the Tailwind CSS community to collaborate in real-time.",
+      "inviteCode": "7NF8GNe",
+      "githubUrl": "https://github.com/tailwindcss/tailwindcss"
     }
   ]
 }
