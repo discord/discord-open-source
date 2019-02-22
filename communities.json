@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "litecoincash.png",
+      "title": "Litecoin Cash",
+      "quote": "Discord is more than just a social hangout for our devteam; it's the hub of our entire community.",
+      "inviteCode": "gYbBxVq",
+      "githubUrl": "https://github.com/litecoincash-project"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
