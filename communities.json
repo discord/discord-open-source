@@ -614,6 +614,13 @@
       "githubUrl": "https://github.com/lutris"
     },
     {
+      "logo": "gridsome.svg",
+      "title": "Gridsome",
+      "quote": "Discord lets us have a fun and engaging place for our fast growing Gridsome Community. Discord is fast and has the perfect tools for building a developer community.",
+      "inviteCode": "daeay6n",
+      "githubUrl": "https://github.com/gridsome/gridsome"
+    },
+    {
       "logo": "gatsby.svg",
       "title": "Gatsby",
       "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
