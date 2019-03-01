@@ -614,6 +614,13 @@
       "githubUrl": "https://github.com/lutris"
     },
     {
+      "logo": "segs.png",
+      "title": "SEGS",
+      "quote": "Super Entity Game Server",
+      "inviteCode": "t4wr8A9",
+      "githubUrl": "https://github.com/Segs"
+    },
+    {
       "logo": "gridsome.svg",
       "title": "Gridsome",
       "quote": "Discord lets us have a fun and engaging place for our fast growing Gridsome Community. Discord is fast and has the perfect tools for building a developer community.",
