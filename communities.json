@@ -614,27 +614,6 @@
       "githubUrl": "https://github.com/lutris"
     },
     {
-      "logo": "segs.png",
-      "title": "SEGS",
-      "quote": "Super Entity Game Server",
-      "inviteCode": "t4wr8A9",
-      "githubUrl": "https://github.com/Segs"
-    },
-    {
-      "logo": "gridsome.svg",
-      "title": "Gridsome",
-      "quote": "Discord lets us have a fun and engaging place for our fast growing Gridsome Community. Discord is fast and has the perfect tools for building a developer community.",
-      "inviteCode": "daeay6n",
-      "githubUrl": "https://github.com/gridsome/gridsome"
-    },
-    {
-      "logo": "gatsby.svg",
-      "title": "Gatsby",
-      "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
-      "inviteCode": "5tdtA9k",
-      "githubUrl": "https://github.com/gatsbyjs/gatsby"
-    },
-    {
       "logo": "dbmmods.png",
       "title": "DBM Network",
       "quote": "We are a community creating modifications for a software called Discord Bot Maker. Discord gives everyone the oppertunity to add bots to their platform.",
