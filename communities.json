@@ -614,6 +614,13 @@
       "githubUrl": "https://github.com/lutris"
     },
     {
+      "logo": "tailwindcss.svg",
+      "title": "Tailwind CSS",
+      "quote": "Discord is the best way for the Tailwind CSS community to collaborate in real-time.",
+      "inviteCode": "7NF8GNe",
+      "githubUrl": "https://github.com/tailwindcss/tailwindcss"
+    },
+    {
       "logo": "segs.png",
       "title": "SEGS",
       "quote": "Super Entity Game Server",
