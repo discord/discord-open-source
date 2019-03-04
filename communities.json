@@ -614,6 +614,34 @@
       "githubUrl": "https://github.com/lutris"
     },
     {
+      "logo": "tailwindcss.svg",
+      "title": "Tailwind CSS",
+      "quote": "Discord is the best way for the Tailwind CSS community to collaborate in real-time.",
+      "inviteCode": "7NF8GNe",
+      "githubUrl": "https://github.com/tailwindcss/tailwindcss"
+    },
+    {
+      "logo": "segs.png",
+      "title": "SEGS",
+      "quote": "Super Entity Game Server",
+      "inviteCode": "t4wr8A9",
+      "githubUrl": "https://github.com/Segs"
+    },
+    {
+      "logo": "gridsome.svg",
+      "title": "Gridsome",
+      "quote": "Discord lets us have a fun and engaging place for our fast growing Gridsome Community. Discord is fast and has the perfect tools for building a developer community.",
+      "inviteCode": "daeay6n",
+      "githubUrl": "https://github.com/gridsome/gridsome"
+    },
+    {
+      "logo": "gatsby.svg",
+      "title": "Gatsby",
+      "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
+      "inviteCode": "5tdtA9k",
+      "githubUrl": "https://github.com/gatsbyjs/gatsby"
+    },
+    {
       "logo": "edublocks.png",
       "title": "EduBlocks",
       "quote": "EduBlocks, a project developed by a teenage software developer, helps kids learn how to code with text based programming languages. We use Discord to communicate with collaborators and users to share ideas and update them on exciting new features.",
