@@ -640,6 +640,14 @@
       "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
       "inviteCode": "5tdtA9k",
       "githubUrl": "https://github.com/gatsbyjs/gatsby"
+    },
+    {
+      "logo": "flutter.png",
+      "title": "Flutter",
+      "quote": "Talk to other Flutter developers about everything Flutter-related, and share useful resources.",
+      "quoteSourceUrl": "https://flutter.dev/community",
+      "inviteCode": "N7Yshp4",
+      "githubUrl": "https://github.com/flutter/flutter"
     }
   ]
 }
