@@ -640,6 +640,13 @@
       "quote": "Discord allowed us to create a community hub to all things related to Gatsby. It enables us to foster an open and welcoming environment for all people. We love to chat with our awesome community.",
       "inviteCode": "5tdtA9k",
       "githubUrl": "https://github.com/gatsbyjs/gatsby"
+    },
+    {
+      "logo": "quiet.png",
+      "title": "Quiet Modem",
+      "quote": "Quiet Modem has benefitted greatly from using Discord to communicate with its users and learn what they need and share knowledge.",
+      "inviteCode": "eRw5UjF",
+      "githubUrl": "https://github.com/quiet"
     }
   ]
 }
