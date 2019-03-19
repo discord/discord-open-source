@@ -642,6 +642,14 @@
       "githubUrl": "https://github.com/gatsbyjs/gatsby"
     },
     {
+      "logo": "dvc.svg",
+      "title": "DVC",
+      "quote": "We choose Discord, because it is a great platform - open, reliable, easy-to-access. With Discord we can focus on growing our community without any limitations. ",
+      "quoteSourceUrl": "https://dvc.org/",
+      "inviteCode": "dvwXA2N",
+      "githubUrl": "https://github.com/iterative/dvc"
+    },
+    {
       "logo": "flutter.png",
       "title": "Flutter",
       "quote": "Talk to other Flutter developers about everything Flutter-related, and share useful resources.",
