@@ -642,6 +642,13 @@
       "githubUrl": "https://github.com/gatsbyjs/gatsby"
     },
     {
+      "logo": "openxcom.svg",
+      "title": "OpenXcom",
+      "quote": "Discord made communication between developers and players much easier.",
+      "inviteCode": "kd5UDeT",
+      "githubUrl": "https://github.com/OpenXcom/OpenXcom"
+    },
+    {
       "logo": "dvc.svg",
       "title": "DVC",
       "quote": "We choose Discord, because it is a great platform - open, reliable, easy-to-access. With Discord we can focus on growing our community without any limitations. ",
