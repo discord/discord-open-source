@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "resonant-rise.png",
+      "title": "Resonant Rise",
+      "quote": "Discord enables us to engage with our community on a personal level and continues to be an essential tool in our collaboration and development efforts. Communities makes the dream work.",
+      "inviteCode": "k7NRsYE",
+      "githubUrl": "https://github.com/resonant-rise"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
