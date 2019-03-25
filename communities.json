@@ -663,6 +663,13 @@
       "quoteSourceUrl": "https://flutter.dev/community",
       "inviteCode": "N7Yshp4",
       "githubUrl": "https://github.com/flutter/flutter"
+    },
+    {
+      "logo": "denizenscript.png",
+      "title": "DenizenScript",
+      "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
+      "inviteCode": "Q6pZGSR",
+      "githubUrl": "https://github.com/DenizenScript"
     }
   ]
 }
