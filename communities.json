@@ -670,6 +670,13 @@
       "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
       "inviteCode": "Q6pZGSR",
       "githubUrl": "https://github.com/DenizenScript"
+    },
+    {
+      "logo": "placeholderapi.png",
+      "title": "PlaceholderAPI",
+      "quote": "Discord allows us to provide our users with blazing fast live support.",
+      "inviteCode": "FtArYRQ",
+      "githubUrl": "https://github.com/PlaceholderAPI"
     }
   ]
 }
