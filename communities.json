@@ -670,6 +670,14 @@
       "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
       "inviteCode": "Q6pZGSR",
       "githubUrl": "https://github.com/DenizenScript"
+    },
+    {
+      "logo": "alpine-linux.svg",
+      "title": "Alpine Linux",
+      "quote": "Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.",
+      "quoteSourceUrl": "https://alpinelinux.org/",
+      "inviteCode": "alpine",
+      "githubUrl": "https://github.com/alpinelinux"
     }
   ]
 }
