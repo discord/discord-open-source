@@ -658,6 +658,13 @@
       "githubUrl": "https://github.com/flutter/flutter"
     },
     {
+      "logo": "panda3d.png",
+      "title": "Panda3D",
+      "quote": "Our Discord server has enabled us not only to improve communication among developers, but also to foster an open community in which people are happy to help out fellow developers.",
+      "inviteCode": "UyepRMm",
+      "githubUrl": "https://github.com/panda3d/panda3d"
+    },
+    {
       "logo": "denizenscript.png",
       "title": "DenizenScript",
       "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
