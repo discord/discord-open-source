@@ -280,13 +280,6 @@
       "githubUrl": "https://github.com/BuildCraft/BuildCraft"
     },
     {
-      "logo": "tachiyomi.png",
-      "title": "Tachiyomi",
-      "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
-      "inviteCode": "2dDQBv2",
-      "githubUrl": "https://github.com/inorichi/tachiyomi"
-    },
-    {
       "logo": "luckperms.svg",
       "title": "LuckPerms",
       "quote": "We use Discord to provide help and support, as well as for chatting to users about upcoming updates and the process of contributing to the project!",
@@ -663,6 +656,13 @@
       "quoteSourceUrl": "https://flutter.dev/community",
       "inviteCode": "N7Yshp4",
       "githubUrl": "https://github.com/flutter/flutter"
+    },
+    {
+      "logo": "panda3d.png",
+      "title": "Panda3D",
+      "quote": "Our Discord server has enabled us not only to improve communication among developers, but also to foster an open community in which people are happy to help out fellow developers.",
+      "inviteCode": "UyepRMm",
+      "githubUrl": "https://github.com/panda3d/panda3d"
     },
     {
       "logo": "denizenscript.png",
