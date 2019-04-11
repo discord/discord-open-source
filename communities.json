@@ -670,6 +670,13 @@
       "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
       "inviteCode": "Q6pZGSR",
       "githubUrl": "https://github.com/DenizenScript"
+    },
+    {
+      "logo": "cubg.png",
+      "title": "CUBG",
+      "quote": "Discord has allowed our team to connect with our commmunity, resolve issues, provide support, add localization, and much more.",
+      "inviteCode": "gmcMRRk",
+      "githubUrl": "https://github.com/CUBGTeam/"
     }
   ]
 }
