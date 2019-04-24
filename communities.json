@@ -482,9 +482,9 @@
       "githubUrl": "https://github.com/gridcoin-community"
     },
     {
-      "logo": "cdnjs.png",
+      "logo": "cdnjs.svg",
       "title": "cdnjs",
-      "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our service, engaging in discussion about how we can better the service we provide.",
+      "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our CDN service, engaging in discussion about how we can better the service we provide.",
       "inviteCode": "xVpxssn",
       "githubUrl": "https://github.com/cdnjs"
     },
