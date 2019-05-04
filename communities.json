@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "turtlecoin.png",
+      "title": "TurtleCoin",
+      "quote": "Discord is the hub of our award-winning cryptocurrency community.",
+      "inviteCode": "jc5Traq",
+      "githubUrl": "https://github.com/turtlecoin"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
