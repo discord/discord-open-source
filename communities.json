@@ -671,6 +671,13 @@
       "quote": "Using Discord to help Users connect to 1000's of MUD Servers and Mudlet developers to connect to each other...",
       "inviteCode": "rmFG7Wr",
       "githubUrl": "https://github.com/Mudlet/Mudlet"
+    },
+    {
+      "logo": "placeholderapi.png",
+      "title": "PlaceholderAPI",
+      "quote": "Discord allows us to provide all our users from around the world with blazing fast live support.",
+      "inviteCode": "FtArYRQ",
+      "githubUrl": "https://github.com/PlaceholderAPI"
     }
   ]
 }
