@@ -194,12 +194,6 @@
       "githubUrl": "https://github.com/semuxproject/"
     },
     {
-      "logo": "hyperium.png",
-      "title": "Hyperium Client",
-      "inviteCode": "8GakFcT",
-      "githubUrl": "https://github.com/HyperiumClient"
-    },
-    {
       "logo": "organizr.png",
       "title": "Organizr",
       "quote": "HTPC/Homelab Services Organizer - Written in PHP",
