@@ -16,6 +16,14 @@
       "githubUrl": "https://github.com/reactiflux"
     },
     {
+      "logo": "vary.png",
+      "title": "Vary",
+      "quote": "The Vary is a Discord Bot, made for the best plataform of chat ever!",
+      "quoteSourceUrl": "https://medium.com/@itsdiogo912/adopting-discord-7cc5368be23a",
+      "inviteCode": "wHRnyWB",
+      "githubUrl": "https://github.com/varybot"
+    },
+    {
       "logo": "augur.svg",
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
