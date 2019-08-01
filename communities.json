@@ -673,5 +673,12 @@
       "inviteCode": "G7Qnnhy",
       "githubUrl": "https://github.com/nestjs"
     }
+    {
+      "logo": "lsio.png",
+      "title": "LinuxServer.io",
+      "quote": "Using Discord to create a community between our users and developers.",
+      "inviteCode": "YWrKVTn",
+      "githubUrl": "https://github.com/linuxserver/"
+}
   ]
 }
