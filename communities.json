@@ -679,6 +679,14 @@
       "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers.",
       "inviteCode": "G7Qnnhy",
       "githubUrl": "https://github.com/nestjs"
+    },
+    {
+      "logo": "typescript.svg",
+      "title": "TypeScript",
+      "quote": "Chat with other TypeScript users in the TypeScript Community Chat.",
+      "quoteSourceUrl": "https://www.typescriptlang.org/community/",
+      "inviteCode": "typescript",
+      "githubUrl": "https://github.com/microsoft/TypeScript"
     }
   ]
 }
