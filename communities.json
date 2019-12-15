@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "discord-illyria-os-logo.svg",
+      "title": "Illyria",
+      "quote": "We use discord as a central hub for our community, support, and organizational structure.",
+      "inviteCode": "JfQKSDh",
+      "githubUrl": "https://github.com/illyria-io"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
