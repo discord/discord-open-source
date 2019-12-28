@@ -294,6 +294,13 @@
       "inviteCode": "UJxkpSx",
       "githubUrl": "https://github.com/akroma-project/akroma"
     },
+	{
+      "logo": "verge.png",
+      "title": "Verge",
+	  "quote": "Our Discord server is for $XVG technical support, general cryptocurrency discussions, and fun/gaming!",
+      "inviteCode": "vergecurrency",
+      "githubUrl": "https://github.com/vergecurrency/"
+    },
     {
       "logo": "gitea.svg",
       "title": "Gitea",
