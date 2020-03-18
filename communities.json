@@ -681,7 +681,7 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
-      "logo": "deno.svg",
+      "logo": "deno.png",
       "title": "Deno",
       "quote": "Deno community chat server.",
       "inviteCode": "TGMHGv6",
