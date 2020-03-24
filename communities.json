@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "covid-api.png",
+      "title": "NovelCovid",
+      "quote": "Discord has been helpful for me to converse with other developers and users of our service",
+      "inviteCode": "EvbMshU",
+      "githubUrl": "https://github.com/novelcovid"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
