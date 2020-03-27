@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="72" height="72" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0 l68 40 l-68 40 l-68 -40 l68 -40 z M68 40 l0 30 M68 40 z M-68 40 l0 30 M-68 40 z M0 80 l0 30 M0 80 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(200 18)"/>
+  <path d="M0 0 L68 40 M0 80 L-68 40 L0 0 M0 80 z M-68 40 L-68 120 L0 160 M0 80 M-68 40 z M0 80 l68 -40 l0 30 M0 80 z M68 120 m-42.5 25 l-25.5 15 l0 -80 M68 120 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(106.5 73)"/>
+  <path d="M0 0 L68 40 L0 80 M-68 40 L0 0 M-68 40 z M68 40 L68 120 L0 160 M68 40 z M0 80 l-68 -40 l0 30 M0 80 z M-68 120 m42.5 25 l25.5 15 l0 -80 M-68 120 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(293.5 73)"/>
+  <path d="M25.5 65 l-25.5 15 m-68 -40 l21.76 -12.8 M25.5 65 z M0 80 L-68 40 L-68 120 L0 160 M0 80 z M68 120 m-42.5 25 l-25.5 15 l0 -80 M68 120 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(106.5 178.5)"/>
+  <path d="M-25.5 65 l25.5 15 m68 -40 l-21.76 -12.8 M-25.5 65 z M0 80 L68 40 L68 120 L0 160 M0 80 z M-68 120 m42.5 25 l25.5 15 l0 -80 M-68 120 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(293.5 178.5)"/>
+  <path d="M0 0 m46.34 27.2 l21.76 12.8 l-68 40 l-68 -40 l21.76 -12.8 M0 0 z M0 80 M-68 40 L-68 120 L0 160 M0 80 zM68 40 L68 120 L0 160  L0 80 M68 40 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(200 233.5)"/>
+  <path d="M0 0 L68 40 M-68 40 L0 0 M-68 40 z M0 80 L-68 40 L-68 120 L0 160 M0 80 z L68 40 L68 120  L0 160 L0 80 z" fill="none" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(200 128)"/>
+</svg>
