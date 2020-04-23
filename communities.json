@@ -1,5 +1,12 @@
 {
   "data": [
+    
+    {
+      "logo": "galacticraft.png",
+      "title": "Galacticraft",
+      "inviteCode": "NgKHWS3",
+      "githubUrl": "https://github.com/micdoodle8/Galacticraft"
+    },
     {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
