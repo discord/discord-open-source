@@ -20,7 +20,7 @@
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
       "quoteSourceUrl": "https://medium.com/@AugurProject/adopting-discord-10d1b30bfcbb",
-      "inviteCode": "faud6Fx",
+      "inviteCode": "cX8tcCy",
       "githubUrl": "https://github.com/AugurProject"
     },
     {
@@ -52,7 +52,7 @@
       "title": "Ubiq",
       "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
       "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
-      "inviteCode": "RkPDGe6",
+      "inviteCode": "XaqzJB4",
       "githubUrl": "https://github.com/ubiq"
     },
     {
@@ -111,12 +111,6 @@
       "title": "Formik",
       "inviteCode": "BYTdAgs",
       "githubUrl": "https://github.com/jaredpalmer/formik"
-    },
-    {
-      "logo": "relay.svg",
-      "title": "Relay",
-      "inviteCode": "A5KakZH",
-      "githubUrl": "https://github.com/facebook/relay"
     },
     {
       "logo": "docusaurus.png",
@@ -349,14 +343,6 @@
       "githubUrl": "https://github.com/vertcoin-project"
     },
     {
-      "logo": "nano.png",
-      "title": "Nano Currency",
-      "quote": "Digital currency for the real world – the fast and free way to pay for everything in life.",
-      "quoteSourceUrl": "https://nano.org/en",
-      "inviteCode": "JphbBas",
-      "githubUrl": "https://github.com/nanocurrency/raiblocks"
-    },
-    {
       "logo": "adonis.svg",
       "title": "AdonisJs",
       "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community.",
@@ -368,7 +354,7 @@
       "title": "PIVX",
       "quote": "Private Instant Verified Transaction (PIVX), a digital currency focused on privacy and fast transactions uses Discord as a platform to engage with our users",
       "quoteSourceURL": "https://www.pivx.org",
-      "inviteCode": "ktYKb32",
+      "inviteCode": "jzqVsJd",
       "githubUrl": "https://github.com/pivx-project"
     },
     {
@@ -516,13 +502,6 @@
       "githubUrl": "https://github.com/hasura/graphql-engine"
     },
     {
-      "logo": "songoda.png",
-      "title": "Songoda",
-      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "JabJmbe",
-      "githubUrl": "https://gitlab.com/Songoda"
-    },
-    {
       "logo": "emberjs.png",
       "title": "Ember.js",
       "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
@@ -568,7 +547,7 @@
       "logo": "IntellectualSites.svg",
       "title": "IntellectualSites",
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
-      "inviteCode": "ngZCzbU",
+      "inviteCode": "KxkjDVg",
       "githubUrl": "https://github.com/IntellectualSites"
     },
     {
