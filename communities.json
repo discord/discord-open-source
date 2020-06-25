@@ -95,12 +95,6 @@
       "githubUrl": "https://github.com/reactjs/redux"
     },
     {
-      "logo": "graphql.svg",
-      "title": "GraphQL",
-      "inviteCode": "ef2h6QM",
-      "githubUrl": "https://github.com/graphql"
-    },
-    {
       "logo": "reasonml.png",
       "title": "ReasonML",
       "inviteCode": "reasonml",
