@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "logo": "graknlabs-wt-favicon-144x144.png",
+      "title": "Grakn Labs",
+      "quote": "Our team is no longer split between an internal Slack workspace and our community workspace — we can do away with our annoying but helpful bots and all play in the same sandbox. This means faster response times on questions and increased awareness of what’s happening in real time. The ability to create and distribute [ roles ] in Discord is magical — seriously, we love it.",
+      "quoteSourceUrl": "https://blog.grakn.ai/moving-from-slack-to-discord-82a5817cec43",
+      "inviteCode": "graknlabs",
+      "githubUrl": "https://github.com/graknlabs"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
