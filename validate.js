@@ -1,13 +1,13 @@
-const util = require('util');
-const chalk = require('chalk');
-const fetch = require('node-fetch');
-const discordCommunities = require('./communities.json');
+const util = require('util'),
+      chalk = require('chalk'),
+      fetch = require('node-fetch'),
+      discordCommunities = require('./communities.json');
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function validateCommunity(community) {
   while (true) {
-    const req = await fetch(`https://discordapp.com/api/v6/invite/${community.inviteCode}`);
+    const req = await fetch(`https://discord.com/api/v6/invite/${community.inviteCode}`);
     const response = await req.json();
 
     if (response.guild) break;
