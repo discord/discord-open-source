@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "entitas.png",
+      "title": "Entitas",
+      "inviteCode": "uHrVx5Z",
+      "quote": "General discussion about Entitas (including Jenny) and its use.  You can ask for support here.",
+      "githubUrl": "https://github.com/sschmid/Entitas-CSharp"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
