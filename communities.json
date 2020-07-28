@@ -323,6 +323,13 @@
       "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
       "inviteCode": "BtnTPFF",
       "githubUrl": "https://github.com/dylanaraps/neofetch"
+    },{
+      "logo": "pysport.svg",
+      "title": "PySport",
+      "quote": "PySport supports a community where everyone can become better in (applying) sports analytics.",
+      "quoteSourceUrl": "https://pysport.org/2020/06/25/sports-analytics-meets-open-source/",
+      "inviteCode": "hB5u5c8",
+      "githubUrl": "https://github.com/PySport"
     },
     {
       "logo": "pywal.png",
