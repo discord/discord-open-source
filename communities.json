@@ -541,6 +541,13 @@
       "githubUrl": "https://github.com/PaperMC"
     },
     {
+      "logo": "mcMMO.svg",
+      "title": "mcMMO",
+      "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
+      "inviteCode": "bJ7pFS9",
+      "githubUrl": "https://github.com/mcMMO-Dev/mcMMO"
+    },
+    {
       "logo": "IntellectualSites.svg",
       "title": "IntellectualSites",
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
