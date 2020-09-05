@@ -663,6 +663,12 @@
       "quoteSourceUrl": "https://www.typescriptlang.org/community/",
       "inviteCode": "typescript",
       "githubUrl": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "logo": "rust.svg",
+      "title": "Rust",
+      "inviteCode": "rust-lang",
+      "githubUrl": "https://github.com/rust-lang"
     }
   ]
 }
