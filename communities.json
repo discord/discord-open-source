@@ -689,6 +689,13 @@
       "quote": "Discord allows us to provide all our users from around the world with blazing fast live support.",
       "inviteCode": "FtArYRQ",
       "githubUrl": "https://github.com/PlaceholderAPI"
+    },
+    {
+      "logo": "deno.png",
+      "title": "Deno",
+      "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
+      "inviteCode": "deno",
+      "githubUrl": "https://github.com/denoland"
     }
   ]
 }
