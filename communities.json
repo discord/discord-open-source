@@ -20,7 +20,7 @@
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
       "quoteSourceUrl": "https://medium.com/@AugurProject/adopting-discord-10d1b30bfcbb",
-      "inviteCode": "cX8tcCy",
+      "inviteCode": "aNBTq55",
       "githubUrl": "https://github.com/AugurProject"
     },
     {
@@ -52,7 +52,7 @@
       "title": "Ubiq",
       "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
       "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
-      "inviteCode": "RkPDGe6",
+      "inviteCode": "XaqzJB4",
       "githubUrl": "https://github.com/ubiq"
     },
     {
@@ -79,7 +79,7 @@
     {
       "logo": "jest.png",
       "title": "Jest",
-      "inviteCode": "yrPdTqR",
+      "inviteCode": "reactiflux",
       "githubUrl": "https://github.com/facebook/jest"
     },
     {
@@ -115,7 +115,7 @@
     {
       "logo": "relay.svg",
       "title": "Relay",
-      "inviteCode": "A5KakZH",
+      "inviteCode": "reactiflux",
       "githubUrl": "https://github.com/facebook/relay"
     },
     {
@@ -317,22 +317,6 @@
       "githubUrl": "https://github.com/RavenProject"
     },
     {
-      "logo": "neofetch.png",
-      "title": "Neofetch",
-      "quote": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
-      "inviteCode": "BtnTPFF",
-      "githubUrl": "https://github.com/dylanaraps/neofetch"
-    },
-    {
-      "logo": "pywal.png",
-      "title": "pywal",
-      "quote": "Pywal is a tool that generates a color palette from the dominant colors in an image. It then applies the colors system-wide and on-the-fly in all of your favourite programs.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/pywal",
-      "inviteCode": "fK3RhsD",
-      "githubUrl": "https://github.com/dylanaraps/pywal"
-    },
-    {
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
@@ -349,14 +333,6 @@
       "githubUrl": "https://github.com/vertcoin-project"
     },
     {
-      "logo": "nano.png",
-      "title": "Nano Currency",
-      "quote": "Digital currency for the real world – the fast and free way to pay for everything in life.",
-      "quoteSourceUrl": "https://nano.org/en",
-      "inviteCode": "JphbBas",
-      "githubUrl": "https://github.com/nanocurrency/raiblocks"
-    },
-    {
       "logo": "adonis.svg",
       "title": "AdonisJs",
       "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community.",
@@ -368,7 +344,7 @@
       "title": "PIVX",
       "quote": "Private Instant Verified Transaction (PIVX), a digital currency focused on privacy and fast transactions uses Discord as a platform to engage with our users",
       "quoteSourceURL": "https://www.pivx.org",
-      "inviteCode": "ktYKb32",
+      "inviteCode": "jzqVsJd",
       "githubUrl": "https://github.com/pivx-project"
     },
     {
@@ -561,14 +537,14 @@
       "logo": "papermc.svg",
       "title": "PaperMC",
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "jETyjUw",
+      "inviteCode": "pktA6F",
       "githubUrl": "https://github.com/PaperMC"
     },
     {
       "logo": "IntellectualSites.svg",
       "title": "IntellectualSites",
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors.",
-      "inviteCode": "ngZCzbU",
+      "inviteCode": "KxkjDVg",
       "githubUrl": "https://github.com/IntellectualSites"
     },
     {
