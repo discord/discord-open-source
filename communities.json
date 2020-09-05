@@ -683,6 +683,13 @@
       "quote": "Discord allows us to provide help to the users of our project without the hassle of IRC.",
       "inviteCode": "BhvNdkQ",
       "githubUrl": "https://github.com/ViaVersion"
+    },
+    {
+      "logo": "mmd.png",
+      "title": "MMD",
+      "quote": "We use Discord to enable communication between hundreds of developers, and thousands of players who use their projects.",
+      "inviteCode": "EDbExcX",
+      "githubUrl": "https://github.com/MinecraftModDevelopment"
     }
   ]
 }
