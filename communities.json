@@ -20,7 +20,7 @@
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
       "quoteSourceUrl": "https://medium.com/@AugurProject/adopting-discord-10d1b30bfcbb",
-      "inviteCode": "cX8tcCy",
+      "inviteCode": "aNBTq55",
       "githubUrl": "https://github.com/AugurProject"
     },
     {
@@ -79,7 +79,7 @@
     {
       "logo": "jest.png",
       "title": "Jest",
-      "inviteCode": "yrPdTqR",
+      "inviteCode": "reactiflux",
       "githubUrl": "https://github.com/facebook/jest"
     },
     {
@@ -111,6 +111,12 @@
       "title": "Formik",
       "inviteCode": "BYTdAgs",
       "githubUrl": "https://github.com/jaredpalmer/formik"
+    },
+    {
+      "logo": "relay.svg",
+      "title": "Relay",
+      "inviteCode": "reactiflux",
+      "githubUrl": "https://github.com/facebook/relay"
     },
     {
       "logo": "docusaurus.png",
@@ -245,14 +251,6 @@
       "githubUrl": "https://github.com/RPCS3/rpcs3"
     },
     {
-      "logo": "brave.png",
-      "title": "Brave Browser",
-      "quote": "Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.",
-      "quoteSourceUrl": "https://brave.com",
-      "inviteCode": "k57tYrS",
-      "githubUrl": "https://github.com/brave/browser-laptop"
-    },
-    {
       "logo": "vapor.svg",
       "title": "Vapor",
       "quote": "Creating modular server side software with Swift.",
@@ -309,22 +307,6 @@
       "quoteSourceUrl": "https://ravencoin.org",
       "inviteCode": "44APdew",
       "githubUrl": "https://github.com/RavenProject"
-    },
-    {
-      "logo": "neofetch.png",
-      "title": "Neofetch",
-      "quote": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/neofetch",
-      "inviteCode": "BtnTPFF",
-      "githubUrl": "https://github.com/dylanaraps/neofetch"
-    },
-    {
-      "logo": "pywal.png",
-      "title": "pywal",
-      "quote": "Pywal is a tool that generates a color palette from the dominant colors in an image. It then applies the colors system-wide and on-the-fly in all of your favourite programs.",
-      "quoteSourceUrl": "https://github.com/dylanaraps/pywal",
-      "inviteCode": "fK3RhsD",
-      "githubUrl": "https://github.com/dylanaraps/pywal"
     },
     {
       "logo": "blink.png",
@@ -384,7 +366,7 @@
       "quote": "Ethergem is the foundational currency platform with an integrated subchain, and featureset.",
       "quoteSrc": "https://egem.io",
       "inviteCode": "zav3EkW",
-      "githubUrl": "https://github.com/TeamEGEM"
+      "githubUrl": "https://gitlab.com/ethergem"
     },
     {
       "logo": "lindacoin.png",
@@ -505,7 +487,7 @@
       "logo": "songoda.png",
       "title": "Songoda",
       "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "YvaAanb",
+      "inviteCode": "songoda",
       "githubUrl": "https://gitlab.com/Songoda"
     },
     {
@@ -547,8 +529,15 @@
       "logo": "papermc.svg",
       "title": "PaperMC",
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "jETyjUw",
+      "inviteCode": "pktA6F",
       "githubUrl": "https://github.com/PaperMC"
+    },
+    {
+      "logo": "mcMMO.svg",
+      "title": "mcMMO",
+      "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
+      "inviteCode": "bJ7pFS9",
+      "githubUrl": "https://github.com/mcMMO-Dev/mcMMO"
     },
     {
       "logo": "IntellectualSites.svg",
@@ -665,6 +654,41 @@
       "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers.",
       "inviteCode": "G7Qnnhy",
       "githubUrl": "https://github.com/nestjs"
+    },
+    {
+      "logo": "typescript.svg",
+      "title": "TypeScript",
+      "quote": "Chat with other TypeScript users in the TypeScript Community Chat.",
+      "quoteSourceUrl": "https://www.typescriptlang.org/community/",
+      "inviteCode": "typescript",
+      "githubUrl": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "logo": "rust.svg",
+      "title": "Rust",
+      "inviteCode": "rust-lang",
+      "githubUrl": "https://github.com/rust-lang"
+    },
+    {
+      "logo": "viaversion.svg",
+      "title": "ViaVersion",
+      "quote": "Discord allows us to provide help to the users of our project without the hassle of IRC.",
+      "inviteCode": "BhvNdkQ",
+      "githubUrl": "https://github.com/ViaVersion"
+    },
+    {
+      "logo": "mmd.png",
+      "title": "MMD",
+      "quote": "We use Discord to enable communication between hundreds of developers, and thousands of players who use their projects.",
+      "inviteCode": "EDbExcX",
+      "githubUrl": "https://github.com/MinecraftModDevelopment"
+    },
+    {
+      "logo": "placeholderapi.png",
+      "title": "PlaceholderAPI",
+      "quote": "Discord allows us to provide all our users from around the world with blazing fast live support.",
+      "inviteCode": "FtArYRQ",
+      "githubUrl": "https://github.com/PlaceholderAPI"
     },
     {
       "logo": "deno.png",
