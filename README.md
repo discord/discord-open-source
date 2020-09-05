@@ -12,7 +12,7 @@ At this time, we are accepting communities which meet the following criteria:
 2.  Your community has at least 1,000 members, or the GitHub repo has at least 1,000 stars.
 3.  Your community adheres to the [Discord community guidelines](https://discord.com/guidelines).
 
-While this list does not currently extend to Discord bots, look forward to something for bots in the future.
+Do you own a large bot? Take a look at [veryfying it](https://support.discord.com/hc/en-us/articles/360040720412).
 
 ## Adding your project
 
