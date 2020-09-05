@@ -690,6 +690,13 @@
       "quote": "We use Discord to enable communication between hundreds of developers, and thousands of players who use their projects.",
       "inviteCode": "EDbExcX",
       "githubUrl": "https://github.com/MinecraftModDevelopment"
+    },
+    {
+      "logo": "placeholderapi.png",
+      "title": "PlaceholderAPI",
+      "quote": "Discord allows us to provide all our users from around the world with blazing fast live support.",
+      "inviteCode": "FtArYRQ",
+      "githubUrl": "https://github.com/PlaceholderAPI"
     }
   ]
 }
