@@ -696,6 +696,13 @@
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
       "inviteCode": "deno",
       "githubUrl": "https://github.com/denoland"
+    },
+    {
+      "logo": "demeng.png",
+      "title": "RankGrant+",
+      "quote": "Discord allows us to provide all our users from around the world with amazing fast live support.",
+      "inviteCode": "https://discord.gg/6xqA6Yz",
+      "githubUrl": "https://github.com/Demeng7215/RankGrantPlus"
     }
   ]
 }
