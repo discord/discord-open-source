@@ -656,6 +656,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "disease-sh.svg",
+      "title": "disease.sh",
+      "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
+      "inviteCode": "cEDxzfW",
+      "githubUrl": "https://github.com/disease-sh"
+    },
+    {
       "logo": "typescript.svg",
       "title": "TypeScript",
       "quote": "Chat with other TypeScript users in the TypeScript Community Chat.",
