@@ -529,7 +529,7 @@
       "logo": "papermc.svg",
       "title": "PaperMC",
       "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "pktA6F",
+      "inviteCode": "jG7JBu",
       "githubUrl": "https://github.com/PaperMC"
     },
     {
@@ -624,7 +624,7 @@
       "title": "Flutter",
       "quote": "Talk to other Flutter developers about everything Flutter-related, and share useful resources.",
       "quoteSourceUrl": "https://flutter.dev/community",
-      "inviteCode": "N7Yshp4",
+      "inviteCode": "rflutterdev",
       "githubUrl": "https://github.com/flutter/flutter"
     },
     {
@@ -661,6 +661,13 @@
       "quote": "Discord is a place where our community can ask small questions and get fast answers, unlike a forum that requires waiting sometimes days for an answer.",
       "inviteCode": "rjdYHvj",
       "githubUrl": "https://github.com/4ian/GDevelop"
+    },
+    {
+      "logo": "disease-sh.svg",
+      "title": "disease.sh",
+      "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
+      "inviteCode": "cEDxzfW",
+      "githubUrl": "https://github.com/disease-sh"
     },
     {
       "logo": "typescript.svg",
