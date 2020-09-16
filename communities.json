@@ -690,6 +690,13 @@
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
       "inviteCode": "deno",
       "githubUrl": "https://github.com/denoland"
+    },
+    {
+      "logo": "dahliaos.svg",
+      "title": "dahliaOS",
+      "quote": "dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.",
+      "inviteCode": "7qVbJHR",
+      "githubUrl": "https://github.com/dahlia-os"
     }
   ]
 }
