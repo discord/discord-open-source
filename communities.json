@@ -16,6 +16,14 @@
       "githubUrl": "https://github.com/reactiflux"
     },
     {
+      "logo": "angular.svg",
+      "title": "Angular",
+      "quote": "Imagine asking a question and having GDEs and library authors answer, as well as awesome members of the @angular community! That's been my experience. Join the conversation if you haven't already.",
+      "quoteSourceUrl": "https://twitter.com/ub3rh4xor/status/1306601883088293889",
+      "inviteCode": "tCXbKXm",
+      "githubUrl": "https://github.com/angular/angular"
+    },
+    {
       "logo": "augur.svg",
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
