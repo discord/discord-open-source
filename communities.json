@@ -706,6 +706,13 @@
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
       "inviteCode": "deno",
       "githubUrl": "https://github.com/denoland"
+    },
+    {
+      "logo": "appwrite.png",
+      "title": "Appwrite",
+      "quote": "Discord allowed us to provide better support for our community and a centralized place to discuss and elaborate on future versions.",
+      "inviteCode": "GSeTUeA",
+      "githubUrl": "https://github.com/appwrite"
     }
   ]
 }
