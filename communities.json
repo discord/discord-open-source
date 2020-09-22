@@ -16,6 +16,14 @@
       "githubUrl": "https://github.com/reactiflux"
     },
     {
+      "logo": "angular.svg",
+      "title": "Angular",
+      "quote": "Imagine asking a question and having GDEs and library authors answer, as well as awesome members of the @angular community! That's been my experience. Join the conversation if you haven't already.",
+      "quoteSourceUrl": "https://twitter.com/ub3rh4xor/status/1306601883088293889",
+      "inviteCode": "tCXbKXm",
+      "githubUrl": "https://github.com/angular/angular"
+    },
+    {
       "logo": "augur.svg",
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
@@ -30,6 +38,14 @@
       "quoteSourceUrl": "https://vuejsfeed.com/blog/gitter-chat-for-vue-js-is-moving-to-discord",
       "inviteCode": "HBherRA",
       "githubUrl": "https://github.com/vuejs"
+    },
+    {
+      "logo": "ngrx.svg",
+      "title": "NgRx",
+      "quote": "Have you joined the NgRx Discord yet? It's open to everyone! Come hang out and chat with team members and the community",
+      "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725",
+      "inviteCode": "cEbHasx",
+      "githubUrl": "https://github.com/ngrx/platform"
     },
     {
       "logo": "sia.svg",
@@ -165,12 +181,6 @@
       "githubUrl": "https://github.com/myst-lang/myst"
     },
     {
-      "logo": "nodecg.svg",
-      "title": "NodeCG",
-      "inviteCode": "NNmVz4x",
-      "githubUrl": "https://github.com/nodecg/nodecg"
-    },
-    {
       "logo": "linuxgsm.svg",
       "title": "LinuxGSM",
       "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup their own Linux game server. Making it easy for everyone to help and collaborate together.",
@@ -239,7 +249,7 @@
       "logo": "translucenttb.svg",
       "title": "TranslucentTB",
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
-      "inviteCode": "w95DGTK",
+      "inviteCode": "translucenttb",
       "githubUrl": "https://github.com/TranslucentTB"
     },
     {
@@ -526,13 +536,6 @@
       "githubUrl": "https://github.com/Modorganizer2"
     },
     {
-      "logo": "papermc.svg",
-      "title": "PaperMC",
-      "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "pktA6F",
-      "githubUrl": "https://github.com/PaperMC"
-    },
-    {
       "logo": "mcMMO.svg",
       "title": "mcMMO",
       "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
@@ -624,7 +627,7 @@
       "title": "Flutter",
       "quote": "Talk to other Flutter developers about everything Flutter-related, and share useful resources.",
       "quoteSourceUrl": "https://flutter.dev/community",
-      "inviteCode": "N7Yshp4",
+      "inviteCode": "rflutterdev",
       "githubUrl": "https://github.com/flutter/flutter"
     },
     {
@@ -654,6 +657,13 @@
       "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers.",
       "inviteCode": "G7Qnnhy",
       "githubUrl": "https://github.com/nestjs"
+    },
+    {
+      "logo": "disease-sh.svg",
+      "title": "disease.sh",
+      "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
+      "inviteCode": "cEDxzfW",
+      "githubUrl": "https://github.com/disease-sh"
     },
     {
       "logo": "typescript.svg",
@@ -696,6 +706,13 @@
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
       "inviteCode": "deno",
       "githubUrl": "https://github.com/denoland"
+    },
+    {
+      "logo": "appwrite.png",
+      "title": "Appwrite",
+      "quote": "Discord allowed us to provide better support for our community and a centralized place to discuss and elaborate on future versions.",
+      "inviteCode": "GSeTUeA",
+      "githubUrl": "https://github.com/appwrite"
     },
     {
       "logo": "demeng.png",
