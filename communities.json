@@ -32,6 +32,14 @@
       "githubUrl": "https://github.com/vuejs"
     },
     {
+      "logo": "ngrx.svg",
+      "title": "NgRx",
+      "quote": "Have you joined the NgRx Discord yet? It's open to everyone! Come hang out and chat with team members and the community",
+      "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725",
+      "inviteCode": "cEbHasx",
+      "githubUrl": "https://github.com/ngrx/platform"
+    },
+    {
       "logo": "sia.svg",
       "title": "Sia",
       "quote": "Discord... was specifically built for huge online communities. Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities...",
