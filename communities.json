@@ -20,8 +20,16 @@
       "title": "Angular",
       "quote": "Imagine asking a question and having GDEs and library authors answer, as well as awesome members of the @angular community! That's been my experience. Join the conversation if you haven't already.",
       "quoteSourceUrl": "https://twitter.com/ub3rh4xor/status/1306601883088293889",
-      "inviteCode": "wC8a8FT",
+      "inviteCode": "angular",
       "githubUrl": "https://github.com/angular/angular"
+    },
+    {
+      "logo": "ngrx.svg",
+      "title": "NgRx",
+      "quote": "Have you joined the NgRx Discord yet? It's open to everyone! Come hang out and chat with team members and the community",
+      "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725",
+      "inviteCode": "cEbHasx",
+      "githubUrl": "https://github.com/ngrx/platform"
     },
     {
       "logo": "augur.svg",
@@ -38,14 +46,6 @@
       "quoteSourceUrl": "https://vuejsfeed.com/blog/gitter-chat-for-vue-js-is-moving-to-discord",
       "inviteCode": "HBherRA",
       "githubUrl": "https://github.com/vuejs"
-    },
-    {
-      "logo": "ngrx.svg",
-      "title": "NgRx",
-      "quote": "Have you joined the NgRx Discord yet? It's open to everyone! Come hang out and chat with team members and the community",
-      "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725",
-      "inviteCode": "cEbHasx",
-      "githubUrl": "https://github.com/ngrx/platform"
     },
     {
       "logo": "sia.svg",
