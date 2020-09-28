@@ -701,6 +701,13 @@
       "githubUrl": "https://github.com/PlaceholderAPI"
     },
     {
+      "logo": "slimefun.svg",
+      "title": "Slimefun",
+      "quote": "We use Discord to engage with our global community by answering questions, taking suggestions and providing them with the latest news about the project.",
+      "inviteCode": "slimefun",
+      "githubUrl": "https://github.com/Slimefun"
+    },
+    {
       "logo": "deno.png",
       "title": "Deno",
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
