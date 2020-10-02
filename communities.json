@@ -727,6 +727,13 @@
       "quote": "Discord allows us to communicate effectively with our users, allowing for everyone to contribute to the development and progression of our open source project.",
       "inviteCode": "chattriggers",
       "githubUrl": "https://github.com/ChatTriggers"
+    },
+    {
+      "logo": "electron.svg",
+      "title": "Electron",
+      "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
+      "inviteCode": "electron",
+      "githubUrl": "https://github.com/electron"
     }
   ]
 }
