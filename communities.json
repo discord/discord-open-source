@@ -735,5 +735,12 @@
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
     }
+    {
+      "logo": "TerasologyFoundation.svg",
+      "title": "The Terasology Founsation",
+      "quote": "Community surrounding the open source video game development projects supported by The Terasology Foundation",
+      "inviteCode": "terasology",
+     "githubUrl": "https://github.com/MovingBlocks"
+    }
   ]
 }
