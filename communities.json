@@ -734,6 +734,13 @@
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "alphabotsystem.svg",
+      "title": "Alpha Bot System",
+      "quote": "The most advanced & easy to use financial data bot on the market. Boost your Discord crypto community by providing market data right in the chat. With diverse set of powerful and easy to use features, Alpha Bot will not disappoint.",
+      "inviteCode": "NCU4XQa",
+      "githubUrl": "https://github.com/alphabotsystem/Alpha"
     }
   ]
 }
