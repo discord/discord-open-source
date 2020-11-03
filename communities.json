@@ -728,6 +728,13 @@
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "cybercog.svg",
+      "title": "CyberCog",
+      "quote": "Discord is the best way for the CyberCog Social Unity members to get help with our free open source software and collaborate in real-time.",
+      "inviteCode": "ZdUdNWy",
+      "githubUrl": "https://github.com/cybercog"
     }
   ]
 }
