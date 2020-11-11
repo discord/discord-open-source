@@ -728,6 +728,13 @@
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "wger.png",
+      "title": "wger",
+      "quote": "Discord allows us to easily connect and coordinate us with other users and developers, without the hassle of mailing lists or IRC channels.",
+      "inviteCode": "rPWFv6W",
+      "githubUrl": "https://github.com/wger-project"
     }
   ]
 }
