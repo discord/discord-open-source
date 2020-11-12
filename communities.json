@@ -728,6 +728,14 @@
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "jetbrains.png",
+      "title": "JetBrains",
+      "quote": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language.",
+      "quoteSourceUrl": "https://www.jetbrains.com/",
+      "inviteCode": "jetbrains",
+      "githubUrl": "https://github.com/JetBrains"
     }
   ]
 }
