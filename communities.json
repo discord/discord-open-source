@@ -728,6 +728,13 @@
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
       "inviteCode": "electron",
       "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "jetbrains.png",
+      "title": "JetBrains",
+      "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
+      "inviteCode": "jetbrains",
+      "githubUrl": "https://github.com/JetBrains"
     }
   ]
 }
