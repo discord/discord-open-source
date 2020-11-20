@@ -735,6 +735,13 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
       "inviteCode": "jetbrains",
       "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "theCodingCulture.png",
+      "title": "The Coding Culture",
+      "quote": "The biggest student-run coding community in India. The Coding Culture aims to be a community that is consistent in providing resources, conducting sessions, and enables interaction among students of different domains and capabilities. We will also be organizing regular contests wherein one can apply their learning and thus understand what things do they need to work on.",
+      "inviteCode": "FcARGjrw4r",
+      "githubUrl": "https://github.com/dsccodecollab"
     }
   ]
 }
