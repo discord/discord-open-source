@@ -735,6 +735,13 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
       "inviteCode": "jetbrains",
       "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "papermc.svg",
+      "title": "PaperMC",
+      "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
+      "inviteCode": "papermc",
+      "githubUrl": "https://github.com/PaperMC"
     }
   ]
 }
