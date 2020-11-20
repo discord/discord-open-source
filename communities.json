@@ -735,6 +735,13 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
       "inviteCode": "jetbrains",
       "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "solid.svg",
+      "title": "Solid",
+      "quote": "Discord acts as a hub for the Solid.js developer community. We tried nearly all the other community discussion platforms and settled on Discord because of its easy on-boarding and feature richness. We're proud to call Discord our community HQ.",
+      "inviteCode": "solidjs",
+      "githubUrl": "https://github.com/ryansolid/solid"
     }
   ]
 }
