@@ -735,6 +735,13 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
       "inviteCode": "jetbrains",
       "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "dellolang.png",
+      "title": "Dello Language",
+      "quote": "The community of the Dello programming language, a fast compiled open-source programming language perfect for scripting!",
+      "inviteCode": "vZj9ZnNpPf",
+      "githubUrl": "https://github.com/pablocorbcon/dellolang"
     }
   ]
 }
