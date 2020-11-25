@@ -738,7 +738,8 @@
 
     },
     {
-      "logo": "TerasologyFoundation.svg",
+      "logo": "
+      "TerasologyFoundation.svg",
       "title": "The Terasology Foundation",
       "quote": "Community surrounding the open source video game development projects supported by The Terasology Foundation",
       "inviteCode": "terasology",
