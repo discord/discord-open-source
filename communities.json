@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "flybywiresimulations.svg",
+      "title": "FlyByWire Simulations",
+      "quote": "Discord as a platform allows our team to coordinate multiple aspects of development, support, and a sense of community all in one unified space. As we expand in size and project scope Discord's features allows us to have a solid communications and informational platform for free so that our funds are better used for development than management.",
+      "inviteCode": "flybywire",
+      "githubUrl": "https://github.com/flybywiresim/"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
