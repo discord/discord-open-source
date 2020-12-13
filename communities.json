@@ -264,7 +264,7 @@
       "logo": "vapor.svg",
       "title": "Vapor",
       "quote": "Creating modular server side software with Swift.",
-      "quoteSourceUrl": "http://vapor.codes",
+      "quoteSourceUrl": "https://vapor.codes",
       "inviteCode": "vapor",
       "githubUrl": "https://github.com/vapor/vapor"
     },
@@ -316,9 +316,9 @@
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
-      "quoteSourceUrl": "http://blink.sh",
+      "quoteSourceUrl": "https://blink.sh",
       "inviteCode": "ZTtMfvK",
-      "githubUrl": "http://github.com/blinksh/blink"
+      "githubUrl": "https://github.com/blinksh/blink"
     },
     {
       "logo": "vertcoin.png",
