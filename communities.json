@@ -735,6 +735,13 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "velocity.png",
+      "title": "Velocity",
+      "quote": "Discord provides a convenient way for us to engage with our users so we can advance the platform without getting hung up.",
+      "inviteCode": "8cB9Bgf",
+      "githubUrl": "https://github.com/VelocityPowered"
     }
   ]
 }
