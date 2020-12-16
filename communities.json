@@ -716,6 +716,13 @@
       "githubUrl": "https://github.com/ChatTriggers"
     },
     {
+      "logo": "scala.png",
+      "title": "Scala",
+      "quote": "The Scala Programming Language.",
+      "inviteCode": "scala",
+      "githubUrl": "https://github.com/scala"
+    },
+    {
       "logo": "electron.svg",
       "title": "Electron",
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
