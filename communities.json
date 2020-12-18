@@ -742,6 +742,13 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "multitheftauto.png",
+      "title": "Multi Theft Auto",
+      "quote": "A multiplayer modification for Grand Theft Auto III, Vice City and San Andreas that adds online multiplayer functionality. [ Stop playing with yourself ]",
+      "inviteCode": "RygaCSD",
+      "githubUrl": "https://github.com/multitheftauto"
     }
   ]
 }
