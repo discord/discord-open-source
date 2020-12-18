@@ -742,6 +742,13 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "terasologyfoundation.svg",
+      "title": "The Terasology Foundation",
+      "quote": "Community surrounding the open source video game development projects supported by The Terasology Foundation",
+      "inviteCode": "terasology",
+      "githubUrl": "https://github.com/MovingBlocks"
     }
   ]
 }
