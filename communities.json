@@ -742,6 +742,13 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "pixelcraft.png",
+      "title": "PixelCraft",
+      "quote": "PixelCraft Community Discord server is is a community for pixel artists and developers.",
+      "inviteCode": "nMCvPTkEbJ",
+      "githubUrl": "https://github.com/rgab1508/PixelCraft"
     }
   ]
 }
