@@ -264,7 +264,7 @@
       "logo": "vapor.svg",
       "title": "Vapor",
       "quote": "Creating modular server side software with Swift.",
-      "quoteSourceUrl": "http://vapor.codes",
+      "quoteSourceUrl": "https://vapor.codes",
       "inviteCode": "vapor",
       "githubUrl": "https://github.com/vapor/vapor"
     },
@@ -316,9 +316,9 @@
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
-      "quoteSourceUrl": "http://blink.sh",
+      "quoteSourceUrl": "https://blink.sh",
       "inviteCode": "ZTtMfvK",
-      "githubUrl": "http://github.com/blinksh/blink"
+      "githubUrl": "https://github.com/blinksh/blink"
     },
     {
       "logo": "vertcoin.png",
@@ -486,13 +486,6 @@
       "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0",
       "inviteCode": "vBPpJkS",
       "githubUrl": "https://github.com/hasura/graphql-engine"
-    },
-    {
-      "logo": "songoda.png",
-      "title": "Songoda",
-      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "songoda",
-      "githubUrl": "https://gitlab.com/Songoda"
     },
     {
       "logo": "emberjs.png",
@@ -723,6 +716,13 @@
       "githubUrl": "https://github.com/ChatTriggers"
     },
     {
+      "logo": "scala.png",
+      "title": "Scala",
+      "quote": "The Scala Programming Language.",
+      "inviteCode": "scala",
+      "githubUrl": "https://github.com/scala"
+    },
+    {
       "logo": "electron.svg",
       "title": "Electron",
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
@@ -736,6 +736,20 @@
       "quoteSourceUrl": "https://concourse-ci.org",
       "inviteCode": "MeRxXKW",
       "githubUrl": "https://github.com/concourse"
+    },
+    {
+      "logo": "jetbrains.png",
+      "title": "JetBrains",
+      "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
+      "inviteCode": "jetbrains",
+      "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "tokio.png",
+      "title": "Tokio",
+      "quote": "We certainly think it's the most convenient platform for our communications.",
+      "inviteCode": "tokio",
+      "githubUrl": "https://github.com/tokio-rs"
     }
   ]
 }
