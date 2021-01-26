@@ -742,6 +742,13 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "blitzjs.svg",
+      "title": "Blitz.js",
+      "quote": "We moved from Slack to Discord and we love it! Especially the Voice rooms and the screen sharing feature!",
+      "inviteCode": "epMSc7Mpvt",
+      "githubUrl": "https://github.com/blitz-js/blitz"
     }
   ]
 }
