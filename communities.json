@@ -764,6 +764,13 @@
       "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members.",
       "inviteCode": "sentry",
       "githubUrl": "https://github.com/getsentry/sentry"
+    },
+    {
+      "logo": "poimandres.svg",
+      "title": "Poimandres",
+      "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
+      "inviteCode": "poimandres",
+      "githubUrl": "https://github.com/pmndrs"
     }
   ]
 }
