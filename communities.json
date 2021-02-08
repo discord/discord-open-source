@@ -239,11 +239,11 @@
       "githubUrl": "https://github.com/openSUSE"
     },
     {
-       "logo": "verge.png",
-       "title": "VergeCurrency",
-       "quote": "Our Discord server is for Verge technical support, general blockchain/cryptocurrency discussions, and fun/gaming!",
-       "inviteCode": "vergecurrency",
-       "githubUrl": "https://github.com/vergecurrency/"
+      "logo": "verge.png",
+      "title": "VergeCurrency",
+      "quote": "Our Discord server is for Verge technical support, general blockchain/cryptocurrency discussions, and fun/gaming!",
+      "inviteCode": "vergecurrency",
+      "githubUrl": "https://github.com/vergecurrency/"
     },
     {
       "logo": "fedora.svg",
