@@ -742,6 +742,14 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "testinglibrary.png",
+      "title": "Testing Library",
+      "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
+      "quoteSourceUrl": "https://testing-library.com/",
+      "inviteCode": "testing-library",
+      "githubUrl": "https://github.com/testing-library"
     }
   ]
 }
