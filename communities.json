@@ -750,6 +750,13 @@
       "quoteSourceUrl": "https://testing-library.com/",
       "inviteCode": "testing-library",
       "githubUrl": "https://github.com/testing-library"
+    },
+    {
+      "logo": "starship.svg",
+      "title": "Starship",
+      "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
+      "inviteCode": "starship",
+      "githubUrl": "https://github.com/starship/starship"
     }
   ]
 }
