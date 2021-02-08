@@ -8,4 +8,4 @@
 	</style>
 	<use id="Background" href="#img1" x="0" y="0" />
 	<use id="svelte-logo" href="#img2" transform="matrix(0.565,0,0,0.565,12,0)"/>
-</svg>
+</svg>	
