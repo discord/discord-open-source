@@ -757,6 +757,13 @@
       "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
       "inviteCode": "starship",
       "githubUrl": "https://github.com/starship/starship"
+    },
+    {
+      "logo": "sentry.svg",
+      "title": "Sentry.io",
+      "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members.",
+      "inviteCode": "sentry",
+      "githubUrl": "https://github.com/getsentry/sentry"
     }
   ]
 }
