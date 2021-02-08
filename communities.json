@@ -744,11 +744,19 @@
       "githubUrl": "https://github.com/tokio-rs"
     },
     {
+      "logo": "testinglibrary.png",
+      "title": "Testing Library",
+      "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
+      "quoteSourceUrl": "https://testing-library.com/",
+      "inviteCode": "testing-library",
+      "githubUrl": "https://github.com/testing-library"
+    },
+    {
       "logo": "starship.svg",
       "title": "Starship",
       "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
       "inviteCode": "8Jzqu3T",
-      "githubUrl": "https://github.com/starship/starship" 
+      "githubUrl": "https://github.com/starship/starship"
     }
   ]
 }
