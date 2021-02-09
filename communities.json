@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "thatonecalculator.png",
+      "title": "ThoseFewCalculators",
+      "quote": "ThatOneCalculator is a developer who creates awesome and fun open-source projects!",
+      "inviteCode": "SjAb7mkQQe",
+      "githubUrl": "https://github.com/thatonecalculator"
     }
   ]
 }
