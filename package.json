@@ -5,8 +5,8 @@
   "scripts": {
     "test": "npm run fmt-check && npm run validate-codes",
     "validate-codes": "node ./validate.js",
-    "fmt-check": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
-    "fmt": "prettier --write communities.json"
+    "fmt-check": "prettier -c communities/*.json || (npm run fmt && git diff && exit 1)",
+    "fmt": "prettier --write communities/*.json"
   },
   "devDependencies": {
     "chalk": "^2.4.2",
