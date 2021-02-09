@@ -27,7 +27,6 @@ In order to make the review process faster, please take a few minutes to go thro
   - [ ] The logo makes use of transparent elements and does not include its own background
   - [ ] The logo will look correct when the non-transparent elements are made solid white
   - [ ] The logo is a commonly identifiable logo of the open source project
-  - [ ] The logo has been optimized with 
 - One of the following crieria must be met:
   - [ ] The logo is an SVG file with 72x72 dimensions and has been optimized with [`svgo`](https://www.npmjs.com/package/svgo) ([Web UI](https://jakearchibald.github.io/svgomg/))
   - [ ] The logo is a PNG file with 144x144 dimensions and has been optimized with [ImageOptim](https://imageoptim.com/) ([Web UI](https://imageoptim.com/online))
