@@ -9,4 +9,4 @@ fs.readdirSync('./communities/').forEach(communityFile => {
 })
 
 // Write the new communities.json file
-fs.writeFileSync(`./communities.json`, JSON.stringify(discordCommunities, null, 2))
+fs.writeFileSync(`./communities.json`, JSON.stringify(discordCommunities, null, 2) + "\n")
