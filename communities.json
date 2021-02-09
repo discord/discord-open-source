@@ -768,7 +768,7 @@
     {
       "logo": "php-fig.svg",
       "title": "PHP-FIG",
-      "quote": "The PHP-FIG Discord server is the informal discussion medium for anything related to PSR and other PHP topics",
+      "quote": "The PHP-FIG Discord server is the informal discussion medium for anything related to PSRs and other PHP topics",
       "quoteSourceUrl": "https://www.php-fig.org/blog/2020/12/announcing-new-discord-server/",
       "inviteCode": "bJ6Sg8nRaF",
       "githubUrl": "https://github.com/php-fig/fig-standards/"
