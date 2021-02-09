@@ -773,13 +773,6 @@
       "githubUrl": "https://github.com/pmndrs"
     },
     {
-      "logo": "chakra-ui.svg",
-      "title": "Chakra UI",
-      "quote": "Discord helps us easily track feature requests, bug reports and weekly core meetings. It just makes our lives easier!",
-      "inviteCode": "dQHfcWF",
-      "githubUrl": "https://github.com/chakra-ui/chakra-ui"
-    },
-    {
       "logo": "blitzjs.svg",
       "title": "Blitz.js",
       "quote": "We moved from Slack to Discord and we love it! Especially the Voice rooms and the screen sharing feature!",
