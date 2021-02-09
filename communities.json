@@ -470,7 +470,7 @@
     {
       "logo": "nextjs.svg",
       "title": "Next.js",
-      "inviteCode": "yHzQeKFUcw",
+      "inviteCode": "nextjs",
       "quote": "Discord allowed Vercel to run Next.js Conference with over 40,000 attendees in 2020 (thank you, slow mode!).",
       "githubUrl": "https://github.com/vercel/next.js"
     },
