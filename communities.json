@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "vaadin.png",
+      "title": "Vaadin",
+      "quote": "The Vaadin community Discord server is a place where Vaadin developers and community members can help each other and discuss cool ideas.",
+      "inviteCode": "vaadin",
+      "githubUrl": "https://github.com/vaadin"
     }
   ]
 }
