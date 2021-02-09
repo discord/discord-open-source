@@ -1,7 +1,8 @@
+const fs = require('fs');
 const util = require('util');
 const chalk = require('chalk');
 const fetch = require('node-fetch');
-const discordCommunities = require('./communities.json');
+const discordCommunities = fs.readdirSync('./communities/');
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -29,7 +30,8 @@ async function validate() {
 
   const failedCommunities = [];
 
-  for (const community of discordCommunities.data) {
+  for (const communityFile of discordCommunities) {
+    const community = require('./communities/' + communityFile)
     console.log(`${community.title} (${community.inviteCode})`);
     try {
       await validateCommunity(community);

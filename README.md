@@ -24,7 +24,7 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
     * Logo should be monochromatic and white (check [the website](https://discord.com/open-source) for examples)
     * SVGs should contain only vector shapes — no raster graphics.
 
-3.  Add your community to [`communities.json`](https://github.com/discord/discord-open-source/blob/master/communities.json), like so:
+3.  Add your community in a new `json` file inside the `communities` directory, like so:
 
 ```json
 {

@@ -1,0 +1,8 @@
+{
+  "logo": "osu.svg",
+  "title": "osu!",
+  "quote": "All development discussion surrounding our game, the underlying game framework, community organisation and management happens on Discord. It is indispensible.",
+  "quoteSourceUrl": "https://osu.ppy.sh",
+  "inviteCode": "ppy",
+  "githubUrl": "https://github.com/ppy/osu"
+}
