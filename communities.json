@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "bloc.png",
+      "title": "Bloc",
+      "quote": "Discord is a place for the Dart and Flutter Community to ask, share, learn, and discuss anything related to the bloc library.",
+      "inviteCode": "Hc5KD3g",
+      "githubUrl": "https://github.com/felangel/bloc"
     }
   ]
 }
