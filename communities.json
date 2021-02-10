@@ -771,6 +771,14 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "callstack.svg",
+      "title": "Callstack",
+      "quote": "We are happy to be contributing to the React Native Community every day. We comment and discuss proposals, suggest improvements and maintain some of the modules that were extracted as a part of Lean Core effort.",
+      "quoteSourceUrl": "https://callstack.com/open-source/",
+      "inviteCode": "7UPphhKubm",
+      "githubUrl": "https://github.com/callstack"
     }
   ]
 }
