@@ -773,10 +773,10 @@
       "githubUrl": "https://github.com/pmndrs"
     },
     {
-      "logo": "vaadin.png",
+      "logo": "vaadin.svg",
       "title": "Vaadin",
       "quote": "The Vaadin community Discord server is a place where Vaadin developers and community members can help each other and discuss cool ideas.",
-      "inviteCode": "MYFq5RTbBn",
+      "inviteCode": "vaadin",
       "githubUrl": "https://github.com/vaadin"
     }
   ]
