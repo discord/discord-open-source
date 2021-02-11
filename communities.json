@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "ruffle.svg",
+      "title": "Ruffle",
+      "quote": "The Ruffle Discord is an amazing place for us to help new users get started, to coordinate development, to talk about our favorite games and animations; and to make the project more welcoming for everybody.",
+      "inviteCode": "ruffle",
+      "githubUrl": "https://github.com/ruffle-rs/ruffle"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
