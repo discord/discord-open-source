@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="40 40 166 166" width="72" height="72">
+  <mask id="a" x="-200%" y="-200%" width="400%" height="400%">
+    <rect x="-200%" y="-200%" width="400%" height="400%" fill="#fff"/>
+    <path d="M187.3 177.081s-26.51 5.63-48.23-6.72c-21.72-12.35-30.44-38.01-30.44-38.01s26.51-5.63 48.23 6.72c21.72 12.35 30.44 38.01 30.44 38.01z"/>
+  </mask>
+  <path d="M187.3 177.081s-26.51 5.63-48.23-6.72c-21.72-12.35-30.44-38.01-30.44-38.01s26.51-5.63 48.23 6.72c21.72 12.35 30.44 38.01 30.44 38.01z" fill="none" mask="url(#a)" vector-effect="non-scaling-stroke" stroke-width="6" stroke="#F30001" stroke-miterlimit="12"/>
+  <mask id="b" x="-200%" y="-200%" width="400%" height="400%">
+    <rect x="-200%" y="-200%" width="400%" height="400%" fill="#fff"/>
+    <path d="M121.8 66.961s18.13 20.14 18.29 45.13c.16 24.99-17.7 45.37-17.7 45.37s-18.13-20.14-18.29-45.13c-.16-24.99 17.7-45.37 17.7-45.37z"/>
+  </mask>
+  <path d="M121.8 66.961s18.13 20.14 18.29 45.13c.16 24.99-17.7 45.37-17.7 45.37s-18.13-20.14-18.29-45.13c-.16-24.99 17.7-45.37 17.7-45.37z" fill="none" mask="url(#b)" vector-effect="non-scaling-stroke" stroke-width="6" stroke="#F30001" stroke-miterlimit="10"/>
+  <mask id="c" x="-200%" y="-200%" width="400%" height="400%">
+    <rect x="-200%" y="-200%" width="400%" height="400%" fill="#fff"/>
+    <path d="M58.7 177.941s8.38-25.77 29.94-38.41c21.56-12.64 48.14-7.35 48.14-7.35s-8.38 25.77-29.94 38.41c-21.56 12.64-48.14 7.35-48.14 7.35z"/>
+  </mask>
+  <path d="M58.7 177.941s8.38-25.77 29.94-38.41c21.56-12.64 48.14-7.35 48.14-7.35s-8.38 25.77-29.94 38.41c-21.56 12.64-48.14 7.35-48.14 7.35z" fill="none" mask="url(#c)" vector-effect="non-scaling-stroke" stroke-width="6" stroke="#F30001" stroke-miterlimit="10"/>
+  <circle vector-effect="non-scaling-stroke" cx="122.83" cy="141.341" r="37.09" fill="none" stroke-width="3" stroke="#F30001" stroke-miterlimit="10"/>
+</svg>
