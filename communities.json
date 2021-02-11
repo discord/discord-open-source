@@ -771,6 +771,14 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "tauri.svg",
+      "title": "Tauri",
+      "quote": "Tauri uses Discord for real-time planning and debugging. It enables the project and the community to grow together!",
+      "quoteSourceUrl": "https://tauri.studio/",
+      "inviteCode": "SpmNs4S",
+      "githubUrl": "https://github.com/tauri-apps/tauri"
     }
   ]
 }
