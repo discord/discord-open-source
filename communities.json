@@ -771,6 +771,14 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "bentobox.png",
+      "title": "BentoBoxWorld",
+      "quote": "Something you want to know? Ask us a question in the Discussions or on our Discord server. We will be glad to help you.",
+      "quoteSourceUrl": "https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock.73261/",
+      "inviteCode": "bentobox",
+      "githubUrl": "https://github.com/bentoboxworld"
     }
   ]
 }
