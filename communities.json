@@ -771,6 +771,12 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "powershell.svg",
+      "title": "PowerShell",
+      "inviteCode": "Ju25cw6",
+      "githubUrl": "https://github.com/PowerShell"
     }
   ]
 }
