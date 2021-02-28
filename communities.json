@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "leagueoffvttdevs.svg",
+      "title": "League of Foundry VTT Devs",
+      "quote": "The League would have a much harder time collaborating, interacting with Foundry VTT users, and organizing hackathons without Discord.",
+      "inviteCode": "rvfEwX9B7R",
+      "githubUrl": "https://github.com/League-of-Foundry-Developers/"
     }
   ]
 }
