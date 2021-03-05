@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "cuberite.svg",
+      "title": "Cuberite",
+      "quote": "Cuberite uses Discord for real-time communication with other community members.",
+      "inviteCode": "76w5J6M",
+      "githubUrl": "https://github.com/cuberite/cuberite"
     }
   ]
 }
