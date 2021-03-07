@@ -264,7 +264,7 @@
       "logo": "vapor.svg",
       "title": "Vapor",
       "quote": "Creating modular server side software with Swift.",
-      "quoteSourceUrl": "http://vapor.codes",
+      "quoteSourceUrl": "https://vapor.codes",
       "inviteCode": "vapor",
       "githubUrl": "https://github.com/vapor/vapor"
     },
@@ -280,7 +280,7 @@
       "title": "Tachiyomi",
       "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
       "inviteCode": "tachiyomi",
-      "githubUrl": "https://github.com/inorichi/tachiyomi"
+      "githubUrl": "https://github.com/tachiyomiorg/tachiyomi"
     },
     {
       "logo": "luckperms.svg",
@@ -316,9 +316,9 @@
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
-      "quoteSourceUrl": "http://blink.sh",
+      "quoteSourceUrl": "https://blink.sh",
       "inviteCode": "ZTtMfvK",
-      "githubUrl": "http://github.com/blinksh/blink"
+      "githubUrl": "https://github.com/blinksh/blink"
     },
     {
       "logo": "vertcoin.png",
@@ -488,13 +488,6 @@
       "githubUrl": "https://github.com/hasura/graphql-engine"
     },
     {
-      "logo": "songoda.png",
-      "title": "Songoda",
-      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "songoda",
-      "githubUrl": "https://gitlab.com/Songoda"
-    },
-    {
       "logo": "emberjs.png",
       "title": "Ember.js",
       "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
@@ -533,7 +526,7 @@
       "logo": "mcMMO.svg",
       "title": "mcMMO",
       "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
-      "inviteCode": "bJ7pFS9",
+      "inviteCode": "mcmmo",
       "githubUrl": "https://github.com/mcMMO-Dev/mcMMO"
     },
     {
@@ -723,6 +716,13 @@
       "githubUrl": "https://github.com/ChatTriggers"
     },
     {
+      "logo": "scala.png",
+      "title": "Scala",
+      "quote": "The Scala Programming Language.",
+      "inviteCode": "scala",
+      "githubUrl": "https://github.com/scala"
+    },
+    {
       "logo": "electron.svg",
       "title": "Electron",
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
@@ -742,6 +742,35 @@
       "quote": "We certainly think it's the most convenient platform for our communications.",
       "inviteCode": "tokio",
       "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "testinglibrary.png",
+      "title": "Testing Library",
+      "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
+      "quoteSourceUrl": "https://testing-library.com/",
+      "inviteCode": "testing-library",
+      "githubUrl": "https://github.com/testing-library"
+    },
+    {
+      "logo": "starship.svg",
+      "title": "Starship",
+      "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
+      "inviteCode": "starship",
+      "githubUrl": "https://github.com/starship/starship"
+    },
+    {
+      "logo": "sentry.svg",
+      "title": "Sentry.io",
+      "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members.",
+      "inviteCode": "sentry",
+      "githubUrl": "https://github.com/getsentry/sentry"
+    },
+    {
+      "logo": "poimandres.svg",
+      "title": "Poimandres",
+      "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
+      "inviteCode": "poimandres",
+      "githubUrl": "https://github.com/pmndrs"
     },
     {
       "logo": "manim.svg",
