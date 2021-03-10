@@ -280,7 +280,7 @@
       "title": "Tachiyomi",
       "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
       "inviteCode": "tachiyomi",
-      "githubUrl": "https://github.com/inorichi/tachiyomi"
+      "githubUrl": "https://github.com/tachiyomiorg/tachiyomi"
     },
     {
       "logo": "luckperms.svg",
@@ -526,7 +526,7 @@
       "logo": "mcMMO.svg",
       "title": "mcMMO",
       "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
-      "inviteCode": "bJ7pFS9",
+      "inviteCode": "mcmmo",
       "githubUrl": "https://github.com/mcMMO-Dev/mcMMO"
     },
     {
@@ -749,6 +749,34 @@
       "quote": "We use Discord to plan new features and to communicate with users.",
       "inviteCode": "mr5hVu8",
       "githubUrl": "https://github.com/files-community/Files"
+    },
+      "logo": "testinglibrary.png",
+      "title": "Testing Library",
+      "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
+      "quoteSourceUrl": "https://testing-library.com/",
+      "inviteCode": "testing-library",
+      "githubUrl": "https://github.com/testing-library"
+    },
+    {
+      "logo": "starship.svg",
+      "title": "Starship",
+      "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
+      "inviteCode": "starship",
+      "githubUrl": "https://github.com/starship/starship"
+    },
+    {
+      "logo": "sentry.svg",
+      "title": "Sentry.io",
+      "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members.",
+      "inviteCode": "sentry",
+      "githubUrl": "https://github.com/getsentry/sentry"
+    },
+    {
+      "logo": "poimandres.svg",
+      "title": "Poimandres",
+      "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
+      "inviteCode": "poimandres",
+      "githubUrl": "https://github.com/pmndrs"
     }
   ]
 }
