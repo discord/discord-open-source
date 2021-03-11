@@ -16,6 +16,22 @@
       "githubUrl": "https://github.com/reactiflux"
     },
     {
+      "logo": "angular.svg",
+      "title": "Angular",
+      "quote": "Imagine asking a question and having GDEs and library authors answer, as well as awesome members of the @angular community! That's been my experience. Join the conversation if you haven't already.",
+      "quoteSourceUrl": "https://twitter.com/ub3rh4xor/status/1306601883088293889",
+      "inviteCode": "angular",
+      "githubUrl": "https://github.com/angular/angular"
+    },
+    {
+      "logo": "ngrx.svg",
+      "title": "NgRx",
+      "quote": "Have you joined the NgRx Discord yet? It's open to everyone! Come hang out and chat with team members and the community",
+      "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725",
+      "inviteCode": "cEbHasx",
+      "githubUrl": "https://github.com/ngrx/platform"
+    },
+    {
       "logo": "augur.svg",
       "title": "Augur",
       "quote": "Discord has many of the same features of Slack, however they... give us better community moderation tools. Security features such as link checking and validation is built in. Discord will allow us to grow our online community without any restrictions with our upcoming launch.",
@@ -165,12 +181,6 @@
       "githubUrl": "https://github.com/myst-lang/myst"
     },
     {
-      "logo": "nodecg.svg",
-      "title": "NodeCG",
-      "inviteCode": "NNmVz4x",
-      "githubUrl": "https://github.com/nodecg/nodecg"
-    },
-    {
       "logo": "linuxgsm.svg",
       "title": "LinuxGSM",
       "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup their own Linux game server. Making it easy for everyone to help and collaborate together.",
@@ -239,7 +249,7 @@
       "logo": "translucenttb.svg",
       "title": "TranslucentTB",
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
-      "inviteCode": "w95DGTK",
+      "inviteCode": "translucenttb",
       "githubUrl": "https://github.com/TranslucentTB"
     },
     {
@@ -254,7 +264,7 @@
       "logo": "vapor.svg",
       "title": "Vapor",
       "quote": "Creating modular server side software with Swift.",
-      "quoteSourceUrl": "http://vapor.codes",
+      "quoteSourceUrl": "https://vapor.codes",
       "inviteCode": "vapor",
       "githubUrl": "https://github.com/vapor/vapor"
     },
@@ -270,7 +280,7 @@
       "title": "Tachiyomi",
       "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
       "inviteCode": "tachiyomi",
-      "githubUrl": "https://github.com/inorichi/tachiyomi"
+      "githubUrl": "https://github.com/tachiyomiorg/tachiyomi"
     },
     {
       "logo": "luckperms.svg",
@@ -279,12 +289,6 @@
       "quoteSourceUrl": "https://luckperms.github.io/",
       "inviteCode": "W3FzxHA",
       "githubUrl": "https://github.com/lucko/LuckPerms"
-    },
-    {
-      "logo": "akromalogo.svg",
-      "title": "Akroma",
-      "inviteCode": "UJxkpSx",
-      "githubUrl": "https://github.com/akroma-project/akroma"
     },
     {
       "logo": "gitea.svg",
@@ -312,9 +316,9 @@
       "logo": "blink.png",
       "title": "Blink",
       "quote": "The PRO terminal for iOS. Fast mosh and ssh client. With a UNIX type command line and tools.",
-      "quoteSourceUrl": "http://blink.sh",
+      "quoteSourceUrl": "https://blink.sh",
       "inviteCode": "ZTtMfvK",
-      "githubUrl": "http://github.com/blinksh/blink"
+      "githubUrl": "https://github.com/blinksh/blink"
     },
     {
       "logo": "vertcoin.png",
@@ -484,13 +488,6 @@
       "githubUrl": "https://github.com/hasura/graphql-engine"
     },
     {
-      "logo": "songoda.png",
-      "title": "Songoda",
-      "quote": "Discord is the home to our community and where a good deal of our help and support takes place.",
-      "inviteCode": "songoda",
-      "githubUrl": "https://gitlab.com/Songoda"
-    },
-    {
       "logo": "emberjs.png",
       "title": "Ember.js",
       "quote": "Ember Community Discord — ask questions and chat with community members in real-time.",
@@ -526,17 +523,10 @@
       "githubUrl": "https://github.com/Modorganizer2"
     },
     {
-      "logo": "papermc.svg",
-      "title": "PaperMC",
-      "quote": "Discord has allowed us to be more interactive with our community in resolving issues, reviewing contributions, and answering questions.",
-      "inviteCode": "jG7JBu",
-      "githubUrl": "https://github.com/PaperMC"
-    },
-    {
       "logo": "mcMMO.svg",
       "title": "mcMMO",
       "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project.",
-      "inviteCode": "bJ7pFS9",
+      "inviteCode": "mcmmo",
       "githubUrl": "https://github.com/mcMMO-Dev/mcMMO"
     },
     {
@@ -705,11 +695,89 @@
       "githubUrl": "https://github.com/PlaceholderAPI"
     },
     {
+      "logo": "slimefun.svg",
+      "title": "Slimefun",
+      "quote": "We use Discord to engage with our global community by answering questions, taking suggestions and providing them with the latest news about the project.",
+      "inviteCode": "slimefun",
+      "githubUrl": "https://github.com/Slimefun"
+    },
+    {
       "logo": "deno.png",
       "title": "Deno",
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
       "inviteCode": "deno",
       "githubUrl": "https://github.com/denoland"
+    },
+    {
+      "logo": "appwrite.svg",
+      "title": "Appwrite",
+      "quote": "Discord allowed us to provide better support for our community and a centralized place to discuss and elaborate on future versions.",
+      "inviteCode": "GSeTUeA",
+      "githubUrl": "https://github.com/appwrite"
+    },
+    {
+      "logo": "chattriggers.svg",
+      "title": "ChatTriggers",
+      "quote": "Discord allows us to communicate effectively with our users, allowing for everyone to contribute to the development and progression of our open source project.",
+      "inviteCode": "chattriggers",
+      "githubUrl": "https://github.com/ChatTriggers"
+    },
+    {
+      "logo": "scala.png",
+      "title": "Scala",
+      "quote": "The Scala Programming Language.",
+      "inviteCode": "scala",
+      "githubUrl": "https://github.com/scala"
+    },
+    {
+      "logo": "electron.svg",
+      "title": "Electron",
+      "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
+      "inviteCode": "electron",
+      "githubUrl": "https://github.com/electron"
+    },
+    {
+      "logo": "jetbrains.png",
+      "title": "JetBrains",
+      "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help.",
+      "inviteCode": "jetbrains",
+      "githubUrl": "https://github.com/JetBrains"
+    },
+    {
+      "logo": "tokio.png",
+      "title": "Tokio",
+      "quote": "We certainly think it's the most convenient platform for our communications.",
+      "inviteCode": "tokio",
+      "githubUrl": "https://github.com/tokio-rs"
+    },
+    {
+      "logo": "testinglibrary.png",
+      "title": "Testing Library",
+      "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
+      "quoteSourceUrl": "https://testing-library.com/",
+      "inviteCode": "testing-library",
+      "githubUrl": "https://github.com/testing-library"
+    },
+    {
+      "logo": "starship.svg",
+      "title": "Starship",
+      "quote": "Discord has made it easy for provide support and collaborate on the development of Starship in real-time.",
+      "inviteCode": "starship",
+      "githubUrl": "https://github.com/starship/starship"
+    },
+    {
+      "logo": "sentry.svg",
+      "title": "Sentry.io",
+      "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members.",
+      "inviteCode": "sentry",
+      "githubUrl": "https://github.com/getsentry/sentry"
+    },
+    {
+      "logo": "poimandres.svg",
+      "title": "Poimandres",
+      "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
+      "inviteCode": "poimandres",
+      "githubUrl": "https://github.com/pmndrs"
     }
   ]
 }
