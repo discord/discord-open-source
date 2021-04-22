@@ -16,6 +16,14 @@
       "githubUrl": "https://github.com/reactiflux"
     },
     {
+      "logo": "thealgorithms.svg",
+      "title": "The Algorithms",
+      "quote": "Discord helped us build our community easier and faster. In Gitter, we have 500+ members, but barely nobody talks, it's like one channel only, and it doesn't feel so comfortable. With Discord, we have 30+ members: feels comfortable, has multiple channels, moderation tools, chat is quite active, and more! Our community is growing: people are often asking for help, contributing, talking, discussing, and more, all thanks to Discord.",
+      "quoteSourceUrl": "https://twitter.com/The_Algorithms/status/1379974445675204611",
+      "inviteCode": "c7MnfGFGa6",
+      "githubUrl": "https://github.com/TheAlgorithms"
+    },
+    {
       "logo": "angular.svg",
       "title": "Angular",
       "quote": "Imagine asking a question and having GDEs and library authors answer, as well as awesome members of the @angular community! That's been my experience. Join the conversation if you haven't already.",
