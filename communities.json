@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "melonloader.png",
+      "title": "MelonLoader",
+      "quote": "Discord allows us to have instant communication between not just the development team but also the project's many thousands of users and developers providing a platform from which we can properly provide support and information for the project.",
+      "inviteCode": "2wn3n2p",
+      "githubUrl": "https://github.com/LavaGang/MelonLoader"
     }
   ]
 }
