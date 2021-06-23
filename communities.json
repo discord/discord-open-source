@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "clamav.svg",
+      "title": "ClamAV",
+      "quote": "Discord supplements ClamAV's mailing list for real-time discussions. We find that Discord is a comfortable middle ground accessible to both the hobbyist crowd and professional community members.",
+      "inviteCode": "6vNAqWnVgw",
+      "githubUrl": "https://github.com/Cisco-Talos/clamav"
     }
   ]
 }
