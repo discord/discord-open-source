@@ -766,6 +766,12 @@
       "githubUrl": "https://github.com/getsentry/sentry"
     },
     {
+      "logo": "orange3.svg",
+      "title": "Orange Data Mining",
+      "inviteCode": "FWrfeXV",
+      "githubUrl": "https://github.com/biolab/orange3"
+    },
+    {
       "logo": "poimandres.svg",
       "title": "Poimandres",
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
