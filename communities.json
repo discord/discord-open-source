@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "dolt.svg",
+      "title": "Dolt",
+      "quote": "A SQL database that you can branch and merge is a lot to wrap your head around, so it's good that customers can ask us questionss about it. Discord connects us to our customers in real time, and has converted many curious experimenters to production Dolt users.",
+      "inviteCode": "RFwfYpu",
+      "githubUrl": "https://github.com/dolthub/dolt"
+    }
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
