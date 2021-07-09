@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "yarn-spinner.svg",
+      "title": "Yarn Spinner",
+      "quote": "Yarn Spinner's community wouldn't be anywhere near as vibrant and active without Discord, and we've had contributors join because of our server who otherwise wouldn't have found us.",
+      "inviteCode": "yarnspinner",
+      "githubUrl": "https://github.com/YarnSpinnerTool/YarnSpinner"
     }
   ]
 }
