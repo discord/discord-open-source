@@ -646,6 +646,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "ish.png",
+      "title": "iSH",
+      "quote": "A Linux shell, running on iOS.",
+      "inviteCode": "ish",
+      "githubUrl": "https://github.com/ish-app/ish"
+    },
+    {
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
