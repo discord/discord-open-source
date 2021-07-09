@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "emacs-lsp.png",
+      "title": "Emacs LSP",
+      "quote": "Emacs LSp uses Discord as main chat platform, for new users who seek for help or project discussions with community members.",
+      "inviteCode": "swuxy5AAgT",
+      "githubUrl": "https://github.com/emacs-lsp/lsp-mode/"
     }
   ]
 }
