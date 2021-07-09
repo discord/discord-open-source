@@ -646,6 +646,12 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "ytdl-core.png",
+      "title": "ytdl-core",
+      "quote": "We use Discord to help provide support for the project.",
+      "inviteCode": "nXxFnHR",
+      "githubUrl": "https://github.com/fent/node-ytdl-core"
+    },
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
