@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "bevy.svg",
+      "title": "Bevy",
+      "quote": "Discord gives the Bevy Engine community a place to discuss engine development, ask questions, and share projects.",
+      "inviteCode": "bevy",
+      "githubUrl": "https://github.com/bevyengine"
     }
   ]
 }
