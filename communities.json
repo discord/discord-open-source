@@ -196,6 +196,14 @@
       "githubUrl": "https://github.com/odota"
     },
     {
+      "logo": "openra.svg",
+      "title": "OpenRA",
+      "quote": "If you've got questions or you just feel like chatting, come on down to our community Discord.",
+      "quoteSourceUrl": "https://www.openra.net/community/",
+      "inviteCode": "FTySxfm",
+      "githubUrl": "https://github.com/OpenRA"
+    },
+    {
       "logo": "semux.svg",
       "title": "Semux",
       "quote": "Semux is an innovative high-performance blockchain platform powered by Semux BFT consensus algorithm.",
