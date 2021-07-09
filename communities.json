@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "marko.png",
+      "title": "Marko",
+      "quote": "Discord is the new home for the Marko community to ask questions, troubleshoot problems, and discuss all things Marko",
+      "inviteCode": "marko",
+      "githubUrl": "https://github.com/marko-js"
     }
   ]
 }
