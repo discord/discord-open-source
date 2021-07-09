@@ -646,6 +646,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "docsify.png",
+      "title": "Docsify",
+      "quote": "Discord helps us get in touch with contributors and users easily, and it's allowed to distinguish users to specific channels for help with their issues.",
+      "inviteCode": "docsify",
+      "githubUrl": "https://github.com/docsifyjs/docsify"
+    },
+    {
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
