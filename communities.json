@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "velocity.svg",
+      "title": "Velocity",
+      "quote": "It's difficult to think that Velocity would be the same vibrant, growing project if we didn't have Discord bringing our users into one place.",
+      "inviteCode": "8cB9Bgf",
+      "githubUrl": "https://github.com/VelocityPowered"
     }
   ]
 }
