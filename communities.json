@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "minetest.svg",
+      "title": "Minetest",
+      "quote": "Discord is one of the most accessible and popular chat platforms, making it perfect for the wider Minetest community to interact and collaborate with.",
+      "inviteCode": "minetest",
+      "githubUrl": "https://github.com/minetest"
     }
   ]
 }
