@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "natron.svg",
+      "title": "Natron",
+      "quote": "Natron has been using Discord as a method of sourcing immediate community feedback and troubleshooting.",
+      "inviteCode": "xWAQzPF",
+      "githubUrl": "https://github.com/natrongithub/natron"
     }
   ]
 }
