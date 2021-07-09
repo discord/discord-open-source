@@ -246,6 +246,14 @@
       "githubUrl": "https://fedoraproject.org"
     },
     {
+      "logo": "solar2d.svg",
+      "title": "Solar2D",
+      "quote": "Best game engine for creating 2D games is now fully open source. Solar2D is the official open source successor and of the popular Corona SDK game engine.",
+      "quoteSourceUrl": "https://solar2d.com/",
+      "inviteCode": "Ft44wc3",
+      "githubUrl": "https://github.com/coronalabs/corona"
+    },
+    {
       "logo": "translucenttb.svg",
       "title": "TranslucentTB",
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
