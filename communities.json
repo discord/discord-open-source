@@ -744,6 +744,13 @@
       "githubUrl": "https://github.com/tokio-rs"
     },
     {
+      "logo": "multitheftauto.png",
+      "title": "Multi Theft Auto",
+      "quote": "Discord is our preferred platform to communicate and gather with the various players, developers and scripters in the Multi Theft Auto community.",
+      "inviteCode": "mtasa",
+      "githubUrl": "https://github.com/multitheftauto"
+    },
+    {
       "logo": "testinglibrary.png",
       "title": "Testing Library",
       "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
