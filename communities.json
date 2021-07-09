@@ -111,9 +111,10 @@
       "githubUrl": "https://github.com/reactjs/redux"
     },
     {
-      "logo": "graphql.svg",
+      "logo": "GraphQL.svg",
       "title": "GraphQL",
-      "inviteCode": "ef2h6QM",
+      "quote": "Discord gives the GraphQL community a safe online space to discover, discuss, and advance GraphQL projects.",
+      "inviteCode": "graphql",
       "githubUrl": "https://github.com/graphql"
     },
     {
