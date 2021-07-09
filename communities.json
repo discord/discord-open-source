@@ -646,6 +646,12 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "bghddev.png",
+      "title": "BGHDDevelopment LLC",
+      "quote": "We use discord to communicate with thousands of our users and provide support to those who need help.",
+      "inviteCode": "UUrKmkB",
+      "githubUrl": "https://github.com/BGHDDevelopment?tab=repositories"
+    },
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
