@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "magma.png",
+      "title": "Magma",
+      "quote": "Discord gives our developers and staff a good place to help and support memebers, and gives instant updates to memebers when needed.",
+      "inviteCode": "magma",
+      "githubUrl": "https://github.com/magmafoundation/Magma"
     }
   ]
 }
