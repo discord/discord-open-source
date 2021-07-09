@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "144x144taplrecreate.png",
+      "title": "TapL Recreation Project",
+      "quote": "Discord has allowed us to help over 1500 people get our plugins working, thank you Discord!",
+      "invitecode": "TkRqzY6eGn",
+      "githubUrl": "https://github.com/TapL-Recreation-Project"
     }
   ]
 }
