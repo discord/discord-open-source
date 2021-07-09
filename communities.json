@@ -646,6 +646,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "gdevelop.png",
+      "title": "GDevelop",
+      "quote": "Discord is a place where our community can ask small questions and get fast answers, unlike a forum that requires waiting sometimes days for an answer.",
+      "inviteCode": "gdevelop",
+      "githubUrl": "https://github.com/4ian/GDevelop"
+    },
+    {
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
