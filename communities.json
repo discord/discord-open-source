@@ -646,6 +646,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "space-cloud.svg",
+      "title": "Space Cloud",
+      "quote": "We couldn't hope to be so close to our community without Discord. Its beautiful UI and amazing voice chat features make communications lively.",
+      "inviteCode": "RkGjW93",
+      "githubUrl": "https://github.com/spaceuptech/space-cloud"
+    },
+    {
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
