@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "skytils.png",
+      "title": "Skytils",
+      "quote": "Discord is an amazing platform for active discussion, project planning, and support community.",
+      "inviteCode": "skytils",
+      "githubUrl": "https://github.com/Skytils/SkytilsMod"
     }
   ]
 }
