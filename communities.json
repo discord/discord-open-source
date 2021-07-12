@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "fna.svg",
+      "title": "FNA",
+      "quote": "Discord has been particularly useful for centralizing communication and avoiding fragmentation - we can make ourselves available to all game developers, including those targeting private platforms like consoles, using a single server.",
+      "inviteCode": "fna-xna",
+      "githubUrl": "https://github.com/FNA-XNA"
     }
   ]
 }
