@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "theodinproject.png",
+      "title": "The Odin Project",
+      "quote": "We use Discord to connect users and contributors with project admins. The community and the support in the live chat in particular has always been a key factor that sets The Odin Project apart from other online courses and curriculums.",
+      "inviteCode": "hvqVr6d",
+      "githubUrl": "https://github.com/theodinproject"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
