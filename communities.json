@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "arduino.svg",
+      "title": "Arduino",
+      "quote": "Discord has drastically improved our community engagement, making it seamless to connect, give advice, and troubleshoot with our users.",
+      "inviteCode": "jQJFwW7",
+      "githubUrl": "https://github.com/arduino"
     }
   ]
 }
