@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
-    }
+    },
+    {
+      "logo": "bubbly-studio.png",
+      "title": "Bubbly Studio",
+      "quote": "Making thinks better in life",
+      "inviteCode": "D4sw9Wc8hH",
+      "githubUrl": "https://github.com/Bubbly-Studio"
+     }
   ]
 }
