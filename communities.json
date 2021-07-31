@@ -239,6 +239,13 @@
       "githubUrl": "https://github.com/openSUSE"
     },
     {
+      "logo": "verge.png",
+      "title": "VergeCurrency",
+      "quote": "Our Discord server is for Verge technical support, general blockchain/cryptocurrency discussions, and fun/gaming!",
+      "inviteCode": "vergecurrency",
+      "githubUrl": "https://github.com/vergecurrency/"
+    },
+    {
       "logo": "fedora.svg",
       "title": "Fedora",
       "quote": "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you do useful stuff with it. Our four foundations are Freedom, Friends, Features, and First. Discord is one of the networks that helps enable the Friends to connect.",
