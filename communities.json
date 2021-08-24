@@ -8,6 +8,14 @@
       "githubUrl": "https://github.com/yarnpkg"
     },
     {
+      "logo": "discord-resources-logo.svg",
+      "title": "Discord Resources",
+      "quote": "Imagine a place where people can hangout with friends, learn, create new stuff, grow, and be part of family.",
+      "quoteSourceUrl": "https://discord-res.ga",
+      "inviteCode": "CFkxpTbedH",
+      "githubUrl": "https://github.com/Discord-Resources"
+    },
+    {
       "logo": "reactiflux.svg",
       "title": "Reactiflux",
       "quote": "Discord is the easiest platform to join... All they need to do is provide a name. No permission granting, no password, no email confirmation... This is critically useful for us, and will make Reactiflux even more open and accessible.",
