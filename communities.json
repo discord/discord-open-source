@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "eddiehub.svg",
+      "title": "EddieHub",
+      "quote": "Discord helped us grow and make a stronger community. We provide support, warm welcomes, and help our users with their doubts.",
+      "inviteCode": "jZQs6Wu",
+      "githubUrl": "https://github.com/EddieHubCommunity"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
