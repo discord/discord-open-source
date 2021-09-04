@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "stitches.svg",
+      "title": "Stitches",
+      "quote": "We use Discord to ensure we're building the right tool. We engage with our community, chat about API ideas, offer support, collect feedback and give out early access. It's amazing!",
+      "inviteCode": "H4eG3Mk",
+      "githubUrl": "https://github.com/modulz/stitches"
     }
   ]
 }
