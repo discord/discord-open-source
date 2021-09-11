@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "osca.svg",
+      "title": "Open Source Community Africa",
+      "quote": "Open Source Community Africa uses Discord to communicate and engage with members of our team, contributors, chapters, programs, and global community.",
+      "inviteCode": "rHH4adWgsp",
+      "githubUrl": "https://github.com/oscafrica"
     }
   ]
 }
