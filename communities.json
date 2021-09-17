@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "fast.svg",
+      "title": "FAST",
+      "quote": "Discord has enabled FAST to build a vibrant community, bringing together designers and developers to explore design systems, the open web, and UX architecture.",
+      "inviteCode": "FcSNfg4",
+      "githubUrl": "https://github.com/microsoft/fast"
     }
   ]
 }
