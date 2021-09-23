@@ -9,8 +9,8 @@
     "fmt": "prettier --write communities.json"
   },
   "devDependencies": {
-    "chalk": "^2.4.2",
-    "node-fetch": "^2.3.0",
-    "prettier": "^1.16.1"
+    "chalk": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.3.2"
   }
 }
