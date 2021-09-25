@@ -48,7 +48,7 @@ async function validateCommunity(community, error, warn) {
     const response = await req.json();
 
     if (response.retry_after) {
-      console.log(chalk.yellow(`Rate limited for ${response.retry_after}s, waiting`));
+      console.warn(chalk.yellow(`Rate limited for ${response.retry_after}s, waiting`));
       await delay(response.retry_after * 1000);
       continue;
     }
@@ -74,27 +74,21 @@ async function validate() {
   const bar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
   bar.start(communities.length, 0);
 
-  const queue = [];
-  bar.on('redraw-pre', () => {
-    process.stderr.clearLine();
-    process.stderr.cursorTo(0);
-    queue.forEach((f) => {
-      f();
-    });
-    queue.length = 0;
-  });
-
   for (const community of communities) {
     const error = (message) => {
       process.exitCode = 1;
-      queue.push(() => {
-        console.log(`${chalk.red.bold(community.title)}: ${message}`);
-      });
+      if (process.stderr.clearLine) {
+        process.stderr.clearLine();
+        process.stderr.cursorTo(0);
+      }
+      console.error(`${chalk.red.bold(community.title)}: ${message}`);
     };
     const warn = (message) => {
-      queue.push(() => {
-        console.log(`${chalk.yellow.bold(community.title)}: ${message}`);
-      });
+      if (process.stderr.clearLine) {
+        process.stderr.clearLine();
+        process.stderr.cursorTo(0);
+      }
+      console.error(`${chalk.yellow.bold(community.title)}: ${message}`);
     };
 
     await validateCommunity(community, error, warn);
