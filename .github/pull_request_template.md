@@ -15,11 +15,11 @@ In order to make the review process faster, please take a few minutes to go thro
 
 - All of the following criteria must be met:
   - [ ] The `"title"` field has a commonly identifiable name of the open source project
+  - [ ] The `"inviteCode"` field contains a valid invite code (without the full URL), without an expiration date
+  - [ ] The `"githubUrl"` field is a fully specified and valid URL starting with `https://` and refers to a place where we can easily find your primary open source repositories. GitHub repo or organization URLs (or some equivalent) are acceptable (but not a cloning URL).
   - [ ] The `"logo"` field refers to the correct logo file (double-check the extension)
   - [ ] The `"quote"` field (if included, it is optional) is about your usage of Discord (and not about the open source project itself)
   - [ ] The `"quoteSourceUrl"` field (if included, it is optional) is a fully specified and valid URL starting with `https://`
-  - [ ] The `"inviteCode"` field contains a valid invite code (without the full URL), without an expiration date
-  - [ ] The `"githubUrl"` field is a fully specified and valid URL starting with `https://` and refers to a place where we can easily find your primary open source repositories. GitHub repo or organization URLs (or some equivalent) are acceptable (but not a cloning URL).
 
 ## Logo Review
 
