@@ -88,12 +88,12 @@ async function validate() {
     const error = (message) => {
       process.exitCode = 1;
       queue.push(() => {
-        console.error(`${chalk.red.bold(community.title)}: ${message}`);
+        console.log(`${chalk.red.bold(community.title)}: ${message}`);
       });
     };
     const warn = (message) => {
       queue.push(() => {
-        console.error(`${chalk.yellow.bold(community.title)}: ${message}`);
+        console.log(`${chalk.yellow.bold(community.title)}: ${message}`);
       });
     };
 
@@ -112,11 +112,14 @@ async function validate() {
     const a = sorted[i];
     const b = communities[i];
     if (a.title !== b.title) {
-      console.error(chalk.red(`${chalk.bold(b.title)} is not in alphabetical order!`));
+      console.log(chalk.red(`${chalk.bold(b.title)} is not in alphabetical order!`));
       process.exitCode = 1;
       break;
     }
   }
 }
 
-validate().catch(console.error);
+validate().catch((e) => {
+  process.exitCode = 1;
+  console.error(e);
+});
