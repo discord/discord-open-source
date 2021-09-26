@@ -572,6 +572,13 @@
       "quote": "Sentry uses Discord as secondary discussion platform besides its forums, and for staying in touch with the most active community members."
     },
     {
+      "title": "SFML",
+      "githubUrl": "https://github.com/SFML/SFML",
+      "inviteCode": "nr4X7Fh",
+      "logo": "sfml.svg",
+      "quote": "Discord has been central in connecting beginners of the Simple and Fast Multimedia Library (SFML) with experts, it has created friendships across the globe and people get to share their games and tools made with SFML."
+    },
+    {
       "title": "ShareX",
       "githubUrl": "https://github.com/ShareX/ShareX",
       "inviteCode": "ShareX",
