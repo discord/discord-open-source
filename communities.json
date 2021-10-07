@@ -159,6 +159,12 @@
       "logo": "flutter.png"
     },
     {
+      "title": "FModel",
+      "githubUrl": "https://github.com/iAmAsval/FModel",
+      "inviteCode": "fdkNYYQ",
+      "logo": "fmodel.png"
+    }
+    {
       "title": "Formik",
       "githubUrl": "https://github.com/jaredpalmer/formik",
       "inviteCode": "BYTdAgs",
