@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "chalk": "^4.1.1",
+    "cli-progress": "^3.9.1",
     "node-fetch": "^2.6.1",
     "prettier": "^2.3.2"
   }
