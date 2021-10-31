@@ -369,6 +369,14 @@
       "quoteSourceUrl": "https://twitter.com/ngrx_io/status/1306737080878366725"
     },
     {
+      "title": "Nuclear Music Player",
+      "githubUrl": "https://github.com/nukeop/nuclear",
+      "inviteCode": "JqPjKxE",
+      "logo": "nuclear.svg",
+      "quote": "Our server is where both users and contributors share their feedback and collaborate in real time. Discord allows us to build a fun, friendly, and helpful community with no friction.",
+      "quoteSourceUrl": "https://nuclear.js.org"
+    },
+    {
       "title": "Nuxt.js",
       "githubUrl": "https://github.com/nuxt/nuxt.js",
       "inviteCode": "ps2h6QT",
