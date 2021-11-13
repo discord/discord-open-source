@@ -38,6 +38,12 @@
       "quote": "Discord allowed us to provide better support for our community and a centralized place to discuss and elaborate on future versions."
     },
     {
+      "title": "Arduino",
+      "githubUrl": "https://github.com/arduino",
+      "inviteCode": "https://discord.gg/jQJFwW7",
+      "logo": "arduino.png"
+    }
+    {
       "title": "Augur",
       "githubUrl": "https://github.com/AugurProject",
       "inviteCode": "aNBTq55",
