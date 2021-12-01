@@ -109,7 +109,7 @@
     {
       "title": "Electron",
       "githubUrl": "https://github.com/electron",
-      "inviteCode": "electron",
+      "inviteCode": "electronjs",
       "logo": "electron.svg",
       "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that."
     },
