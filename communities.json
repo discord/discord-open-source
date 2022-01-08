@@ -9,12 +9,11 @@
       "quoteSourceUrl": "https://www.adafruit.com/about/"
     },
     {
-      "title": "return-youtube-dislike.png",
-      "githubUrl": "https://github.com/Anarios/return-youtube-dislike/",
-      "inviteCode": "mYnESY4Md5",
-      "logo": "return-youtube-dislike.png",
-      "quote": "Discord skyrocketed our project's development. With Discord, the community is able to coordinate, communicate, solve problems, help each other, find and fix issues at an outstanding rate. It's simple, reliable, and just amazing!",
-      "quoteSourceUrl": "https://returnyoutubedislike.com/"
+      "title": "AdonisJs",
+      "githubUrl": "https://github.com/adonisjs",
+      "inviteCode": "k5myGAz",
+      "logo": "adonis.svg",
+      "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community."
     },
     {
       "title": "Amethyst Game Engine",
@@ -512,12 +511,13 @@
       "logo": "relay.svg"
     },
     {
-      "title": "Return YouTube Dislike",
-      "inviteCode": "3uz8pbbrmM",
-      "githubUrl": "https://github.com/Anarios/return-youtube-dislike",
+      "title": "return-youtube-dislike.png",
+      "githubUrl": "https://github.com/Anarios/return-youtube-dislike/",
+      "inviteCode": "mYnESY4Md5",
       "logo": "return-youtube-dislike.png",
-      "quote": "Discord helps us by making communication with our users easy :)"
-    }
+      "quote": "Discord skyrocketed our project's development. With Discord, the community is able to coordinate, communicate, solve problems, help each other, find and fix issues at an outstanding rate. It's simple, reliable, and just amazing!",
+      "quoteSourceUrl": "https://returnyoutubedislike.com/"
+    },
     {
       "title": "Rigs of Rods",
       "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods",
