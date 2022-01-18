@@ -28,12 +28,12 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
 
 ```json
 {
-  "logo": "your-logo.svg",
   "title": "Name of your project",
-  "quote": "Optional: A short quote about how you use Discord for your project.",
-  "quoteSourceUrl": "Optional: An optional source for the quote.",
   "inviteCode": "The public invite code to your project, usually the code after https://discord.gg/",
-  "githubUrl": "The URL of your GitHub organization or project repository."
+  "githubUrl": "The URL of your GitHub organization or project repository.",
+  "logo": "your-logo.svg",
+  "quote": "Optional: A short quote about how you use Discord for your project.",
+  "quoteSourceUrl": "Optional: An optional source for the quote."
 }
 ```
 
