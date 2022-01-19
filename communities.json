@@ -425,6 +425,12 @@
       "quoteSourceUrl": "https://osu.ppy.sh"
     },
     {
+      "title": "Ouzel",
+      "githubUrl": "https://github.com/elnormous/ouzel",
+      "inviteCode": "4sWuJE8",
+      "logo": "ouzel.png"
+    },
+    {
       "title": "Panda3D",
       "githubUrl": "https://github.com/panda3d/panda3d",
       "inviteCode": "UyepRMm",
