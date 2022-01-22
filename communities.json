@@ -159,6 +159,13 @@
       "logo": "flutter.png"
     },
     {
+      "title": "FModel",
+      "githubUrl": "https://github.com/iAmAsval/FModel",
+      "inviteCode": "fdkNYYQ",
+      "logo": "fmodel.png",
+      "quote": "FModel uses discord as our main communication hub to our dedicated users about updates, new features, and discussing the future of the software itself."
+    },
+    {
       "title": "Formik",
       "githubUrl": "https://github.com/jaredpalmer/formik",
       "inviteCode": "BYTdAgs",
