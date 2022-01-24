@@ -546,6 +546,12 @@
       "quoteSourceUrl": "https://rpcs3.net/blog/2018/05/20/progress-report-april-2018/"
     },
     {
+      "title": "Ruby",
+      "inviteCode": "EnSevaRfct",
+      "githubUrl": "https://github.com/ruby/ruby",
+      "logo": "ruby.svg",
+    }
+    {
       "title": "Rupaya",
       "githubUrl": "https://github.com/rupaya-project/rupaya",
       "inviteCode": "tJ3UWSP",
