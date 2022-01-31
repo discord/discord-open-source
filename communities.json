@@ -710,6 +710,13 @@
       "logo": "vue-material.svg"
     },
     {
+      "logo": "Files.png",
+      "title": "Files",
+      "quote": "Building the best file manager for Windows.",
+      "inviteCode": "files",
+      "githubUrl": "https://github.com/files-community/Files"
+    },
+    {
       "title": "Vue.js",
       "githubUrl": "https://github.com/vuejs",
       "inviteCode": "HBherRA",
