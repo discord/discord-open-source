@@ -736,6 +736,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Strawberry Software Industries",
+      "inviteCode": "https://discord.gg/RPJNmN82GX ",
+      "githubUrl": "https://github.com/Strawberry-Software-Industries",
+      "logo": "strawberry.png",
+      "quote": "Strawberry Software Industries - High Quality Software!",
     }
   ]
 }
