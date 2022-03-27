@@ -384,6 +384,12 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location."
     },
     {
+      "title": "OpenBMC",
+      "githubUrl": "https://github.com/openbmc",
+      "inviteCode": "69Km47zH98",
+      "logo": "OpenBMC.svg"
+    },
+    {
       "title": "OpenDota",
       "githubUrl": "https://github.com/odota",
       "inviteCode": "0o5SQGbXuWCNDcaF",
