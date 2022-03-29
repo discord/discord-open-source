@@ -255,6 +255,13 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help."
     },
     {
+      "title": "Ladle",
+      "githubUrl": "https://github.com/tajo/ladle",
+      "inviteCode": "nhw4s3Qv",
+      "logo": "ladle.svg",
+      "quote": "Discord makes the communication easy and organized and creates a sense of community like no other tool."
+    },
+    {
       "title": "Laravel Tenancy",
       "githubUrl": "https://github.com/tenancy",
       "inviteCode": "53PWMwb",
