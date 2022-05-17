@@ -362,6 +362,13 @@
       "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers."
     },
     {
+      "title": "Netdata",
+      "githubUrl": "https://github.com/netdata/netdata",
+      "inviteCode": "kUk3nCmbtx",
+      "logo": "netdata.png",
+      "quote": "Discord enabled us to gather every troubleshooter and celebrate the culture of infrastructure monitoring."
+    },
+    {
       "title": "NgRx",
       "githubUrl": "https://github.com/ngrx/platform",
       "inviteCode": "cEbHasx",
