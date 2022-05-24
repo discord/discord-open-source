@@ -600,6 +600,13 @@
       "quoteSourceUrl": "https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6"
     },
     {
+      "title": "SkyClient",
+      "githubUrl": "https://github.com/SkyblockClient",
+      "inviteCode": "VPqDRWSHN2",
+      "logo": "skyclient.png",
+      "quote": "Discord lets us support our users and communicate with our community easily."
+    },
+    {
       "title": "Slimefun",
       "githubUrl": "https://github.com/Slimefun",
       "inviteCode": "slimefun",
