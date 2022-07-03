@@ -52,6 +52,12 @@
       "logo": "blink.png"
     },
     {
+      "title": "Bluecord",
+      "inviteCode": "bluephoenix",
+      "githubUrl": "https://github.com/Blue-Phoenix-org/bluecord",
+      "logo": "bluephoenix.png",
+    },
+    {
       "title": "Buefy",
       "githubUrl": "https://github.com/buefy/buefy",
       "inviteCode": "ZkdFJMr",
