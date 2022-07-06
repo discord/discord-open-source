@@ -159,6 +159,12 @@
       "logo": "flutter.png"
     },
     {
+      "title": "FoalTS",
+      "inviteCode": "QUrJv98",
+      "githubUrl": "https://github.com/FoalTS/foal",
+      "logo": "foal.svg"
+    },
+    {
       "title": "Formik",
       "githubUrl": "https://github.com/jaredpalmer/formik",
       "inviteCode": "BYTdAgs",
