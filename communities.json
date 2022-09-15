@@ -736,6 +736,14 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Gitpod",
+      "inviteCode": "gitpod",
+      "githubUrl": "https://github.com/gitpod-io/gitpod",
+      "logo": "gitpod.svg",
+      "quote": "Instead of maintaining an Discourse forum, we embraced discord as our main community platform to be the single source of truth for interacting with each other",
+      "quoteSourceUrl": "https://www.gitpod.io/blog/what-we-learned-growing-a-community-from-500-5000"
     }
   ]
 }
