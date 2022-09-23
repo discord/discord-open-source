@@ -736,6 +736,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Casbin",
+      "githubUrl": "https://github.com/casbin",
+      "inviteCode": "4CEyhrEB",
+      "logo": "casbin.png",
+      "quote": "Discord helped us get in touch with Casbin's contributors, and empowered them to become maintainers in the process."
     }
   ]
 }
