@@ -238,8 +238,7 @@
       "title": "Iced",
       "githubUrl": "https://github.com/iced-rs/iced",
       "inviteCode": "3xZJ65GAhd",
-      "logo": "iced.png",
-      "quote": "A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm."
+      "logo": "iced.png"
     },
     {
       "title": "IntellectualSites",
