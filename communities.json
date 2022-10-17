@@ -159,12 +159,6 @@
       "logo": "flutter.png"
     },
     {
-      "title": "Formik",
-      "githubUrl": "https://github.com/jaredpalmer/formik",
-      "inviteCode": "BYTdAgs",
-      "logo": "formik.png"
-    },
-    {
       "title": "Gatsby",
       "githubUrl": "https://github.com/gatsbyjs/gatsby",
       "inviteCode": "5tdtA9k",
