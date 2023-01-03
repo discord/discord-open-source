@@ -229,6 +229,12 @@
       "quoteSourceUrl": "https://home-assistant.io/blog/2017/07/03/home-assistant-is-moving-to-discord/"
     },
     {
+      "title": "Iced",
+      "githubUrl": "https://github.com/iced-rs/iced",
+      "inviteCode": "3xZJ65GAhd",
+      "logo": "iced.png"
+    },
+    {
       "title": "IntellectualSites",
       "githubUrl": "https://github.com/IntellectualSites",
       "inviteCode": "KxkjDVg",
