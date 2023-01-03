@@ -285,6 +285,13 @@
       "quote": "Discord is a great cross-platorm tool to support a community of gamers who want to setup their own Linux game server. Making it easy for everyone to help and collaborate together."
     },
     {
+      "title": "LibVLC",
+      "inviteCode": "3h3K3JF",
+      "githubUrl": "https://github.com/videolan",
+      "logo": "libvlc.svg",
+      "quote": "Discord is the home for the LibVLC developer community, all programming languages welcome!"
+    },
+    {
       "title": "LuckPerms",
       "githubUrl": "https://github.com/lucko/LuckPerms",
       "inviteCode": "W3FzxHA",
