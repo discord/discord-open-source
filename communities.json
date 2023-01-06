@@ -723,6 +723,12 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Kindelia",
+      "githubUrl": "https://github.com/Kindelia",
+      "inviteCode": "kindelia",
+      "logo": "kindelia.png"
     }
   ]
 }
