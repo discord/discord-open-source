@@ -637,6 +637,13 @@
       "quoteSourceUrl": "https://testing-library.com/"
     },
     {
+      "logo": "theme-ui.svg",
+      "title": "Theme UI",
+      "quote": "Discuss, get help, & talk to contributors of the Theme UI CSS-in-JS library.",
+      "inviteCode": "theme-ui",
+      "githubUrl": "https://github.com/system-ui/theme-ui"
+    },
+    {
       "title": "Tokio",
       "githubUrl": "https://github.com/tokio-rs",
       "inviteCode": "tokio",
