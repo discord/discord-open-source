@@ -724,5 +724,12 @@
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
     }
+    {
+      "title": "EyeTrackVR",
+      "inviteCode": "https://discord.gg/kkXYbVykZX",
+      "githubUrl": "https://github.com/RedHawk989/EyeTrackVR",
+      "logo": "ETVRlogo.png",
+      "quote": "We started as a small communtiy of VR developers with a passion in eye tracking. Discord helped us grow our community of contributors and users alike!",
+    }
   ]
 }
