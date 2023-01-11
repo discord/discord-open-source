@@ -505,6 +505,14 @@
       "logo": "relay.svg"
     },
     {
+      "title": "Return YouTube Dislike",
+      "githubUrl": "https://github.com/Anarios/return-youtube-dislike/",
+      "inviteCode": "3uz8pbbrmM",
+      "logo": "return-youtube-dislike.svg",
+      "quote": "Discord skyrocketed our project's development. With Discord, the community is able to coordinate, communicate, solve problems, help each other, find and fix issues at an outstanding rate. It's simple, reliable, and just amazing!",
+      "quoteSourceUrl": "https://returnyoutubedislike.com/"
+    },
+    {
       "title": "Rigs of Rods",
       "githubUrl": "https://github.com/RigsOfRods/rigs-of-rods",
       "inviteCode": "rigsofrods",
