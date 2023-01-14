@@ -236,6 +236,12 @@
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors."
     },
     {
+      "title": "is-a.dev",
+      "githubUrl": "https://github.com/is-a-dev/register",
+      "inviteCode": "kRqkZF4bXn",
+      "logo": "isadev.png",
+    },
+    {
       "title": "Jest",
       "githubUrl": "https://github.com/facebook/jest",
       "inviteCode": "reactiflux",
