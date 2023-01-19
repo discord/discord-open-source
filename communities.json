@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "dahliaOS",
+      "inviteCode": "7qVbJHR",
+      "githubUrl": "https://github.com/dahliaOS/",
+      "logo": "dahliaos.svg",
+      "quote": "Discord helped us build a community around dahliaOS, in a way that no other service could. We could provide software support immediately and notify members about updates, all from Discord."
     }
   ]
 }
