@@ -44,7 +44,7 @@ async function validateCommunity(community, error, warn) {
   await fs.stat(`./logos/${community.logo}`);
 
   while (true) {
-    const req = await fetch(`https://discord.com/api/v9/invites/${community.inviteCode}?with_expiration=1`);
+    const req = await fetch(`https://discord.com/api/v10/invites/${community.inviteCode}?with_expiration=1`);
     const response = await req.json();
 
     if (response.retry_after) {
