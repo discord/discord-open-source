@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
-    }
+    },
+     {
+      "title": "Evil Bees",
+      "githubUrl": "https://github.com/Evil-Bees",
+      "inviteCode": "rvxGNrFhNz",
+      "logo": "evil_bees.png",
+      "quote": "Evil Bees is all about project-based learning."
+    },
   ]
 }
