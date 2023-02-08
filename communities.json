@@ -637,6 +637,12 @@
       "quoteSourceUrl": "https://testing-library.com/"
     },
     {
+      "title": "Termux",
+      "githubUrl": "https://github.com/termux",
+      "inviteCode": "HXpF69X",
+      "logo": "termux.svg"
+    },
+    {
       "title": "Tokio",
       "githubUrl": "https://github.com/tokio-rs",
       "inviteCode": "tokio",
