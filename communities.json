@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "CrowdSec",
+      "inviteCode": "crowdsec",
+      "githubUrl": "https://github.com/crowdsecurity/",
+      "logo": "CrowdSec.png",
+      "quote": "Discord helped us grow a strong and active community by providing a support community and a place for users to hang out, learn and engage."
     }
   ]
 }
