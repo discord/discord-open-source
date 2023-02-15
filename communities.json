@@ -23,6 +23,15 @@
       "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth."
     },
     {
+      "logo": "thealgorithms.svg",
+      "title": "The Algorithms",
+      "quote": "Discord helped us build our community easier and faster. In Gitter, we have 500+ members, but barely nobody talks, it's like one channel only, and it doesn't feel so comfortable. With Discord, we have 30+ members: feels comfortable, has multiple channels, moderation tools, chat is quite active, and more! Our community is growing: people are often asking for help, contributing, talking, discussing, and more, all thanks to Discord.",
+      "quoteSourceUrl": "https://twitter.com/The_Algorithms/status/1379974445675204611",
+      "inviteCode": "c7MnfGFGa6",
+      "githubUrl": "https://github.com/TheAlgorithms"
+    },
+    {
+      "logo": "angular.svg",
       "title": "Angular",
       "githubUrl": "https://github.com/angular/angular",
       "inviteCode": "angular",
