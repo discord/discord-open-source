@@ -723,6 +723,7 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
-    }
+    },
+    { "logo": "dg.png", "title": "DungeonsGuide", "quote": "Discord is a friendly community which we can provide support for our minecraft modification, and can stay in touch with others", "inviteCode": "dg", "githubUrl": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide"}
   ]
 }
