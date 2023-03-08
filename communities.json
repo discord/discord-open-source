@@ -453,6 +453,12 @@
       "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!"
     },
     {
+      "title": "Qdrant",
+      "githubUrl": "https://github.com/qdrant/qdrant",
+      "inviteCode": "tdtYvXjC4h",
+      "logo": "qdrant.svg"
+    },
+    {
       "title": "Quasar",
       "githubUrl": "https://github.com/quasarframework/quasar",
       "inviteCode": "5TDhbDg",
