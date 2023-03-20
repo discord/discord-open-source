@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+      {
+      "title": "Kaspa",
+      "githubUrl": "https://github.com/kaspanet",
+      "inviteCode": "kS3SK5F36R",
+      "logo": "kaspa.png",
+      "quote": "Kaspa is the fastest, open-source, decentralized & fully scalable Layer-1 in the world."
     }
   ]
 }
