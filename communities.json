@@ -256,6 +256,12 @@
       "quote": "Discord connects Laravel developers all around the world to create amazing SaaS apps using the tenancy packages. As a communication tool, Discord has proven to be much more superior then any (professional) alternative."
     },
     {
+      "title": "Lawnchair",
+      "githubUrl": "https://github.com/LawnchairLauncher/lawnchair",
+      "inviteCode": "lawnchair-803299970169700402",
+      "logo": "lawnchair.svg"
+    },
+    {
       "title": "LBRY",
       "githubUrl": "https://github.com/lbryio/",
       "inviteCode": "Z3bERWA",
