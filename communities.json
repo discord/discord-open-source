@@ -718,20 +718,19 @@
       "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!"
     },
     {
+      "title": "Yarnpkg",
+      "githubUrl": "https://github.com/yarnpkg",
+      "inviteCode": "yarnpkg",
+      "logo": "yarnpkg.svg",
+      "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
       "title": "Kaspa",
       "githubUrl": "https://github.com/kaspanet",
       "inviteCode": "kS3SK5F36R",
       "logo": "KASPA.png",
       "quote": "Kaspa is the fastest, open-source, decentralized & fully scalable Layer-1 in the world.",
       "quoteSourceUrl": "https://kaspa.org/"
-    },
-    {
-      "title": "Yarnpkg",
-      "githubUrl": "https://github.com/yarnpkg",
-      "inviteCode": "yarnpkg",
-      "logo": "yarnpkg.svg",
-      "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
     }
   ]
 }
-
