@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Zephyr Project",
+      "githubUrl": "https://github.com/zephyrproject-rtos/zephyr",
+      "inviteCode": "zephyrproject",
+      "logo": "zephyr.svg",
+      "quote": "Discord has provided us with a real-time chat platform that is both easy to maintain and also offers unlimited history without any charges."
     }
   ]
 }
