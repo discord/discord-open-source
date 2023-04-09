@@ -697,6 +697,18 @@
       "logo": "vue-material.svg"
     },
     {
+      "logo": "svelte.svg",
+      "title": "Svelte",
+      "quote": "We use Discord to communicate with the wider community, answer questions as well as organise events.",
+      "inviteCode": "svelte",
+      "githubUrl": "https://github.com/sveltejs"
+    },
+    {
+      "logo": "electron.svg",
+      "title": "Electron",
+      "quote": "Discord provides an open and easy-to-moderate community space for the Electron community, allowing us to focus on engaging with our community rather than how to manage a community in tools that aren't explicitly built for that.",
+      "inviteCode": "electron",
+      "githubUrl": "https://github.com/electron"
       "title": "Vue.js",
       "githubUrl": "https://github.com/vuejs",
       "inviteCode": "HBherRA",
