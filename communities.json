@@ -107,6 +107,13 @@
       "quoteSourceUrl": "https://dvc.org/"
     },
     {
+      "title": "Dev Protocol",
+      "githubUrl": "https://github.com/dev-protocol",
+      "inviteCode": "VwJp4KM",
+      "logo": "devprtcl.png",
+      "quote": "We use Discord as a place to communicate with our community members. Using Discord has made grown our community and also encourage our members to become staff and keep contributing."
+    },
+    {
       "title": "Electron",
       "githubUrl": "https://github.com/electron",
       "inviteCode": "electronjs",
