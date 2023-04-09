@@ -691,6 +691,12 @@
       "quote": "Discord allows us to provide help to the users of our project without the hassle of IRC."
     },
     {
+      "title": "Vinix",
+      "inviteCode": "S5Nm6ZDU38",
+      "githubUrl": "https://github.com/vlang/vinix",
+      "logo": "vinix.png"
+    },
+    {
       "title": "Vue Material",
       "githubUrl": "https://github.com/vuematerial/vue-material",
       "inviteCode": "vuematerial",
