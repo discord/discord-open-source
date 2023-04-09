@@ -718,11 +718,25 @@
       "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!"
     },
     {
+      "logo": "poimandres.svg",
+      "title": "Poimandres",
+      "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
+      "inviteCode": "poimandres",
+      "githubUrl": "https://github.com/pmndrs"
+    },
+    {
       "title": "Yarnpkg",
       "githubUrl": "https://github.com/yarnpkg",
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "logo": "smui.png",
+      "title": "Svelte Material UI",
+      "quote": "Discord has been an amazing tool for helping out new and existing users of Svelte Material UI.",
+      "inviteCode": "aFzmkrmg9P",
+      "githubUrl": "https://github.com/hperrin/svelte-material-ui"
     }
   ]
 }
