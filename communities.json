@@ -249,6 +249,14 @@
       "quote": "The JetBrains Community Discord server allows for JetBrains plugin developers to connect and chat about the open-source IntelliJ platform, as well as for the global JetBrains IDE community to come together in a single safe space to chat, have a good time and get help."
     },
     {
+      "title": "Kaspa",
+      "githubUrl": "https://github.com/kaspanet/",
+      "inviteCode": "kS3SK5F36R",
+      "logo": "kas.png",
+      "quote": "Kaspa is the fastest, open-source, decentralized and fully scalable Layer-1 in the world.",
+      "quoteSourceUrl": "https://kaspa.org"
+    },
+    {
       "title": "Laravel Tenancy",
       "githubUrl": "https://github.com/tenancy",
       "inviteCode": "53PWMwb",
