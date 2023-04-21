@@ -31,6 +31,13 @@
       "quoteSourceUrl": "https://twitter.com/ub3rh4xor/status/1306601883088293889"
     },
     {
+  "title": "Appsmith",
+  "inviteCode": "ErhCwBCF",
+  "githubUrl": "https://github.com/appsmithorg/appsmith",
+  "logo": "appsmith-white-logo.svg",
+  "quote": "Home of the Appsmith community, and our primary support channel."
+    },
+    {
       "title": "Appwrite",
       "githubUrl": "https://github.com/appwrite",
       "inviteCode": "GSeTUeA",
