@@ -159,6 +159,14 @@
       "logo": "flutter.png"
     },
     {
+      "title": "FreeBSD",
+      "githubUrl": "https://github.com/freebsd",
+      "inviteCode": "freebsd",
+      "logo": "freebsd.svg",
+      "quote": "FreeBSD ❤️'s Discord for its zero-friction and fun approach to community building with flexible and powerful customisation options that enable us to create friendly, unique, and high-value experiences for our community members that can't be found anywhere else.",
+      "quoteSourceUrl": "https://wiki.freebsd.org/Discord"
+    },
+    {
       "title": "Gatsby",
       "githubUrl": "https://github.com/gatsbyjs/gatsby",
       "inviteCode": "5tdtA9k",
