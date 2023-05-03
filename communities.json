@@ -159,12 +159,6 @@
       "logo": "flutter.png"
     },
     {
-      "title": "Formik",
-      "githubUrl": "https://github.com/jaredpalmer/formik",
-      "inviteCode": "BYTdAgs",
-      "logo": "formik.png"
-    },
-    {
       "title": "FreeBSD",
       "githubUrl": "https://github.com/freebsd",
       "inviteCode": "freebsd",
@@ -321,6 +315,13 @@
       "quote": "Discord helped us organize the Luvit community and made it easier for people to find and contribute to Luvit"
     },
     {
+      "title": "Manim",
+      "githubUrl": "https://github.com/ManimCommunity/manim",
+      "inviteCode": "sgKMvMNhxh",
+      "logo": "manim.svg",
+      "quote": "The community around Manim utilizes Discord not only as a platform where users can get help with using the framework when creating their own manimations, but also for coordination of the development itself -- and of course, it is a great place to hang out and chat about mathematics and animations."
+    },
+    {
       "title": "mcMMO",
       "githubUrl": "https://github.com/mcMMO-Dev/mcMMO",
       "inviteCode": "mcmmo",
@@ -347,13 +348,6 @@
       "inviteCode": "rmFG7Wr",
       "logo": "mudlet_icon_minified_bw.png",
       "quote": "Using Discord to help Users connect to 1000's of MUD Servers and Mudlet developers to connect to each other..."
-    },
-    {
-      "title": "Myst Language",
-      "githubUrl": "https://github.com/myst-lang/myst",
-      "inviteCode": "8FtMeac",
-      "logo": "myst.svg",
-      "quote": "Discord is by far the best place to start a fledgling community like ours with an incredibly low barrier-to-entry and beautifully simple interface, but also providing powerful tools and infrastructure to grow massively (should that ever happen) without paywalls or having to switch services."
     },
     {
       "title": "NestJS",
@@ -509,7 +503,7 @@
     {
       "title": "Redux",
       "githubUrl": "https://github.com/reactjs/redux",
-      "inviteCode": "aD26W3P",
+      "inviteCode": "reactiflux",
       "logo": "redux.svg"
     },
     {
