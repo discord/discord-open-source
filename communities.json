@@ -1,5 +1,13 @@
 {
   "data": [
+    
+    {
+      "logo": "galacticraft.png",
+      "title": "Galacticraft",
+       "quote": "Discord has made a place in the community to talk about the mod, place for developers to converse, offer support and much more.",
+      "inviteCode": "NgKHWS3",
+      "githubUrl": "https://github.com/micdoodle8/Galacticraft"
+    },
     {
       "title": "Adafruit",
       "githubUrl": "https://github.com/adafruit",
