@@ -1,5 +1,12 @@
 {
   "data": [
+	{
+      "logo": "peercoin.png",
+      "title": "Peercoin",
+      "quote": "Discord helps us connect with our international community to interact and continue development on Peercoin and other subprojects.  We've used Discord for years, and couldn't imagine utilizing any other platform.",
+      "inviteCode": "XPxfwtG",
+      "githubUrl": "https://github.com/peercoin"
+    },
     {
       "title": "Adafruit",
       "githubUrl": "https://github.com/adafruit",
