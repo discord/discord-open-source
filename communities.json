@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "Macro Deck",
+      "githubUrl": "https://github.com/Macro-Deck-App",
+      "inviteCode": "macro-deck-869913729939148800",
+      "logo": "macr-deck.png",
+      "quote": "Macro Deck is a open source software which can be used as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more.",
+      "quoteSourceUrl": "https://macro-deck.app"
+    },
+    {
       "title": "Adafruit",
       "githubUrl": "https://github.com/adafruit",
       "inviteCode": "adafruit",
