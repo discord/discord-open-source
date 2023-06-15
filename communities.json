@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+        {
+    "title": "WyLan",
+    "inviteCode": "zK8k4yTxZP",
+    "githubUrl": "The URL of your GitHub organization or project repository.",
+    "logo": "yarnpkg.svg",
+    "quote": "We worked, We tried, We helped, This is the WyLan to help you connect to games easly"
     }
   ]
 }
