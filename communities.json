@@ -446,6 +446,14 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors."
     },
     {
+      "title": "Prisma",
+      "githubUrl": "https://github.com/prisma/prisma",
+      "inviteCode": "KQyTW2H5ca",
+      "logo": "prisma.svg",
+      "quote": "[Discord] encourages informal and lively discussions, and allows users to interact more freely with our developer advocacy and support team.",
+      "quoteSourceUrl": "https://www.prisma.io/blog/announcing-discord-1LiAOpS7lxV9"
+    },
+    {
       "title": "Pterodactyl",
       "githubUrl": "https://github.com/pterodactyl",
       "inviteCode": "QRDZvVm",
