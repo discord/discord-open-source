@@ -371,6 +371,14 @@
       "quote": "Discord helps the OBS Project maintainers, contributors, volunteers, users, and community at large keep in touch with one another in a single centralized and organized location."
     },
     {
+      "title": "Open Source Software PH",
+      "githubUrl": "https://github.com/OSSPhilippines",
+      "inviteCode": "open-source-software-ph-905496362982981723",
+      "logo": "ossph-logo.png",
+      "quote": "Discord helps OSSPH grow the open-source community in the Philippines. We talk about ideas, conduct meetings, perform tutorials, collaborate on projects, and have fun in our Discord server.",
+      "quoteSourceUrl": "Optional: An optional source for the quote."
+    },
+    {
       "title": "OpenDota",
       "githubUrl": "https://github.com/odota",
       "inviteCode": "0o5SQGbXuWCNDcaF",
