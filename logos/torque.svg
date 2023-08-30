@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="72px"
+	 height="72px" viewBox="0 0 420 420" enable-background="new 0 0 420 420" xml:space="preserve">
+<g id="Northwest">
+	<polygon fill="#989898" points="0,210 52.5,180 52.5,360 105,330 105,150 157.5,120 105,90 0,150 	"/>
+	<polygon fill="#989898" points="105,30 157.5,0 157.5,60 105,90 	"/>
+	<polygon fill="#989898" points="262.5,60 315,90 315,30 	"/>
+	<polygon fill="#989898" points="262.5,180 315,150 315,210 367.5,180 367.5,240 210,330 210,270 262.5,240 	"/>
+</g>
+<g id="northeast">
+	<polygon fill="#646464" points="105,330 157.5,360 157.5,300 210,330 210,270 157.5,240 157.5,180 105,150 	"/>
+	<polygon fill="#646464" points="157.5,60 315,150 315,210 367.5,180 367.5,60 315,30 315,90 157.5,0 	"/>
+	<polygon fill="#646464" points="367.5,180 367.5,240 420,270 420,210 	"/>
+	<polygon fill="#646464" points="262.5,360 315,390 315,330 	"/>
+</g>
+<g id="south">
+	<polygon fill="#4b4b4b" points="0,210 52.5,240 52.5,180 	"/>
+	<polygon fill="#4b4b4b" points="105,150 157.5,180 210,150 262.5,180 315,150 157.5,60 105,90 157.5,120 	"/>
+	<polygon fill="#4b4b4b" points="52.5,360 105,330 157.5,360 105,390 	"/>
+	<polygon fill="#4b4b4b" points="157.5,300 157.5,360 262.5,420 315,390 262.5,360 420,270 367.5,240 210,330 	"/>
+</g>
+</svg>
