@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Jetmaker",
+      "githubUrl": "https://github.com/gavinwei121/Jetmaker",
+      "inviteCode":"jm",
+      "logo": "jetmaker.png",
+      "quote": "Jetmaker is an end-to-end framework designed to simplify the development of distributed systems in Python"
+    },
+    {
       "title": "Adafruit",
       "githubUrl": "https://github.com/adafruit",
       "inviteCode": "adafruit",
