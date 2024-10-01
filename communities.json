@@ -453,6 +453,13 @@
       "quote": "We love Discord, we use it as our main platform for updates, support, and discussion...Discord even replaced our forums!"
     },
     {
+      "logo": "purpur.svg",
+      "title": "Purpur",
+      "quote": "Discord helps us to communicate effectively with those in need of support with our software while also letting collaborators easily work together.",
+      "inviteCode": "mtAAnkk",
+      "githubUrl": "https://github.com/PurpurMC/Purpur"
+    },
+    {
       "title": "Quasar",
       "githubUrl": "https://github.com/quasarframework/quasar",
       "inviteCode": "5TDhbDg",
