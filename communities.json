@@ -236,6 +236,14 @@
       "quote": "Discord provides us a platform to help people resolving issues, discussing possible features and communicating with other contributors."
     },
     {
+      "title": "JanusGraph",
+      "inviteCode": "5n4fjv4QAf",
+      "githubUrl": "https://github.com/JanusGraph",
+      "logo": "JanusGraph.svg",
+      "quote": "We have created a Discord Server for JanusGraph to better support interactive conversations.",
+      "quoteSourceUrl": "https://lists.lfaidata.foundation/g/janusgraph-users/message/6528"
+    },
+    {
       "title": "Jest",
       "githubUrl": "https://github.com/facebook/jest",
       "inviteCode": "reactiflux",
