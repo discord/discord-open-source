@@ -72,6 +72,13 @@
       "quote": "Discord allows us to communicate effectively with our users, allowing for everyone to contribute to the development and progression of our open source project."
     },
     {
+      "title": "ComfyUI",
+      "inviteCode": "comfyorg",
+      "githubUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "logo": "comfyui.png",
+      "quote": "Come to Discord for help, announcement on new features and general AI art discussions.",
+    },
+    {
       "title": "DenizenScript",
       "githubUrl": "https://github.com/DenizenScript",
       "inviteCode": "Q6pZGSR",
