@@ -23,6 +23,13 @@
       "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth."
     },
     {
+      "title": "Aloha",
+      "githubUrl": "https://github.com/thegalaxydev/Aloha",
+      "inviteCode": "S3skPhG2VT",
+      "logo": "Aloha.png",
+      "quote": "A Discord API library written in a language I know and love for a platform I use every day."
+    },
+    {
       "title": "Angular",
       "githubUrl": "https://github.com/angular/angular",
       "inviteCode": "angular",
