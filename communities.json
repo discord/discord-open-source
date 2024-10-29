@@ -139,6 +139,13 @@
       "logo": "ethergem.png"
     },
     {
+      "title": "faster_react",
+      "githubUrl": "https://github.com/hviana/faster_react",
+      "inviteCode": "faster_react",
+      "logo": "faster.png",
+      "quote": "Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments."
+    },
+    {
       "title": "Fedora",
       "githubUrl": "https://fedoraproject.org",
       "inviteCode": "fedora",
