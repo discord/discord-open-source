@@ -672,6 +672,13 @@
       "quoteSourceUrl": "https://getuikit.com"
     },
     {
+      "title": "Valibot",
+      "githubUrl": "https://github.com/fabian-hiller/valibot",
+      "inviteCode": "tkMjQACf2P",
+      "logo": "valibot.svg",
+      "quote": "Discord allows up to cordinate the development of Valibot and provide support to our users in real-time."
+    },
+    {
       "title": "Vapor",
       "githubUrl": "https://github.com/vapor/vapor",
       "inviteCode": "vapor",
