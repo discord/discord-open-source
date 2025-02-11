@@ -594,6 +594,13 @@
       "quote": "We use Discord to engage with our global community by answering questions, taking suggestions and providing them with the latest news about the project."
     },
     {
+      "title": "SpiceDB",
+      "inviteCode": "spicedb",
+      "githubUrl": "https://github.com/authzed/spicedb/",
+      "logo": "spiceDB.png",
+      "quote": "Connect with the SpiceDB community on Discord. We use Discord for collaboration, technical support, announcements and community building.",
+    },
+    {
       "title": "SpongePowered",
       "githubUrl": "https://github.com/spongepowered",
       "inviteCode": "PtaGRAs",
