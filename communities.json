@@ -723,6 +723,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "ZIO",
+      "githubUrl": "https://github.com/zio/zio",
+      "inviteCode": "2ccFBr4",
+      "logo": "zio.png",
+      "quote": "Discord brings the ZIO community together, enabling contributors and users to collaborate on building type-safe, composable, and purely functional applications in Scala."
     }
   ]
 }
