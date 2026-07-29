@@ -724,5 +724,12 @@
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
     }
+    {
+      "title": "Saikat",
+      "githubUrl": "https://github.com/mirzasaikatahmmed",
+      "inviteCode": "7xruPhKaMW",
+      "logo": "saikat.png",
+      "quote": "Discord is THE place where we plan the project, organize tournaments, help our users, and build a community."
+    }
   ]
 }
