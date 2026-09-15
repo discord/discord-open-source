@@ -16,13 +16,6 @@
       "quote": "Discord is a very powerful tool that has been made initially for gamers but that can be used for any corporation. It helps us being close to our community."
     },
     {
-      "title": "Amethyst Game Engine",
-      "githubUrl": "https://github.com/amethyst",
-      "inviteCode": "GnP5Whs",
-      "logo": "amethyst.png",
-      "quote": "Discord has made communicating with and helping our users in real time a breeze. Having a modern and easily accessible chat has been critical in our growth."
-    },
-    {
       "title": "Angular",
       "githubUrl": "https://github.com/angular/angular",
       "inviteCode": "angular",
@@ -50,12 +43,6 @@
       "githubUrl": "https://github.com/blinksh/blink",
       "inviteCode": "ZTtMfvK",
       "logo": "blink.png"
-    },
-    {
-      "title": "Buefy",
-      "githubUrl": "https://github.com/buefy/buefy",
-      "inviteCode": "ZkdFJMr",
-      "logo": "buefy.png"
     },
     {
       "title": "BuildCraft",
@@ -185,13 +172,6 @@
       "logo": "graphql.svg"
     },
     {
-      "title": "Gridcoin",
-      "githubUrl": "https://github.com/gridcoin-community",
-      "inviteCode": "jf9XX4a",
-      "logo": "gridcoin.png",
-      "quote": "Discord allows our community members to communicate directly with developers, and developers to easily engage with the community. We use it extensively for community support and interaction."
-    },
-    {
       "title": "Gridsome",
       "githubUrl": "https://github.com/gridsome/gridsome",
       "inviteCode": "daeay6n",
@@ -214,16 +194,9 @@
       "quoteSourceUrl": "https://blog.hasura.io/we-are-moving-to-discord-d01e4e6d31b0"
     },
     {
-      "title": "HearthSim",
-      "githubUrl": "https://github.com/HearthSim",
-      "inviteCode": "hearthsim",
-      "logo": "hearthsim.svg",
-      "quote": "Discord powers our open source developer community, our company's virtual offices and our end-user community. We're huge fans."
-    },
-    {
       "title": "Home Assistant",
       "githubUrl": "https://github.com/home-assistant",
-      "inviteCode": "c5DvZ4e",
+      "inviteCode": "home-assistant",
       "logo": "homeasst.svg",
       "quote": "It's allowed more integrated communication between the developers and users helping to fix issues faster as well as encourage new developers to join/contribute. The features of Discord allow us to better direct people to specific channels for help with their niche issues as well as quickly distribute information about any issues that may impact many users",
       "quoteSourceUrl": "https://home-assistant.io/blog/2017/07/03/home-assistant-is-moving-to-discord/"
@@ -307,25 +280,11 @@
       "quote": "Discord helped us organize the Luvit community and made it easier for people to find and contribute to Luvit"
     },
     {
-      "title": "Manim",
-      "githubUrl": "https://github.com/ManimCommunity/manim",
-      "inviteCode": "sgKMvMNhxh",
-      "logo": "manim.svg",
-      "quote": "The community around Manim utilizes Discord not only as a platform where users can get help with using the framework when creating their own manimations, but also for coordination of the development itself -- and of course, it is a great place to hang out and chat about mathematics and animations."
-    },
-    {
       "title": "mcMMO",
       "githubUrl": "https://github.com/mcMMO-Dev/mcMMO",
       "inviteCode": "mcmmo",
       "logo": "mcMMO.svg",
       "quote": "Discord is used extensively to provide support, listen to feedback, and improve the project."
-    },
-    {
-      "title": "MMD",
-      "githubUrl": "https://github.com/MinecraftModDevelopment",
-      "inviteCode": "EDbExcX",
-      "logo": "mmd.png",
-      "quote": "We use Discord to enable communication between hundreds of developers, and thousands of players who use their projects."
     },
     {
       "title": "Mod Organizer",
@@ -527,7 +486,7 @@
     {
       "title": "RPCS3",
       "githubUrl": "https://github.com/RPCS3/rpcs3",
-      "inviteCode": "a6zm2T8",
+      "inviteCode": "rpcs3",
       "logo": "rpcs3.svg",
       "quote": "RPCS3 relies heavily on Discord. With over 3,000 people online at nearly any given time and over 28,000 in the server, RPCS3’s Discord is one of the largest, if not the largest, for an open-source software project. In addition to providing a community where people can discuss RPCS3’s progress, games they play on it, and sharing screenshots from those games, it actively contributes to development by given the developers real-time chats where they can discuss with each other and with the public at large about how to fix issues.",
       "quoteSourceUrl": "https://rpcs3.net/blog/2018/05/20/progress-report-april-2018/"
@@ -713,7 +672,7 @@
     {
       "title": "Vuetify",
       "githubUrl": "https://github.com/vuetifyjs",
-      "inviteCode": "s93b7Fv",
+      "inviteCode": "vuetify",
       "logo": "vuetify.svg",
       "quote": "We started using Discord as we opened up Patreon. It integrated flawlessly and provided us with a platform to help recognize our contributors. Thank you!"
     },

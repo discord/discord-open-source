@@ -1,6 +1,8 @@
 # Open Source Communities on Discord
 
-This is the source list of OSS communities that use and live on Discord. It is used to populate the list at https://discord.com/open-source.
+This is a maintained source list of open-source communities that use and live on Discord. It is used to populate the list at https://discord.com/open-source.
+
+The data contract remains compatible with the original Discord directory: `communities.json` contains a top-level `data` array with one record per community. This repository is community-maintained and is not an official Discord product.
 
 Thanks for being part of Discord!
 
@@ -14,9 +16,26 @@ At this time, we are accepting communities which meet the following criteria:
 
 Do you own a large bot? Take a look at [verifying it](https://support.discord.com/hc/en-us/articles/360040720412).
 
+## Local checks
+
+Install Node.js 22 or newer, then run:
+
+```sh
+npm ci
+npm test
+```
+
+The normal test suite is deterministic and does not require network access. Maintainers can run the live Discord invite checks separately:
+
+```sh
+npm run validate-online
+```
+
+Live checks use timeouts and bounded retries. A temporary Discord outage should be investigated before merging, but does not make pull-request checks flaky.
+
 ## Adding your project
 
-1.  Fork the repo
+1.  Fork the repo and create a branch
 2.  Add your logo into [`/logos`](https://github.com/discord/discord-open-source/tree/master/logos)
 
     * Logo dimensions should be either `72x72` for SVG or `144x144` for PNG.
@@ -37,4 +56,7 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
 }
 ```
 
-4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
+4.  Run `npm test` and confirm that your invite is permanent and publicly joinable.
+5.  Submit a PR with your change. Approved entries may be displayed on Discord's [open source page](https://discord.com/open-source).
+
+Please keep entries alphabetized by `title`. A project may share an invite code with another project when both communities intentionally use the same server. Logos should be transparent, monochromatic white artwork: SVGs should be 72x72 and PNGs should be 144x144.
