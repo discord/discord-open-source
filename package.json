@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "main": "communities.json",
   "scripts": {
-    "test": "npm run fmt-check && npm run validate-codes",
+    "test": "npm run fmt-check && npm run validate-codes && npm run unit-test",
     "validate-codes": "node ./validate.js",
-    "fmt-check": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
-    "fmt": "prettier --write communities.json"
+    "validate-online": "node ./validate.js --online",
+    "unit-test": "node --test",
+    "fmt-check": "prettier --check communities.json validate.js test/*.js",
+    "fmt": "prettier --write communities.json validate.js test/*.js"
   },
-  "devDependencies": {
-    "chalk": "^4.1.1",
-    "cli-progress": "^3.9.1",
-    "node-fetch": "^2.6.1",
-    "prettier": "^2.3.2"
-  }
+  "devDependencies": { "prettier": "^3.6.2" }
 }
